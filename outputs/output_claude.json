@@ -1,0 +1,8426 @@
+[
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 72.7,
+    "bogey": 96.9,
+    "slope": 130
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.7,
+    "bogey": 94.4,
+    "slope": 128
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 67.9,
+    "bogey": 89.9,
+    "slope": 118
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 66.3,
+    "bogey": 87.4,
+    "slope": 114
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "White",
+    "gender": "male",
+    "rating": 64.3,
+    "bogey": 84.1,
+    "slope": 107
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "White/Silver Combo",
+    "gender": "male",
+    "rating": 62.8,
+    "bogey": 82.1,
+    "slope": 104
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 61.6,
+    "bogey": 80.7,
+    "slope": 103
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 79.2,
+    "bogey": 112.6,
+    "slope": 142
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 76.9,
+    "bogey": 109.1,
+    "slope": 137
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 73.3,
+    "bogey": 103.8,
+    "slope": 130
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Blue/White Combo",
+    "gender": "female",
+    "rating": 71.5,
+    "bogey": 100.8,
+    "slope": 125
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "White",
+    "gender": "female",
+    "rating": 69.0,
+    "bogey": 97.3,
+    "slope": 120
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "White/Silver Combo",
+    "gender": "female",
+    "rating": 67.1,
+    "bogey": 95.1,
+    "slope": 119
+  },
+  {
+    "course": "Bloomington CC",
+    "courseId": "7176",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 65.5,
+    "bogey": 91.9,
+    "slope": 112
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 72.6,
+    "bogey": 99.1,
+    "slope": 143
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 92.8,
+    "slope": 128
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.1,
+    "bogey": 108.3,
+    "slope": 145
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 75.2,
+    "bogey": 102.6,
+    "slope": 148
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 64.1,
+    "bogey": 85.9,
+    "slope": 118
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 78.3,
+    "bogey": 114.8,
+    "slope": 152
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 81.5,
+    "bogey": 119.5,
+    "slope": 154
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.8,
+    "bogey": 96.8,
+    "slope": 123
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 70.6,
+    "bogey": 95.7,
+    "slope": 135
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "White/Red Combo",
+    "gender": "male",
+    "rating": 66.7,
+    "bogey": 89.6,
+    "slope": 123
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "Blue/White Combo",
+    "gender": "female",
+    "rating": 76.0,
+    "bogey": 111.0,
+    "slope": 148
+  },
+  {
+    "course": "Coral Canyon GC",
+    "courseId": "7178",
+    "tee": "White/Red Combo",
+    "gender": "female",
+    "rating": 71.3,
+    "bogey": 102.9,
+    "slope": 134
+  },
+  {
+    "course": "Dixie Red Hills",
+    "courseId": "7180",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 66.4,
+    "bogey": 87.6,
+    "slope": 114
+  },
+  {
+    "course": "Dixie Red Hills",
+    "courseId": "7180",
+    "tee": "White",
+    "gender": "male",
+    "rating": 63.8,
+    "bogey": 83.8,
+    "slope": 108
+  },
+  {
+    "course": "Dixie Red Hills",
+    "courseId": "7180",
+    "tee": "White",
+    "gender": "female",
+    "rating": 68.2,
+    "bogey": 96.8,
+    "slope": 121
+  },
+  {
+    "course": "Dixie Red Hills",
+    "courseId": "7180",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 64.8,
+    "bogey": 89.6,
+    "slope": 105
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "II",
+    "gender": "male",
+    "rating": 71.2,
+    "bogey": 96.2,
+    "slope": 135
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "III",
+    "gender": "male",
+    "rating": 68.8,
+    "bogey": 92.8,
+    "slope": 129
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "IV",
+    "gender": "male",
+    "rating": 66.6,
+    "bogey": 88.4,
+    "slope": 117
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "V",
+    "gender": "male",
+    "rating": 63.7,
+    "bogey": 83.5,
+    "slope": 107
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "IV",
+    "gender": "female",
+    "rating": 72.1,
+    "bogey": 103.3,
+    "slope": 132
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "V",
+    "gender": "female",
+    "rating": 68.4,
+    "bogey": 97.1,
+    "slope": 122
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "III/IV Combo",
+    "gender": "male",
+    "rating": 67.6,
+    "bogey": 90.6,
+    "slope": 124
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "II/III Combo",
+    "gender": "male",
+    "rating": 69.6,
+    "bogey": 93.9,
+    "slope": 131
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "IV/V Combo",
+    "gender": "female",
+    "rating": 69.6,
+    "bogey": 99.5,
+    "slope": 127
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "IV/V Combo",
+    "gender": "male",
+    "rating": 65.0,
+    "bogey": 85.7,
+    "slope": 112
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "II",
+    "gender": "female",
+    "rating": 77.6,
+    "bogey": 111.5,
+    "slope": 144
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "III",
+    "gender": "female",
+    "rating": 74.8,
+    "bogey": 107.5,
+    "slope": 139
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "I",
+    "gender": "female",
+    "rating": 80.3,
+    "bogey": 115.7,
+    "slope": 150
+  },
+  {
+    "course": "Entrada CC",
+    "courseId": "7182",
+    "tee": "I",
+    "gender": "male",
+    "rating": 73.5,
+    "bogey": 99.3,
+    "slope": 139
+  },
+  {
+    "course": "Green Spring GC",
+    "courseId": "7184",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 72.7,
+    "bogey": 97.2,
+    "slope": 132
+  },
+  {
+    "course": "Green Spring GC",
+    "courseId": "7184",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.8,
+    "bogey": 93.7,
+    "slope": 129
+  },
+  {
+    "course": "Green Spring GC",
+    "courseId": "7184",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 66.3,
+    "bogey": 87.7,
+    "slope": 115
+  },
+  {
+    "course": "Green Spring GC",
+    "courseId": "7184",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 71.4,
+    "bogey": 101.9,
+    "slope": 129
+  },
+  {
+    "course": "Green Spring GC",
+    "courseId": "7184",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.3,
+    "bogey": 94.6,
+    "slope": 116
+  },
+  {
+    "course": "Green Spring GC",
+    "courseId": "7184",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 78.5,
+    "bogey": 112.6,
+    "slope": 145
+  },
+  {
+    "course": "Green Spring GC",
+    "courseId": "7184",
+    "tee": "White",
+    "gender": "female",
+    "rating": 75.7,
+    "bogey": 108.3,
+    "slope": 139
+  },
+  {
+    "course": "Green Spring GC",
+    "courseId": "7184",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.9,
+    "bogey": 83.0,
+    "slope": 108
+  },
+  {
+    "course": "Sand Hollow Resort",
+    "courseId": "7186",
+    "tee": "Green (Links)",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 91.6,
+    "slope": 122
+  },
+  {
+    "course": "Sand Hollow Resort",
+    "courseId": "7186",
+    "tee": "Yellow (Links)",
+    "gender": "male",
+    "rating": 71.4,
+    "bogey": 96.4,
+    "slope": 135
+  },
+  {
+    "course": "Sand Hollow Resort",
+    "courseId": "7186",
+    "tee": "Blue (Links)",
+    "gender": "female",
+    "rating": 69.2,
+    "bogey": 96.8,
+    "slope": 117
+  },
+  {
+    "course": "Sand Hollow Resort",
+    "courseId": "7186",
+    "tee": "Blue (Links)",
+    "gender": "male",
+    "rating": 63.8,
+    "bogey": 84.0,
+    "slope": 109
+  },
+  {
+    "course": "Sand Hollow Resort",
+    "courseId": "7186",
+    "tee": "Green (Links)",
+    "gender": "female",
+    "rating": 74.0,
+    "bogey": 107.0,
+    "slope": 140
+  },
+  {
+    "course": "Sand Hollow Resort",
+    "courseId": "7186",
+    "tee": "Green/Blue Combo (Links)",
+    "gender": "female",
+    "rating": 72.0,
+    "bogey": 103.6,
+    "slope": 134
+  },
+  {
+    "course": "Sand Hollow Resort",
+    "courseId": "7186",
+    "tee": "Green/Blue Combo (Links)",
+    "gender": "male",
+    "rating": 67.2,
+    "bogey": 88.6,
+    "slope": 115
+  },
+  {
+    "course": "Sand Hollow Resort",
+    "courseId": "7186",
+    "tee": "Red (Links)",
+    "gender": "male",
+    "rating": 74.2,
+    "bogey": 100.0,
+    "slope": 139
+  },
+  {
+    "course": "Sky Mountain GC",
+    "courseId": "7188",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.1,
+    "bogey": 95.3,
+    "slope": 130
+  },
+  {
+    "course": "Sky Mountain GC",
+    "courseId": "7188",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.2,
+    "bogey": 106.5,
+    "slope": 137
+  },
+  {
+    "course": "Sky Mountain GC",
+    "courseId": "7188",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.6,
+    "bogey": 91.6,
+    "slope": 124
+  },
+  {
+    "course": "Sky Mountain GC",
+    "courseId": "7188",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 68.8,
+    "bogey": 97.9,
+    "slope": 124
+  },
+  {
+    "course": "Sky Mountain GC",
+    "courseId": "7188",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 77.0,
+    "bogey": 110.7,
+    "slope": 143
+  },
+  {
+    "course": "Sky Mountain GC",
+    "courseId": "7188",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 64.2,
+    "bogey": 85.6,
+    "slope": 115
+  },
+  {
+    "course": "Southgate GC",
+    "courseId": "7190",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.0,
+    "bogey": 94.0,
+    "slope": 129
+  },
+  {
+    "course": "Southgate GC",
+    "courseId": "7190",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.1,
+    "bogey": 91.0,
+    "slope": 124
+  },
+  {
+    "course": "Southgate GC",
+    "courseId": "7190",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.5,
+    "bogey": 87.1,
+    "slope": 116
+  },
+  {
+    "course": "Southgate GC",
+    "courseId": "7190",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.2,
+    "bogey": 82.7,
+    "slope": 110
+  },
+  {
+    "course": "Southgate GC",
+    "courseId": "7190",
+    "tee": "White",
+    "gender": "female",
+    "rating": 70.1,
+    "bogey": 100.2,
+    "slope": 128
+  },
+  {
+    "course": "Southgate GC",
+    "courseId": "7190",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 65.9,
+    "bogey": 92.9,
+    "slope": 115
+  },
+  {
+    "course": "St George GC",
+    "courseId": "7192",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.1,
+    "bogey": 94.1,
+    "slope": 124
+  },
+  {
+    "course": "St George GC",
+    "courseId": "7192",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.3,
+    "bogey": 103.5,
+    "slope": 128
+  },
+  {
+    "course": "St George GC",
+    "courseId": "7192",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 73.9,
+    "bogey": 97.8,
+    "slope": 129
+  },
+  {
+    "course": "St George GC",
+    "courseId": "7192",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.5,
+    "bogey": 88.8,
+    "slope": 115
+  },
+  {
+    "course": "St George GC",
+    "courseId": "7192",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.6,
+    "bogey": 82.0,
+    "slope": 99
+  },
+  {
+    "course": "St George GC",
+    "courseId": "7192",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.1,
+    "bogey": 95.5,
+    "slope": 116
+  },
+  {
+    "course": "St George GC",
+    "courseId": "7192",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 77.2,
+    "bogey": 109.3,
+    "slope": 136
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Orange",
+    "gender": "female",
+    "rating": 69.0,
+    "bogey": 97.5,
+    "slope": 121
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.9,
+    "bogey": 103.7,
+    "slope": 131
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 71.3,
+    "bogey": 95.2,
+    "slope": 129
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 73.3,
+    "bogey": 97.8,
+    "slope": 132
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.2,
+    "bogey": 92.3,
+    "slope": 124
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.5,
+    "bogey": 89.7,
+    "slope": 120
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Orange",
+    "gender": "male",
+    "rating": 64.2,
+    "bogey": 85.0,
+    "slope": 112
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 64.8,
+    "bogey": 91.1,
+    "slope": 112
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 74.9,
+    "bogey": 106.7,
+    "slope": 135
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 77.2,
+    "bogey": 110.1,
+    "slope": 140
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 79.5,
+    "bogey": 113.6,
+    "slope": 145
+  },
+  {
+    "course": "Sun River GC",
+    "courseId": "7194",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 61.6,
+    "bogey": 81.5,
+    "slope": 107
+  },
+  {
+    "course": "Sunbrook GC",
+    "courseId": "7196",
+    "tee": "Silver (PT/WB)",
+    "gender": "male",
+    "rating": 70.2,
+    "bogey": 93.5,
+    "slope": 126
+  },
+  {
+    "course": "Sunbrook GC",
+    "courseId": "7196",
+    "tee": "Bronze (PT/WB)",
+    "gender": "female",
+    "rating": 71.1,
+    "bogey": 101.1,
+    "slope": 128
+  },
+  {
+    "course": "Sunbrook GC",
+    "courseId": "7196",
+    "tee": "Silver (PT/WB)",
+    "gender": "female",
+    "rating": 74.9,
+    "bogey": 108.0,
+    "slope": 141
+  },
+  {
+    "course": "Sunbrook GC",
+    "courseId": "7196",
+    "tee": "Black (PT/WB)",
+    "gender": "male",
+    "rating": 73.9,
+    "bogey": 98.6,
+    "slope": 133
+  },
+  {
+    "course": "Sunbrook GC",
+    "courseId": "7196",
+    "tee": "Gold (PT/WB)",
+    "gender": "male",
+    "rating": 71.9,
+    "bogey": 95.8,
+    "slope": 129
+  },
+  {
+    "course": "Sunbrook GC",
+    "courseId": "7196",
+    "tee": "Bronze (PT/WB)",
+    "gender": "male",
+    "rating": 66.1,
+    "bogey": 87.7,
+    "slope": 116
+  },
+  {
+    "course": "Sunbrook GC",
+    "courseId": "7196",
+    "tee": "Silver/Bronze Combo (PT/WB)",
+    "gender": "male",
+    "rating": 67.9,
+    "bogey": 89.8,
+    "slope": 118
+  },
+  {
+    "course": "Sunbrook GC",
+    "courseId": "7196",
+    "tee": "Silver/Bronze Combo (PT/WB)",
+    "gender": "female",
+    "rating": 72.5,
+    "bogey": 104.1,
+    "slope": 134
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.1,
+    "bogey": 94.7,
+    "slope": 127
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 91.2,
+    "slope": 120
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "White/Silver Combo",
+    "gender": "male",
+    "rating": 67.9,
+    "bogey": 89.5,
+    "slope": 117
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "White/Silver Combo",
+    "gender": "female",
+    "rating": 73.3,
+    "bogey": 102.9,
+    "slope": 126
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 71.8,
+    "bogey": 100.5,
+    "slope": 122
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.1,
+    "bogey": 95.9,
+    "slope": 118
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 66.3,
+    "bogey": 87.9,
+    "slope": 116
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.5,
+    "bogey": 83.1,
+    "slope": 106
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 77.2,
+    "bogey": 108.7,
+    "slope": 134
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.6,
+    "bogey": 104.8,
+    "slope": 128
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 80.0,
+    "bogey": 112.9,
+    "slope": 140
+  },
+  {
+    "course": "The Ledges",
+    "courseId": "7198",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.4,
+    "bogey": 97.8,
+    "slope": 131
+  },
+  {
+    "course": "Bear Lake West",
+    "courseId": "25321",
+    "tee": "White",
+    "gender": "male",
+    "rating": 62.2,
+    "bogey": 82.4,
+    "slope": 109
+  },
+  {
+    "course": "Bear Lake West",
+    "courseId": "25321",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 63.8,
+    "bogey": 85.0,
+    "slope": 114
+  },
+  {
+    "course": "Bear Lake West",
+    "courseId": "25321",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 64.8,
+    "bogey": 92.6,
+    "slope": 118
+  },
+  {
+    "course": "Bear Lake West",
+    "courseId": "25321",
+    "tee": "White",
+    "gender": "female",
+    "rating": 67.2,
+    "bogey": 96.6,
+    "slope": 125
+  },
+  {
+    "course": "Bear Lake West",
+    "courseId": "25321",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 68.8,
+    "bogey": 98.4,
+    "slope": 126
+  },
+  {
+    "course": "Bear Lake West",
+    "courseId": "25321",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 61.4,
+    "bogey": 79.4,
+    "slope": 97
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 70.2,
+    "bogey": 99.0,
+    "slope": 123
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 72.1,
+    "bogey": 103.0,
+    "slope": 131
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.1,
+    "bogey": 94.5,
+    "slope": 126
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.6,
+    "bogey": 90.6,
+    "slope": 119
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 66.5,
+    "bogey": 86.9,
+    "slope": 110
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 69.7,
+    "bogey": 92.0,
+    "slope": 120
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "White/Gold Combo",
+    "gender": "male",
+    "rating": 67.6,
+    "bogey": 88.8,
+    "slope": 114
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "White/Gold Combo",
+    "gender": "female",
+    "rating": 73.3,
+    "bogey": 104.9,
+    "slope": 134
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.5,
+    "bogey": 97.8,
+    "slope": 131
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 65.0,
+    "bogey": 84.3,
+    "slope": 104
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 54.1,
+    "bogey": 69.4,
+    "slope": 83
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 56.9,
+    "bogey": 78.2,
+    "slope": 91
+  },
+  {
+    "course": "Toana Vista GC",
+    "courseId": "25322",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.7,
+    "bogey": 107.0,
+    "slope": 137
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 57.7,
+    "bogey": 75.9,
+    "slope": 98
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.4,
+    "bogey": 108.3,
+    "slope": 140
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 59.9,
+    "bogey": 83.1,
+    "slope": 98
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.5,
+    "bogey": 97.8,
+    "slope": 131
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Black/Blue Combo",
+    "gender": "male",
+    "rating": 71.9,
+    "bogey": 95.9,
+    "slope": 129
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.8,
+    "bogey": 94.2,
+    "slope": 126
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 69.5,
+    "bogey": 92.2,
+    "slope": 123
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.8,
+    "bogey": 91.2,
+    "slope": 121
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "White/Silver Combo",
+    "gender": "male",
+    "rating": 65.2,
+    "bogey": 86.1,
+    "slope": 113
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 64.0,
+    "bogey": 84.4,
+    "slope": 110
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Blue/White Combo",
+    "gender": "female",
+    "rating": 75.1,
+    "bogey": 108.1,
+    "slope": 140
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.8,
+    "bogey": 108.1,
+    "slope": 142
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "White/Silver Combo",
+    "gender": "female",
+    "rating": 71.2,
+    "bogey": 101.3,
+    "slope": 128
+  },
+  {
+    "course": "Alpine CC",
+    "courseId": "25323",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 69.4,
+    "bogey": 98.4,
+    "slope": 123
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.0,
+    "bogey": 94.8,
+    "slope": 128
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 91.4,
+    "slope": 121
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 66.0,
+    "bogey": 86.8,
+    "slope": 112
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 71.0,
+    "bogey": 100.4,
+    "slope": 125
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "White",
+    "gender": "female",
+    "rating": 75.8,
+    "bogey": 108.0,
+    "slope": 137
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "Junior",
+    "gender": "female",
+    "rating": 61.6,
+    "bogey": 87.4,
+    "slope": 109
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "Family",
+    "gender": "female",
+    "rating": 58.4,
+    "bogey": 81.6,
+    "slope": 98
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "Family",
+    "gender": "male",
+    "rating": 57.8,
+    "bogey": 76.0,
+    "slope": 98
+  },
+  {
+    "course": "Bear Lake GC",
+    "courseId": "25324",
+    "tee": "Junior",
+    "gender": "male",
+    "rating": 60.0,
+    "bogey": 79.2,
+    "slope": 103
+  },
+  {
+    "course": "Birch Creek GC",
+    "courseId": "25326",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 73.0,
+    "bogey": 96.0,
+    "slope": 124
+  },
+  {
+    "course": "Birch Creek GC",
+    "courseId": "25326",
+    "tee": "White",
+    "gender": "male",
+    "rating": 71.5,
+    "bogey": 93.8,
+    "slope": 120
+  },
+  {
+    "course": "Birch Creek GC",
+    "courseId": "25326",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 67.2,
+    "bogey": 88.4,
+    "slope": 114
+  },
+  {
+    "course": "Birch Creek GC",
+    "courseId": "25326",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 71.3,
+    "bogey": 102.4,
+    "slope": 132
+  },
+  {
+    "course": "Birch Creek GC",
+    "courseId": "25326",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 66.2,
+    "bogey": 94.3,
+    "slope": 119
+  },
+  {
+    "course": "Birch Creek GC",
+    "courseId": "25326",
+    "tee": "White",
+    "gender": "female",
+    "rating": 76.3,
+    "bogey": 109.8,
+    "slope": 142
+  },
+  {
+    "course": "Birch Creek GC",
+    "courseId": "25326",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 78.2,
+    "bogey": 112.9,
+    "slope": 147
+  },
+  {
+    "course": "Birch Creek GC",
+    "courseId": "25326",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.1,
+    "bogey": 82.8,
+    "slope": 106
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 71.0,
+    "bogey": 94.2,
+    "slope": 125
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.7,
+    "bogey": 92.7,
+    "slope": 124
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.8,
+    "bogey": 89.4,
+    "slope": 117
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 61.7,
+    "bogey": 81.3,
+    "slope": 106
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.5,
+    "bogey": 108.3,
+    "slope": 139
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.0,
+    "bogey": 104.6,
+    "slope": 134
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 66.1,
+    "bogey": 93.1,
+    "slope": 115
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 77.1,
+    "bogey": 110.7,
+    "slope": 143
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "White/Yellow Combo",
+    "gender": "female",
+    "rating": 68.6,
+    "bogey": 97.8,
+    "slope": 124
+  },
+  {
+    "course": "Bonneville GC",
+    "courseId": "25327",
+    "tee": "White/Yellow Combo",
+    "gender": "male",
+    "rating": 63.8,
+    "bogey": 84.1,
+    "slope": 110
+  },
+  {
+    "course": "Bountiful Ridge GC",
+    "courseId": "25328",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.3,
+    "bogey": 96.4,
+    "slope": 135
+  },
+  {
+    "course": "Bountiful Ridge GC",
+    "courseId": "25328",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.9,
+    "bogey": 93.1,
+    "slope": 131
+  },
+  {
+    "course": "Bountiful Ridge GC",
+    "courseId": "25328",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 66.5,
+    "bogey": 89.5,
+    "slope": 124
+  },
+  {
+    "course": "Bountiful Ridge GC",
+    "courseId": "25328",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 71.8,
+    "bogey": 103.4,
+    "slope": 134
+  },
+  {
+    "course": "Bountiful Ridge GC",
+    "courseId": "25328",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 69.2,
+    "bogey": 99.6,
+    "slope": 129
+  },
+  {
+    "course": "Bountiful Ridge GC",
+    "courseId": "25328",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 64.3,
+    "bogey": 85.6,
+    "slope": 115
+  },
+  {
+    "course": "Bountiful Ridge GC",
+    "courseId": "25328",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.8,
+    "bogey": 105.8,
+    "slope": 136
+  },
+  {
+    "course": "Bountiful Ridge GC",
+    "courseId": "25328",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 76.5,
+    "bogey": 109.7,
+    "slope": 141
+  },
+  {
+    "course": "Canyon Breeze GC",
+    "courseId": "25330",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 65.8,
+    "bogey": 86.6,
+    "slope": 112
+  },
+  {
+    "course": "Canyon Breeze GC",
+    "courseId": "25330",
+    "tee": "White/Blue Combo",
+    "gender": "male",
+    "rating": 65.4,
+    "bogey": 86.1,
+    "slope": 112
+  },
+  {
+    "course": "Canyon Breeze GC",
+    "courseId": "25330",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.0,
+    "bogey": 85.6,
+    "slope": 111
+  },
+  {
+    "course": "Canyon Breeze GC",
+    "courseId": "25330",
+    "tee": "White",
+    "gender": "female",
+    "rating": 69.4,
+    "bogey": 99.6,
+    "slope": 128
+  },
+  {
+    "course": "Canyon Breeze GC",
+    "courseId": "25330",
+    "tee": "Red/White Combo",
+    "gender": "female",
+    "rating": 67.1,
+    "bogey": 96.0,
+    "slope": 123
+  },
+  {
+    "course": "Canyon Breeze GC",
+    "courseId": "25330",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 64.8,
+    "bogey": 92.4,
+    "slope": 117
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.2,
+    "bogey": 94.2,
+    "slope": 129
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "White/Blue",
+    "gender": "male",
+    "rating": 69.2,
+    "bogey": 92.7,
+    "slope": 127
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.2,
+    "bogey": 91.2,
+    "slope": 124
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.4,
+    "bogey": 105.6,
+    "slope": 137
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 69.0,
+    "bogey": 98.6,
+    "slope": 126
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 76.2,
+    "bogey": 109.8,
+    "slope": 142
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 78.8,
+    "bogey": 113.6,
+    "slope": 148
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.4,
+    "bogey": 97.4,
+    "slope": 135
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 64.2,
+    "bogey": 84.4,
+    "slope": 109
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Red/White",
+    "gender": "male",
+    "rating": 66.2,
+    "bogey": 87.8,
+    "slope": 117
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Blue/Black",
+    "gender": "male",
+    "rating": 71.3,
+    "bogey": 95.8,
+    "slope": 132
+  },
+  {
+    "course": "Canyon Hills GC",
+    "courseId": "25331",
+    "tee": "Red/White",
+    "gender": "female",
+    "rating": 71.2,
+    "bogey": 102.1,
+    "slope": 132
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Red/Green Combo",
+    "gender": "female",
+    "rating": 65.4,
+    "bogey": 95.6,
+    "slope": 128
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 93.2,
+    "slope": 134
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Blue/Black Combo",
+    "gender": "male",
+    "rating": 66.7,
+    "bogey": 91.2,
+    "slope": 132
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 65.8,
+    "bogey": 89.9,
+    "slope": 130
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 62.9,
+    "bogey": 85.7,
+    "slope": 123
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Red/Green Combo",
+    "gender": "male",
+    "rating": 61.6,
+    "bogey": 83.7,
+    "slope": 119
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 60.2,
+    "bogey": 81.9,
+    "slope": 117
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 71.5,
+    "bogey": 106.5,
+    "slope": 149
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 98.7,
+    "slope": 132
+  },
+  {
+    "course": "Canyons Golf",
+    "courseId": "25332",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 63.4,
+    "bogey": 92.2,
+    "slope": 122
+  },
+  {
+    "course": "Carbon CC",
+    "courseId": "25333",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.3,
+    "bogey": 90.5,
+    "slope": 114
+  },
+  {
+    "course": "Carbon CC",
+    "courseId": "25333",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.1,
+    "bogey": 87.9,
+    "slope": 112
+  },
+  {
+    "course": "Carbon CC",
+    "courseId": "25333",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 64.3,
+    "bogey": 84.6,
+    "slope": 109
+  },
+  {
+    "course": "Carbon CC",
+    "courseId": "25333",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.8,
+    "bogey": 105.1,
+    "slope": 137
+  },
+  {
+    "course": "Carbon CC",
+    "courseId": "25333",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 69.1,
+    "bogey": 98.7,
+    "slope": 126
+  },
+  {
+    "course": "Carbon CC",
+    "courseId": "25333",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 96.1,
+    "slope": 122
+  },
+  {
+    "course": "Carbon CC",
+    "courseId": "25333",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.3,
+    "bogey": 108.8,
+    "slope": 142
+  },
+  {
+    "course": "Carbon CC",
+    "courseId": "25333",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.1,
+    "bogey": 82.9,
+    "slope": 107
+  },
+  {
+    "course": "Cedar Hills GC",
+    "courseId": "25334",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.2,
+    "bogey": 103.1,
+    "slope": 131
+  },
+  {
+    "course": "Cedar Hills GC",
+    "courseId": "25334",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 71.2,
+    "bogey": 96.1,
+    "slope": 134
+  },
+  {
+    "course": "Cedar Hills GC",
+    "courseId": "25334",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.3,
+    "bogey": 93.6,
+    "slope": 131
+  },
+  {
+    "course": "Cedar Hills GC",
+    "courseId": "25334",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.1,
+    "bogey": 89.9,
+    "slope": 123
+  },
+  {
+    "course": "Cedar Hills GC",
+    "courseId": "25334",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.2,
+    "bogey": 84.4,
+    "slope": 114
+  },
+  {
+    "course": "Cedar Hills GC",
+    "courseId": "25334",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.8,
+    "bogey": 96.5,
+    "slope": 122
+  },
+  {
+    "course": "Cedar Ridge GC",
+    "courseId": "25335",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.3,
+    "bogey": 94.0,
+    "slope": 122
+  },
+  {
+    "course": "Cedar Ridge GC",
+    "courseId": "25335",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.6,
+    "bogey": 91.3,
+    "slope": 117
+  },
+  {
+    "course": "Cedar Ridge GC",
+    "courseId": "25335",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 64.4,
+    "bogey": 83.7,
+    "slope": 104
+  },
+  {
+    "course": "Cedar Ridge GC",
+    "courseId": "25335",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.3,
+    "bogey": 97.4,
+    "slope": 124
+  },
+  {
+    "course": "Cedar Ridge GC",
+    "courseId": "25335",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.8,
+    "bogey": 107.0,
+    "slope": 137
+  },
+  {
+    "course": "Golf The Round",
+    "courseId": "25336",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 64.4,
+    "bogey": 90.0,
+    "slope": 109
+  },
+  {
+    "course": "Golf The Round",
+    "courseId": "25336",
+    "tee": "White",
+    "gender": "female",
+    "rating": 62.2,
+    "bogey": 86.2,
+    "slope": 102
+  },
+  {
+    "course": "Golf The Round",
+    "courseId": "25336",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 60.0,
+    "bogey": 83.2,
+    "slope": 98
+  },
+  {
+    "course": "Golf The Round",
+    "courseId": "25336",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 61.4,
+    "bogey": 78.6,
+    "slope": 93
+  },
+  {
+    "course": "Golf The Round",
+    "courseId": "25336",
+    "tee": "White",
+    "gender": "male",
+    "rating": 60.2,
+    "bogey": 77.0,
+    "slope": 90
+  },
+  {
+    "course": "Golf The Round",
+    "courseId": "25336",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 58.8,
+    "bogey": 75.6,
+    "slope": 90
+  },
+  {
+    "course": "Golf The Round",
+    "courseId": "25336",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 57.0,
+    "bogey": 73.0,
+    "slope": 86
+  },
+  {
+    "course": "Golf The Round",
+    "courseId": "25336",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 57.0,
+    "bogey": 78.6,
+    "slope": 92
+  },
+  {
+    "course": "Copper Club",
+    "courseId": "25337",
+    "tee": "Red Front/Yellow Back - Women",
+    "gender": "female",
+    "rating": 65.9,
+    "bogey": 92.6,
+    "slope": 113
+  },
+  {
+    "course": "Copper Club",
+    "courseId": "25337",
+    "tee": "White Front/Blue Back - Men",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 90.0,
+    "slope": 113
+  },
+  {
+    "course": "Cove View GC",
+    "courseId": "25338",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 71.2,
+    "bogey": 102.1,
+    "slope": 131
+  },
+  {
+    "course": "Cove View GC",
+    "courseId": "25338",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.5,
+    "bogey": 93.6,
+    "slope": 125
+  },
+  {
+    "course": "Cove View GC",
+    "courseId": "25338",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.7,
+    "bogey": 90.9,
+    "slope": 120
+  },
+  {
+    "course": "Cove View GC",
+    "courseId": "25338",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 66.5,
+    "bogey": 86.8,
+    "slope": 110
+  },
+  {
+    "course": "Cove View GC",
+    "courseId": "25338",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.5,
+    "bogey": 97.1,
+    "slope": 122
+  },
+  {
+    "course": "Cove View GC",
+    "courseId": "25338",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.3,
+    "bogey": 106.7,
+    "slope": 138
+  },
+  {
+    "course": "Cove View GC",
+    "courseId": "25338",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 76.6,
+    "bogey": 110.4,
+    "slope": 144
+  },
+  {
+    "course": "Cove View GC",
+    "courseId": "25338",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 64.3,
+    "bogey": 83.8,
+    "slope": 105
+  },
+  {
+    "course": "Crane Field",
+    "courseId": "25339",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 68.7,
+    "bogey": 90.3,
+    "slope": 117
+  },
+  {
+    "course": "Crane Field",
+    "courseId": "25339",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 65.6,
+    "bogey": 85.5,
+    "slope": 107
+  },
+  {
+    "course": "Crane Field",
+    "courseId": "25339",
+    "tee": "White",
+    "gender": "male",
+    "rating": 63.6,
+    "bogey": 82.9,
+    "slope": 104
+  },
+  {
+    "course": "Crane Field",
+    "courseId": "25339",
+    "tee": "White",
+    "gender": "female",
+    "rating": 68.7,
+    "bogey": 95.8,
+    "slope": 115
+  },
+  {
+    "course": "Crane Field",
+    "courseId": "25339",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 63.8,
+    "bogey": 88.5,
+    "slope": 105
+  },
+  {
+    "course": "Crane Field",
+    "courseId": "25339",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 60.7,
+    "bogey": 78.3,
+    "slope": 95
+  },
+  {
+    "course": "Homestead Resort & Golf Club",
+    "courseId": "25340",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.2,
+    "bogey": 105.5,
+    "slope": 137
+  },
+  {
+    "course": "Homestead Resort & Golf Club",
+    "courseId": "25340",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 69.7,
+    "bogey": 99.0,
+    "slope": 125
+  },
+  {
+    "course": "Homestead Resort & Golf Club",
+    "courseId": "25340",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.1,
+    "bogey": 92.1,
+    "slope": 130
+  },
+  {
+    "course": "Homestead Resort & Golf Club",
+    "courseId": "25340",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 65.6,
+    "bogey": 87.0,
+    "slope": 115
+  },
+  {
+    "course": "Homestead Resort & Golf Club",
+    "courseId": "25340",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 96.1,
+    "slope": 122
+  },
+  {
+    "course": "Homestead Resort & Golf Club",
+    "courseId": "25340",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.8,
+    "bogey": 98.2,
+    "slope": 142
+  },
+  {
+    "course": "Homestead Resort & Golf Club",
+    "courseId": "25340",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.9,
+    "bogey": 84.9,
+    "slope": 113
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.9,
+    "bogey": 91.5,
+    "slope": 122
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.5,
+    "bogey": 93.7,
+    "slope": 125
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.2,
+    "bogey": 88.8,
+    "slope": 117
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.8,
+    "bogey": 84.4,
+    "slope": 111
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.6,
+    "bogey": 97.2,
+    "slope": 122
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.5,
+    "bogey": 103.0,
+    "slope": 129
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "Orange",
+    "gender": "female",
+    "rating": 61.4,
+    "bogey": 86.3,
+    "slope": 106
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 74.6,
+    "bogey": 106.3,
+    "slope": 135
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 76.3,
+    "bogey": 108.7,
+    "slope": 138
+  },
+  {
+    "course": "Davis Park GC",
+    "courseId": "25341",
+    "tee": "Orange",
+    "gender": "male",
+    "rating": 59.5,
+    "bogey": 78.5,
+    "slope": 102
+  },
+  {
+    "course": "Dinaland GC",
+    "courseId": "25342",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.7,
+    "bogey": 93.0,
+    "slope": 126
+  },
+  {
+    "course": "Dinaland GC",
+    "courseId": "25342",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 71.7,
+    "bogey": 96.6,
+    "slope": 134
+  },
+  {
+    "course": "Dinaland GC",
+    "courseId": "25342",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.4,
+    "bogey": 89.3,
+    "slope": 118
+  },
+  {
+    "course": "Dinaland GC",
+    "courseId": "25342",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.5,
+    "bogey": 83.1,
+    "slope": 106
+  },
+  {
+    "course": "Dinaland GC",
+    "courseId": "25342",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.5,
+    "bogey": 97.4,
+    "slope": 123
+  },
+  {
+    "course": "Dinaland GC",
+    "courseId": "25342",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.7,
+    "bogey": 104.8,
+    "slope": 137
+  },
+  {
+    "course": "Dinaland GC",
+    "courseId": "25342",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.5,
+    "bogey": 109.1,
+    "slope": 143
+  },
+  {
+    "course": "Dinaland GC",
+    "courseId": "25342",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 78.1,
+    "bogey": 112.9,
+    "slope": 148
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.3,
+    "bogey": 98.7,
+    "slope": 142
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.4,
+    "bogey": 105.3,
+    "slope": 140
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.5,
+    "bogey": 94.0,
+    "slope": 132
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.3,
+    "bogey": 90.6,
+    "slope": 125
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 64.8,
+    "bogey": 87.4,
+    "slope": 122
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 70.3,
+    "bogey": 101.0,
+    "slope": 131
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 66.8,
+    "bogey": 96.0,
+    "slope": 124
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.3,
+    "bogey": 84.0,
+    "slope": 117
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.1,
+    "bogey": 109.3,
+    "slope": 145
+  },
+  {
+    "course": "Eagle Mountain GC",
+    "courseId": "25343",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 78.3,
+    "bogey": 114.1,
+    "slope": 152
+  },
+  {
+    "course": "Eagle Lake GC",
+    "courseId": "25344",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 62.0,
+    "bogey": 80.0,
+    "slope": 97
+  },
+  {
+    "course": "Eagle Lake GC",
+    "courseId": "25344",
+    "tee": "White",
+    "gender": "female",
+    "rating": 62.0,
+    "bogey": 85.2,
+    "slope": 98
+  },
+  {
+    "course": "Eagle Lake GC",
+    "courseId": "25344",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 61.0,
+    "bogey": 78.6,
+    "slope": 95
+  },
+  {
+    "course": "Eagle Lake GC",
+    "courseId": "25344",
+    "tee": "White",
+    "gender": "male",
+    "rating": 59.8,
+    "bogey": 77.0,
+    "slope": 93
+  },
+  {
+    "course": "Eagle Lake GC",
+    "courseId": "25344",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 58.2,
+    "bogey": 79.6,
+    "slope": 91
+  },
+  {
+    "course": "Eaglewood GC",
+    "courseId": "25345",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 71.3,
+    "bogey": 94.4,
+    "slope": 125
+  },
+  {
+    "course": "Eaglewood GC",
+    "courseId": "25345",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.6,
+    "bogey": 92.4,
+    "slope": 123
+  },
+  {
+    "course": "Eaglewood GC",
+    "courseId": "25345",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.1,
+    "bogey": 88.0,
+    "slope": 113
+  },
+  {
+    "course": "Eaglewood GC",
+    "courseId": "25345",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.6,
+    "bogey": 103.5,
+    "slope": 131
+  },
+  {
+    "course": "Eaglewood GC",
+    "courseId": "25345",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 94.9,
+    "slope": 116
+  },
+  {
+    "course": "Eaglewood GC",
+    "courseId": "25345",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.8,
+    "bogey": 108.4,
+    "slope": 138
+  },
+  {
+    "course": "Eaglewood GC",
+    "courseId": "25345",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 77.6,
+    "bogey": 111.0,
+    "slope": 142
+  },
+  {
+    "course": "Eaglewood GC",
+    "courseId": "25345",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.1,
+    "bogey": 82.6,
+    "slope": 105
+  },
+  {
+    "course": "El Monte GC",
+    "courseId": "25347",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.2,
+    "bogey": 85.8,
+    "slope": 111
+  },
+  {
+    "course": "El Monte GC",
+    "courseId": "25347",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 67.0,
+    "bogey": 88.6,
+    "slope": 116
+  },
+  {
+    "course": "El Monte GC",
+    "courseId": "25347",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 66.8,
+    "bogey": 93.8,
+    "slope": 114
+  },
+  {
+    "course": "El Monte GC",
+    "courseId": "25347",
+    "tee": "White",
+    "gender": "female",
+    "rating": 70.6,
+    "bogey": 100.2,
+    "slope": 126
+  },
+  {
+    "course": "El Monte GC",
+    "courseId": "25347",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 59.4,
+    "bogey": 80.4,
+    "slope": 89
+  },
+  {
+    "course": "El Monte GC",
+    "courseId": "25347",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.0,
+    "bogey": 81.0,
+    "slope": 102
+  },
+  {
+    "course": "El Monte GC",
+    "courseId": "25347",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 58.0,
+    "bogey": 75.8,
+    "slope": 96
+  },
+  {
+    "course": "Fore Lakes GC",
+    "courseId": "25348",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 61.0,
+    "bogey": 82.4,
+    "slope": 91
+  },
+  {
+    "course": "Fore Lakes GC",
+    "courseId": "25348",
+    "tee": "White",
+    "gender": "female",
+    "rating": 62.6,
+    "bogey": 85.0,
+    "slope": 95
+  },
+  {
+    "course": "Fore Lakes GC",
+    "courseId": "25348",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 61.2,
+    "bogey": 79.0,
+    "slope": 96
+  },
+  {
+    "course": "Fore Lakes GC",
+    "courseId": "25348",
+    "tee": "White",
+    "gender": "male",
+    "rating": 60.2,
+    "bogey": 77.8,
+    "slope": 95
+  },
+  {
+    "course": "Forest Dale GC",
+    "courseId": "25349",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.8,
+    "bogey": 91.2,
+    "slope": 121
+  },
+  {
+    "course": "Forest Dale GC",
+    "courseId": "25349",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.0,
+    "bogey": 85.0,
+    "slope": 108
+  },
+  {
+    "course": "Forest Dale GC",
+    "courseId": "25349",
+    "tee": "White",
+    "gender": "female",
+    "rating": 70.2,
+    "bogey": 98.0,
+    "slope": 118
+  },
+  {
+    "course": "Forest Dale GC",
+    "courseId": "25349",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 64.8,
+    "bogey": 91.4,
+    "slope": 113
+  },
+  {
+    "course": "Forest Dale GC",
+    "courseId": "25349",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 74.2,
+    "bogey": 103.8,
+    "slope": 126
+  },
+  {
+    "course": "Forest Dale GC",
+    "courseId": "25349",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 61.4,
+    "bogey": 80.2,
+    "slope": 101
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.2,
+    "bogey": 92.9,
+    "slope": 117
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.8,
+    "bogey": 88.8,
+    "slope": 113
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 64.9,
+    "bogey": 84.7,
+    "slope": 107
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 69.8,
+    "bogey": 99.1,
+    "slope": 124
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.7,
+    "bogey": 97.1,
+    "slope": 121
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.9,
+    "bogey": 103.8,
+    "slope": 131
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 76.4,
+    "bogey": 108.9,
+    "slope": 138
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 78.9,
+    "bogey": 112.8,
+    "slope": 144
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.9,
+    "bogey": 83.2,
+    "slope": 104
+  },
+  {
+    "course": "Fox Hollow GC",
+    "courseId": "25350",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.2,
+    "bogey": 95.8,
+    "slope": 122
+  },
+  {
+    "course": "Gladstan GC",
+    "courseId": "25351",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.3,
+    "bogey": 96.8,
+    "slope": 132
+  },
+  {
+    "course": "Gladstan GC",
+    "courseId": "25351",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 65.1,
+    "bogey": 86.7,
+    "slope": 117
+  },
+  {
+    "course": "Gladstan GC",
+    "courseId": "25351",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.4,
+    "bogey": 89.9,
+    "slope": 122
+  },
+  {
+    "course": "Gladstan GC",
+    "courseId": "25351",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.5,
+    "bogey": 94.4,
+    "slope": 129
+  },
+  {
+    "course": "Gladstan GC",
+    "courseId": "25351",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.8,
+    "bogey": 97.0,
+    "slope": 124
+  },
+  {
+    "course": "Gladstan GC",
+    "courseId": "25351",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 70.2,
+    "bogey": 101.1,
+    "slope": 131
+  },
+  {
+    "course": "Gladstan GC",
+    "courseId": "25351",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.0,
+    "bogey": 83.4,
+    "slope": 110
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.3,
+    "bogey": 93.8,
+    "slope": 121
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.2,
+    "bogey": 96.2,
+    "slope": 124
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 70.4,
+    "bogey": 100.6,
+    "slope": 128
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.8,
+    "bogey": 89.5,
+    "slope": 117
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 65.1,
+    "bogey": 85.2,
+    "slope": 109
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.7,
+    "bogey": 105.5,
+    "slope": 135
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.0,
+    "bogey": 94.2,
+    "slope": 115
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "White/Gold Combo",
+    "gender": "male",
+    "rating": 66.5,
+    "bogey": 87.4,
+    "slope": 113
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "White/Gold Combo",
+    "gender": "female",
+    "rating": 72.2,
+    "bogey": 103.2,
+    "slope": 132
+  },
+  {
+    "course": "Glen Eagle GC",
+    "courseId": "25352",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.3,
+    "bogey": 81.0,
+    "slope": 101
+  },
+  {
+    "course": "Glendale GC",
+    "courseId": "25353",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.6,
+    "bogey": 92.8,
+    "slope": 120
+  },
+  {
+    "course": "Glendale GC",
+    "courseId": "25353",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.9,
+    "bogey": 90.1,
+    "slope": 114
+  },
+  {
+    "course": "Glendale GC",
+    "courseId": "25353",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 66.9,
+    "bogey": 87.1,
+    "slope": 109
+  },
+  {
+    "course": "Glendale GC",
+    "courseId": "25353",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 72.2,
+    "bogey": 102.6,
+    "slope": 129
+  },
+  {
+    "course": "Glendale GC",
+    "courseId": "25353",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 66.8,
+    "bogey": 94.1,
+    "slope": 116
+  },
+  {
+    "course": "Glendale GC",
+    "courseId": "25353",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 74.6,
+    "bogey": 106.3,
+    "slope": 135
+  },
+  {
+    "course": "Glendale GC",
+    "courseId": "25353",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 76.7,
+    "bogey": 109.4,
+    "slope": 139
+  },
+  {
+    "course": "Glendale GC",
+    "courseId": "25353",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 62.7,
+    "bogey": 81.4,
+    "slope": 101
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 60.4,
+    "bogey": 79.1,
+    "slope": 101
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 62.5,
+    "bogey": 88.9,
+    "slope": 112
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.4,
+    "bogey": 96.4,
+    "slope": 129
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.4,
+    "bogey": 91.1,
+    "slope": 117
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 66.0,
+    "bogey": 85.9,
+    "slope": 107
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 78.8,
+    "bogey": 112.2,
+    "slope": 142
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 76.6,
+    "bogey": 109.5,
+    "slope": 140
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.7,
+    "bogey": 106.8,
+    "slope": 137
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 70.4,
+    "bogey": 100.5,
+    "slope": 128
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Red/Green Combo",
+    "gender": "female",
+    "rating": 67.7,
+    "bogey": 96.4,
+    "slope": 122
+  },
+  {
+    "course": "Glenmoor GC",
+    "courseId": "25354",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.0,
+    "bogey": 94.3,
+    "slope": 126
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 74.9,
+    "bogey": 102.1,
+    "slope": 146
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Ivory",
+    "gender": "male",
+    "rating": 73.1,
+    "bogey": 99.7,
+    "slope": 143
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 70.7,
+    "bogey": 96.4,
+    "slope": 139
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 68.5,
+    "bogey": 92.4,
+    "slope": 129
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Purple",
+    "gender": "male",
+    "rating": 64.9,
+    "bogey": 85.9,
+    "slope": 113
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 77.2,
+    "bogey": 112.8,
+    "slope": 151
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 74.8,
+    "bogey": 109.3,
+    "slope": 146
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Purple",
+    "gender": "female",
+    "rating": 69.4,
+    "bogey": 100.9,
+    "slope": 134
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Blue/Ivory Combo",
+    "gender": "male",
+    "rating": 73.9,
+    "bogey": 100.9,
+    "slope": 145
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Ivory/Green Combo",
+    "gender": "male",
+    "rating": 71.5,
+    "bogey": 97.8,
+    "slope": 142
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Green/Yellow Combo",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 93.4,
+    "slope": 131
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Yellow/Purple Combo",
+    "gender": "male",
+    "rating": 66.5,
+    "bogey": 89.0,
+    "slope": 121
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Green/Yellow Combo",
+    "gender": "female",
+    "rating": 75.5,
+    "bogey": 110.4,
+    "slope": 148
+  },
+  {
+    "course": "Glenwild CC",
+    "courseId": "25355",
+    "tee": "Yellow/Purple Combo",
+    "gender": "female",
+    "rating": 71.6,
+    "bogey": 104.5,
+    "slope": 140
+  },
+  {
+    "course": "Green River GC",
+    "courseId": "25356",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 91.4,
+    "slope": 121
+  },
+  {
+    "course": "Green River GC",
+    "courseId": "25356",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.4,
+    "bogey": 88.8,
+    "slope": 115
+  },
+  {
+    "course": "Green River GC",
+    "courseId": "25356",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 65.2,
+    "bogey": 85.2,
+    "slope": 108
+  },
+  {
+    "course": "Green River GC",
+    "courseId": "25356",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 70.6,
+    "bogey": 99.4,
+    "slope": 122
+  },
+  {
+    "course": "Green River GC",
+    "courseId": "25356",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 65.4,
+    "bogey": 91.2,
+    "slope": 109
+  },
+  {
+    "course": "Green River GC",
+    "courseId": "25356",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.6,
+    "bogey": 104.0,
+    "slope": 133
+  },
+  {
+    "course": "Green River GC",
+    "courseId": "25356",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 74.6,
+    "bogey": 107.0,
+    "slope": 137
+  },
+  {
+    "course": "Green River GC",
+    "courseId": "25356",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 61.4,
+    "bogey": 80.2,
+    "slope": 101
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "Black (V/M)",
+    "gender": "male",
+    "rating": 73.0,
+    "bogey": 96.9,
+    "slope": 129
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "Blue (V/M)",
+    "gender": "male",
+    "rating": 70.5,
+    "bogey": 93.8,
+    "slope": 126
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "White (V/M)",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 92.1,
+    "slope": 124
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "Gold (V/M)",
+    "gender": "male",
+    "rating": 67.3,
+    "bogey": 89.7,
+    "slope": 121
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "Silver (V/M)",
+    "gender": "male",
+    "rating": 65.3,
+    "bogey": 87.0,
+    "slope": 117
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "Blue (V/M)",
+    "gender": "female",
+    "rating": 76.6,
+    "bogey": 110.3,
+    "slope": 143
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "White (V/M)",
+    "gender": "female",
+    "rating": 75.2,
+    "bogey": 108.2,
+    "slope": 140
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "Silver (V/M)",
+    "gender": "female",
+    "rating": 70.9,
+    "bogey": 101.3,
+    "slope": 129
+  },
+  {
+    "course": "Hidden Valley CC",
+    "courseId": "25357",
+    "tee": "Gold (V/M)",
+    "gender": "female",
+    "rating": 73.2,
+    "bogey": 104.9,
+    "slope": 135
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 65.1,
+    "bogey": 85.5,
+    "slope": 110
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 70.2,
+    "bogey": 98.9,
+    "slope": 122
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 95.2,
+    "slope": 118
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 72.1,
+    "bogey": 94.5,
+    "slope": 121
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "White",
+    "gender": "male",
+    "rating": 70.2,
+    "bogey": 92.1,
+    "slope": 118
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "White/Yellow Combo",
+    "gender": "male",
+    "rating": 67.1,
+    "bogey": 88.5,
+    "slope": 115
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "White",
+    "gender": "female",
+    "rating": 75.5,
+    "bogey": 107.0,
+    "slope": 134
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "White/Yellow Combo",
+    "gender": "female",
+    "rating": 72.5,
+    "bogey": 102.4,
+    "slope": 127
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "White/Blue Combo",
+    "gender": "male",
+    "rating": 71.5,
+    "bogey": 93.7,
+    "slope": 120
+  },
+  {
+    "course": "Hubbard GC at Hill AFB",
+    "courseId": "25358",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.6,
+    "bogey": 81.6,
+    "slope": 102
+  },
+  {
+    "course": "Hobble Creek GC",
+    "courseId": "25359",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 69.9,
+    "bogey": 93.9,
+    "slope": 129
+  },
+  {
+    "course": "Hobble Creek GC",
+    "courseId": "25359",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.8,
+    "bogey": 92.4,
+    "slope": 127
+  },
+  {
+    "course": "Hobble Creek GC",
+    "courseId": "25359",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.4,
+    "bogey": 90.4,
+    "slope": 124
+  },
+  {
+    "course": "Hobble Creek GC",
+    "courseId": "25359",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 65.4,
+    "bogey": 86.6,
+    "slope": 114
+  },
+  {
+    "course": "Hobble Creek GC",
+    "courseId": "25359",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 74.1,
+    "bogey": 107.7,
+    "slope": 143
+  },
+  {
+    "course": "Hobble Creek GC",
+    "courseId": "25359",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.6,
+    "bogey": 105.4,
+    "slope": 139
+  },
+  {
+    "course": "Hobble Creek GC",
+    "courseId": "25359",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 70.5,
+    "bogey": 101.1,
+    "slope": 130
+  },
+  {
+    "course": "Hobble Creek GC",
+    "courseId": "25359",
+    "tee": "Red/White Combo",
+    "gender": "female",
+    "rating": 70.7,
+    "bogey": 101.7,
+    "slope": 132
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 74.0,
+    "bogey": 99.4,
+    "slope": 137
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 71.6,
+    "bogey": 96.6,
+    "slope": 135
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Green/Silver Combo",
+    "gender": "male",
+    "rating": 70.3,
+    "bogey": 95.1,
+    "slope": 133
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 93.7,
+    "slope": 132
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 65.9,
+    "bogey": 88.7,
+    "slope": 123
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 70.9,
+    "bogey": 103.9,
+    "slope": 140
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 69.9,
+    "bogey": 100.0,
+    "slope": 128
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 74.3,
+    "bogey": 108.9,
+    "slope": 147
+  },
+  {
+    "course": "Jeremy Ranch CC",
+    "courseId": "25360",
+    "tee": "Blue/Green Combo",
+    "gender": "male",
+    "rating": 72.3,
+    "bogey": 97.5,
+    "slope": 136
+  },
+  {
+    "course": "Lakeside GC",
+    "courseId": "25361",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 90.1,
+    "slope": 117
+  },
+  {
+    "course": "Lakeside GC",
+    "courseId": "25361",
+    "tee": "White",
+    "gender": "male",
+    "rating": 66.5,
+    "bogey": 87.4,
+    "slope": 113
+  },
+  {
+    "course": "Lakeside GC",
+    "courseId": "25361",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 64.8,
+    "bogey": 85.4,
+    "slope": 111
+  },
+  {
+    "course": "Lakeside GC",
+    "courseId": "25361",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 70.0,
+    "bogey": 98.2,
+    "slope": 120
+  },
+  {
+    "course": "Lakeside GC",
+    "courseId": "25361",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 66.8,
+    "bogey": 93.7,
+    "slope": 115
+  },
+  {
+    "course": "Lakeside GC",
+    "courseId": "25361",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.7,
+    "bogey": 82.6,
+    "slope": 108
+  },
+  {
+    "course": "Logan Golf & Country Club",
+    "courseId": "25362",
+    "tee": "Iron",
+    "gender": "male",
+    "rating": 70.7,
+    "bogey": 95.7,
+    "slope": 135
+  },
+  {
+    "course": "Logan Golf & Country Club",
+    "courseId": "25362",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 67.7,
+    "bogey": 91.2,
+    "slope": 127
+  },
+  {
+    "course": "Logan Golf & Country Club",
+    "courseId": "25362",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 63.4,
+    "bogey": 84.5,
+    "slope": 114
+  },
+  {
+    "course": "Logan Golf & Country Club",
+    "courseId": "25362",
+    "tee": "Copper",
+    "gender": "male",
+    "rating": 61.6,
+    "bogey": 82.2,
+    "slope": 111
+  },
+  {
+    "course": "Logan Golf & Country Club",
+    "courseId": "25362",
+    "tee": "Copper",
+    "gender": "female",
+    "rating": 64.8,
+    "bogey": 93.0,
+    "slope": 120
+  },
+  {
+    "course": "Logan Golf & Country Club",
+    "courseId": "25362",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 67.9,
+    "bogey": 98.0,
+    "slope": 128
+  },
+  {
+    "course": "Logan Golf & Country Club",
+    "courseId": "25362",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 72.6,
+    "bogey": 105.5,
+    "slope": 140
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.2,
+    "bogey": 92.4,
+    "slope": 120
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 90.1,
+    "slope": 117
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.6,
+    "bogey": 86.6,
+    "slope": 113
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "White",
+    "gender": "female",
+    "rating": 71.1,
+    "bogey": 102.3,
+    "slope": 133
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.2,
+    "bogey": 95.3,
+    "slope": 119
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "White/Red Combo",
+    "gender": "female",
+    "rating": 69.5,
+    "bogey": 99.7,
+    "slope": 128
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "White/Silver Combo",
+    "gender": "male",
+    "rating": 64.3,
+    "bogey": 84.9,
+    "slope": 111
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 67.0,
+    "bogey": 88.4,
+    "slope": 115
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "Black/Blue Combo",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 91.0,
+    "slope": 118
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 62.9,
+    "bogey": 82.9,
+    "slope": 108
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 74.1,
+    "bogey": 107.3,
+    "slope": 141
+  },
+  {
+    "course": "Logan River GC",
+    "courseId": "25363",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 76.0,
+    "bogey": 110.3,
+    "slope": 146
+  },
+  {
+    "course": "Meadowbrook GC",
+    "courseId": "25364",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.7,
+    "bogey": 89.1,
+    "slope": 110
+  },
+  {
+    "course": "Meadowbrook GC",
+    "courseId": "25364",
+    "tee": "White",
+    "gender": "female",
+    "rating": 71.7,
+    "bogey": 101.0,
+    "slope": 124
+  },
+  {
+    "course": "Meadowbrook GC",
+    "courseId": "25364",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.7,
+    "bogey": 92.4,
+    "slope": 117
+  },
+  {
+    "course": "Meadowbrook GC",
+    "courseId": "25364",
+    "tee": "White",
+    "gender": "male",
+    "rating": 66.2,
+    "bogey": 85.6,
+    "slope": 105
+  },
+  {
+    "course": "Meadowbrook GC",
+    "courseId": "25364",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.7,
+    "bogey": 81.3,
+    "slope": 100
+  },
+  {
+    "course": "Meadowbrook GC",
+    "courseId": "25364",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 94.3,
+    "slope": 114
+  },
+  {
+    "course": "Mick Riley GC",
+    "courseId": "25365",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.8,
+    "bogey": 92.2,
+    "slope": 121
+  },
+  {
+    "course": "Mick Riley GC",
+    "courseId": "25365",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.8,
+    "bogey": 88.6,
+    "slope": 112
+  },
+  {
+    "course": "Mick Riley GC",
+    "courseId": "25365",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 65.6,
+    "bogey": 84.0,
+    "slope": 99
+  },
+  {
+    "course": "Mick Riley GC",
+    "courseId": "25365",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.4,
+    "bogey": 104.4,
+    "slope": 131
+  },
+  {
+    "course": "Mick Riley GC",
+    "courseId": "25365",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 70.0,
+    "bogey": 99.0,
+    "slope": 123
+  },
+  {
+    "course": "Millsite GC",
+    "courseId": "25366",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.7,
+    "bogey": 94.1,
+    "slope": 132
+  },
+  {
+    "course": "Millsite GC",
+    "courseId": "25366",
+    "tee": "White",
+    "gender": "male",
+    "rating": 66.8,
+    "bogey": 88.5,
+    "slope": 117
+  },
+  {
+    "course": "Millsite GC",
+    "courseId": "25366",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 62.1,
+    "bogey": 80.5,
+    "slope": 99
+  },
+  {
+    "course": "Millsite GC",
+    "courseId": "25366",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.2,
+    "bogey": 105.3,
+    "slope": 141
+  },
+  {
+    "course": "Millsite GC",
+    "courseId": "25366",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 66.1,
+    "bogey": 93.2,
+    "slope": 115
+  },
+  {
+    "course": "Millsite GC",
+    "courseId": "25366",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 63.6,
+    "bogey": 88.9,
+    "slope": 108
+  },
+  {
+    "course": "Moab GC",
+    "courseId": "25367",
+    "tee": "White",
+    "gender": "female",
+    "rating": 70.5,
+    "bogey": 99.3,
+    "slope": 122
+  },
+  {
+    "course": "Moab GC",
+    "courseId": "25367",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 72.9,
+    "bogey": 97.6,
+    "slope": 133
+  },
+  {
+    "course": "Moab GC",
+    "courseId": "25367",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.5,
+    "bogey": 93.1,
+    "slope": 128
+  },
+  {
+    "course": "Moab GC",
+    "courseId": "25367",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.9,
+    "bogey": 86.5,
+    "slope": 111
+  },
+  {
+    "course": "Moab GC",
+    "courseId": "25367",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.4,
+    "bogey": 94.6,
+    "slope": 116
+  },
+  {
+    "course": "Moab GC",
+    "courseId": "25367",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.0,
+    "bogey": 106.1,
+    "slope": 132
+  },
+  {
+    "course": "Moab GC",
+    "courseId": "25367",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 78.6,
+    "bogey": 111.5,
+    "slope": 140
+  },
+  {
+    "course": "Moab GC",
+    "courseId": "25367",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.3,
+    "bogey": 82.4,
+    "slope": 103
+  },
+  {
+    "course": "Mountain Dell GC",
+    "courseId": "25368",
+    "tee": "Blue (Lake)",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 92.8,
+    "slope": 128
+  },
+  {
+    "course": "Mountain Dell GC",
+    "courseId": "25368",
+    "tee": "Black (Lake)",
+    "gender": "male",
+    "rating": 71.8,
+    "bogey": 96.4,
+    "slope": 133
+  },
+  {
+    "course": "Mountain Dell GC",
+    "courseId": "25368",
+    "tee": "Gold (Lake)",
+    "gender": "female",
+    "rating": 67.4,
+    "bogey": 95.5,
+    "slope": 120
+  },
+  {
+    "course": "Mountain Dell GC",
+    "courseId": "25368",
+    "tee": "White (Lake)",
+    "gender": "female",
+    "rating": 70.8,
+    "bogey": 100.9,
+    "slope": 128
+  },
+  {
+    "course": "Mountain Dell GC",
+    "courseId": "25368",
+    "tee": "Gold (Lake)",
+    "gender": "male",
+    "rating": 63.1,
+    "bogey": 83.1,
+    "slope": 108
+  },
+  {
+    "course": "Mountain Dell GC",
+    "courseId": "25368",
+    "tee": "White (Lake)",
+    "gender": "male",
+    "rating": 65.9,
+    "bogey": 86.8,
+    "slope": 113
+  },
+  {
+    "course": "Mountain Dell GC",
+    "courseId": "25368",
+    "tee": "Blue (Lake)",
+    "gender": "female",
+    "rating": 74.3,
+    "bogey": 106.4,
+    "slope": 137
+  },
+  {
+    "course": "Mountain View GC",
+    "courseId": "25369",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 70.4,
+    "bogey": 99.3,
+    "slope": 123
+  },
+  {
+    "course": "Mountain View GC",
+    "courseId": "25369",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.3,
+    "bogey": 105.1,
+    "slope": 131
+  },
+  {
+    "course": "Mountain View GC",
+    "courseId": "25369",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.7,
+    "bogey": 92.9,
+    "slope": 120
+  },
+  {
+    "course": "Mountain View GC",
+    "courseId": "25369",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 90.0,
+    "slope": 116
+  },
+  {
+    "course": "Mountain View GC",
+    "courseId": "25369",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 65.1,
+    "bogey": 84.8,
+    "slope": 106
+  },
+  {
+    "course": "Mt Ogden GC",
+    "courseId": "25370",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.2,
+    "bogey": 94.5,
+    "slope": 131
+  },
+  {
+    "course": "Mt Ogden GC",
+    "courseId": "25370",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.0,
+    "bogey": 91.2,
+    "slope": 125
+  },
+  {
+    "course": "Mt Ogden GC",
+    "courseId": "25370",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 64.4,
+    "bogey": 86.4,
+    "slope": 119
+  },
+  {
+    "course": "Mt Ogden GC",
+    "courseId": "25370",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.4,
+    "bogey": 84.4,
+    "slope": 113
+  },
+  {
+    "course": "Mt Ogden GC",
+    "courseId": "25370",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.4,
+    "bogey": 104.7,
+    "slope": 137
+  },
+  {
+    "course": "Mt Ogden GC",
+    "courseId": "25370",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 68.4,
+    "bogey": 97.2,
+    "slope": 122
+  },
+  {
+    "course": "Mt Ogden GC",
+    "courseId": "25370",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 95.5,
+    "slope": 119
+  },
+  {
+    "course": "Mulligans",
+    "courseId": "25371",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 60.4,
+    "bogey": 77.8,
+    "slope": 94
+  },
+  {
+    "course": "Mulligans",
+    "courseId": "25371",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 63.4,
+    "bogey": 88.2,
+    "slope": 105
+  },
+  {
+    "course": "Mulligans",
+    "courseId": "25371",
+    "tee": "White",
+    "gender": "female",
+    "rating": 61.2,
+    "bogey": 84.6,
+    "slope": 99
+  },
+  {
+    "course": "Mulligans",
+    "courseId": "25371",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 58.8,
+    "bogey": 81.2,
+    "slope": 95
+  },
+  {
+    "course": "Mulligans",
+    "courseId": "25371",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 57.8,
+    "bogey": 74.2,
+    "slope": 88
+  },
+  {
+    "course": "Mulligans",
+    "courseId": "25371",
+    "tee": "White",
+    "gender": "male",
+    "rating": 59.2,
+    "bogey": 76.2,
+    "slope": 91
+  },
+  {
+    "course": "Murray Parkway GC",
+    "courseId": "25372",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.0,
+    "bogey": 92.9,
+    "slope": 118
+  },
+  {
+    "course": "Murray Parkway GC",
+    "courseId": "25372",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 70.9,
+    "bogey": 99.9,
+    "slope": 123
+  },
+  {
+    "course": "Murray Parkway GC",
+    "courseId": "25372",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.9,
+    "bogey": 89.8,
+    "slope": 112
+  },
+  {
+    "course": "Murray Parkway GC",
+    "courseId": "25372",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 65.6,
+    "bogey": 85.3,
+    "slope": 106
+  },
+  {
+    "course": "Murray Parkway GC",
+    "courseId": "25372",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 64.8,
+    "bogey": 90.7,
+    "slope": 110
+  },
+  {
+    "course": "Murray Parkway GC",
+    "courseId": "25372",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.3,
+    "bogey": 105.0,
+    "slope": 130
+  },
+  {
+    "course": "Nibley Park GC",
+    "courseId": "25373",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 66.0,
+    "bogey": 87.2,
+    "slope": 114
+  },
+  {
+    "course": "Nibley Park GC",
+    "courseId": "25373",
+    "tee": "White",
+    "gender": "male",
+    "rating": 63.8,
+    "bogey": 84.0,
+    "slope": 109
+  },
+  {
+    "course": "Nibley Park GC",
+    "courseId": "25373",
+    "tee": "White",
+    "gender": "female",
+    "rating": 68.6,
+    "bogey": 97.6,
+    "slope": 123
+  },
+  {
+    "course": "Nibley Park GC",
+    "courseId": "25373",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 65.6,
+    "bogey": 93.0,
+    "slope": 116
+  },
+  {
+    "course": "Nibley Park GC",
+    "courseId": "25373",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 71.6,
+    "bogey": 102.4,
+    "slope": 131
+  },
+  {
+    "course": "Nibley Park GC",
+    "courseId": "25373",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 61.8,
+    "bogey": 81.2,
+    "slope": 104
+  },
+  {
+    "course": "Nibley Park GC",
+    "courseId": "25373",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 57.0,
+    "bogey": 74.6,
+    "slope": 95
+  },
+  {
+    "course": "Nibley Park GC",
+    "courseId": "25373",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 59.2,
+    "bogey": 82.8,
+    "slope": 100
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 72.4,
+    "bogey": 97.9,
+    "slope": 138
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 73.3,
+    "bogey": 99.2,
+    "slope": 140
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "White",
+    "gender": "male",
+    "rating": 71.7,
+    "bogey": 96.7,
+    "slope": 135
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 93.5,
+    "slope": 131
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 91.9,
+    "slope": 127
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 65.3,
+    "bogey": 86.2,
+    "slope": 113
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "White",
+    "gender": "female",
+    "rating": 77.3,
+    "bogey": 111.7,
+    "slope": 146
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 73.7,
+    "bogey": 106.2,
+    "slope": 138
+  },
+  {
+    "course": "Oakridge CC",
+    "courseId": "25374",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 69.7,
+    "bogey": 100.0,
+    "slope": 129
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.7,
+    "bogey": 96.4,
+    "slope": 128
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.7,
+    "bogey": 93.7,
+    "slope": 124
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.3,
+    "bogey": 90.8,
+    "slope": 121
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 64.7,
+    "bogey": 85.9,
+    "slope": 114
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 70.4,
+    "bogey": 99.9,
+    "slope": 125
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "Purple",
+    "gender": "female",
+    "rating": 63.1,
+    "bogey": 88.4,
+    "slope": 107
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.1,
+    "bogey": 105.4,
+    "slope": 133
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "Black/Blue Combo",
+    "gender": "male",
+    "rating": 72.2,
+    "bogey": 95.6,
+    "slope": 126
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 70.0,
+    "bogey": 92.7,
+    "slope": 122
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "White/Red Combo",
+    "gender": "male",
+    "rating": 66.8,
+    "bogey": 88.6,
+    "slope": 117
+  },
+  {
+    "course": "Ogden G&CC",
+    "courseId": "25375",
+    "tee": "White/Red Combo",
+    "gender": "female",
+    "rating": 72.5,
+    "bogey": 103.1,
+    "slope": 130
+  },
+  {
+    "course": "Old Mill GC",
+    "courseId": "25376",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 65.9,
+    "bogey": 94.6,
+    "slope": 122
+  },
+  {
+    "course": "Old Mill GC",
+    "courseId": "25376",
+    "tee": "White",
+    "gender": "female",
+    "rating": 70.5,
+    "bogey": 101.4,
+    "slope": 131
+  },
+  {
+    "course": "Old Mill GC",
+    "courseId": "25376",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 91.1,
+    "slope": 122
+  },
+  {
+    "course": "Old Mill GC",
+    "courseId": "25376",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.6,
+    "bogey": 95.4,
+    "slope": 134
+  },
+  {
+    "course": "Old Mill GC",
+    "courseId": "25376",
+    "tee": "White",
+    "gender": "male",
+    "rating": 66.0,
+    "bogey": 87.8,
+    "slope": 118
+  },
+  {
+    "course": "Old Mill GC",
+    "courseId": "25376",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.3,
+    "bogey": 82.8,
+    "slope": 111
+  },
+  {
+    "course": "Old Mill GC",
+    "courseId": "25376",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 73.5,
+    "bogey": 105.7,
+    "slope": 137
+  },
+  {
+    "course": "Old Mill GC",
+    "courseId": "25376",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 76.4,
+    "bogey": 110.2,
+    "slope": 143
+  },
+  {
+    "course": "Oquirrh Hills GC",
+    "courseId": "25377",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.8,
+    "bogey": 86.6,
+    "slope": 112
+  },
+  {
+    "course": "Oquirrh Hills GC",
+    "courseId": "25377",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.2,
+    "bogey": 93.3,
+    "slope": 125
+  },
+  {
+    "course": "Oquirrh Hills GC",
+    "courseId": "25377",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.1,
+    "bogey": 90.5,
+    "slope": 121
+  },
+  {
+    "course": "Oquirrh Hills GC",
+    "courseId": "25377",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.8,
+    "bogey": 82.7,
+    "slope": 107
+  },
+  {
+    "course": "Oquirrh Hills GC",
+    "courseId": "25377",
+    "tee": "White",
+    "gender": "female",
+    "rating": 71.1,
+    "bogey": 101.7,
+    "slope": 130
+  },
+  {
+    "course": "Oquirrh Hills GC",
+    "courseId": "25377",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.2,
+    "bogey": 95.6,
+    "slope": 121
+  },
+  {
+    "course": "Overlake GC",
+    "courseId": "25378",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.7,
+    "bogey": 91.4,
+    "slope": 117
+  },
+  {
+    "course": "Overlake GC",
+    "courseId": "25378",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.6,
+    "bogey": 95.6,
+    "slope": 124
+  },
+  {
+    "course": "Overlake GC",
+    "courseId": "25378",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.1,
+    "bogey": 87.3,
+    "slope": 109
+  },
+  {
+    "course": "Overlake GC",
+    "courseId": "25378",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.3,
+    "bogey": 81.8,
+    "slope": 100
+  },
+  {
+    "course": "Overlake GC",
+    "courseId": "25378",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.7,
+    "bogey": 102.7,
+    "slope": 127
+  },
+  {
+    "course": "Overlake GC",
+    "courseId": "25378",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.2,
+    "bogey": 95.6,
+    "slope": 116
+  },
+  {
+    "course": "Palisade State Park GC",
+    "courseId": "25379",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.8,
+    "bogey": 93.6,
+    "slope": 128
+  },
+  {
+    "course": "Palisade State Park GC",
+    "courseId": "25379",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.4,
+    "bogey": 90.3,
+    "slope": 124
+  },
+  {
+    "course": "Palisade State Park GC",
+    "courseId": "25379",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 64.9,
+    "bogey": 86.6,
+    "slope": 117
+  },
+  {
+    "course": "Palisade State Park GC",
+    "courseId": "25379",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.8,
+    "bogey": 105.9,
+    "slope": 140
+  },
+  {
+    "course": "Palisade State Park GC",
+    "courseId": "25379",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 69.9,
+    "bogey": 101.1,
+    "slope": 133
+  },
+  {
+    "course": "Pistol Rock Golf Course",
+    "courseId": "25380",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 69.4,
+    "bogey": 91.2,
+    "slope": 117
+  },
+  {
+    "course": "Pistol Rock Golf Course",
+    "courseId": "25380",
+    "tee": "Blue/Black",
+    "gender": "male",
+    "rating": 68.1,
+    "bogey": 89.4,
+    "slope": 115
+  },
+  {
+    "course": "Pistol Rock Golf Course",
+    "courseId": "25380",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 66.8,
+    "bogey": 87.6,
+    "slope": 112
+  },
+  {
+    "course": "Pistol Rock Golf Course",
+    "courseId": "25380",
+    "tee": "White/Blue",
+    "gender": "male",
+    "rating": 65.3,
+    "bogey": 85.6,
+    "slope": 110
+  },
+  {
+    "course": "Pistol Rock Golf Course",
+    "courseId": "25380",
+    "tee": "White",
+    "gender": "male",
+    "rating": 63.8,
+    "bogey": 83.6,
+    "slope": 107
+  },
+  {
+    "course": "Pistol Rock Golf Course",
+    "courseId": "25380",
+    "tee": "White",
+    "gender": "female",
+    "rating": 69.0,
+    "bogey": 97.0,
+    "slope": 119
+  },
+  {
+    "course": "Pistol Rock Golf Course",
+    "courseId": "25380",
+    "tee": "Red/White",
+    "gender": "female",
+    "rating": 66.7,
+    "bogey": 94.1,
+    "slope": 117
+  },
+  {
+    "course": "Pistol Rock Golf Course",
+    "courseId": "25380",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 64.4,
+    "bogey": 91.2,
+    "slope": 114
+  },
+  {
+    "course": "Park City GC",
+    "courseId": "25381",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.2,
+    "bogey": 97.4,
+    "slope": 136
+  },
+  {
+    "course": "Park City GC",
+    "courseId": "25381",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.0,
+    "bogey": 94.6,
+    "slope": 133
+  },
+  {
+    "course": "Park City GC",
+    "courseId": "25381",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 67.0,
+    "bogey": 89.2,
+    "slope": 120
+  },
+  {
+    "course": "Park City GC",
+    "courseId": "25381",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 66.1,
+    "bogey": 87.5,
+    "slope": 115
+  },
+  {
+    "course": "Park City GC",
+    "courseId": "25381",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.2,
+    "bogey": 109.6,
+    "slope": 146
+  },
+  {
+    "course": "Park City GC",
+    "courseId": "25381",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 71.8,
+    "bogey": 103.5,
+    "slope": 135
+  },
+  {
+    "course": "Park City GC",
+    "courseId": "25381",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 70.2,
+    "bogey": 100.5,
+    "slope": 129
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 74.8,
+    "bogey": 100.4,
+    "slope": 138
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Gold/Blue Combo",
+    "gender": "male",
+    "rating": 73.6,
+    "bogey": 98.8,
+    "slope": 136
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 72.3,
+    "bogey": 97.1,
+    "slope": 134
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 71.1,
+    "bogey": 95.5,
+    "slope": 131
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "White",
+    "gender": "male",
+    "rating": 70.2,
+    "bogey": 93.8,
+    "slope": 127
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "White/Silver Combo",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 92.4,
+    "slope": 126
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 67.8,
+    "bogey": 90.7,
+    "slope": 124
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Silver/Red Combo",
+    "gender": "male",
+    "rating": 66.9,
+    "bogey": 89.7,
+    "slope": 123
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 65.7,
+    "bogey": 88.1,
+    "slope": 121
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "White",
+    "gender": "female",
+    "rating": 76.1,
+    "bogey": 110.4,
+    "slope": 146
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "White/Silver Combo",
+    "gender": "female",
+    "rating": 74.9,
+    "bogey": 108.7,
+    "slope": 143
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 73.5,
+    "bogey": 106.7,
+    "slope": 141
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Silver/Red Combo",
+    "gender": "female",
+    "rating": 72.6,
+    "bogey": 105.3,
+    "slope": 139
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 71.5,
+    "bogey": 103.5,
+    "slope": 136
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Red/Green Combo",
+    "gender": "male",
+    "rating": 63.7,
+    "bogey": 85.1,
+    "slope": 115
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 62.2,
+    "bogey": 83.1,
+    "slope": 113
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Red/Green Combo",
+    "gender": "female",
+    "rating": 68.6,
+    "bogey": 99.4,
+    "slope": 131
+  },
+  {
+    "course": "Park Meadows CC",
+    "courseId": "25382",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 66.6,
+    "bogey": 96.3,
+    "slope": 126
+  },
+  {
+    "course": "Promontory Club",
+    "courseId": "25383",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 56.5,
+    "bogey": 74.8,
+    "slope": 99
+  },
+  {
+    "course": "Promontory Club",
+    "courseId": "25383",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 55.5,
+    "bogey": 73.3,
+    "slope": 96
+  },
+  {
+    "course": "Promontory Club",
+    "courseId": "25383",
+    "tee": "Rust",
+    "gender": "male",
+    "rating": 53.0,
+    "bogey": 69.1,
+    "slope": 87
+  },
+  {
+    "course": "Promontory Club",
+    "courseId": "25383",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 59.0,
+    "bogey": 82.4,
+    "slope": 100
+  },
+  {
+    "course": "Promontory Club",
+    "courseId": "25383",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 58.0,
+    "bogey": 80.9,
+    "slope": 97
+  },
+  {
+    "course": "Promontory Club",
+    "courseId": "25383",
+    "tee": "Rust",
+    "gender": "female",
+    "rating": 55.6,
+    "bogey": 76.4,
+    "slope": 88
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Forward (Red)",
+    "gender": "female",
+    "rating": 70.0,
+    "bogey": 101.8,
+    "slope": 135
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Golden Bear (Gold)",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 97.9,
+    "slope": 129
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Member (Silver)",
+    "gender": "female",
+    "rating": 74.4,
+    "bogey": 109.2,
+    "slope": 148
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Nicklaus (Blue)",
+    "gender": "female",
+    "rating": 78.9,
+    "bogey": 115.9,
+    "slope": 155
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Signature (Black)",
+    "gender": "female",
+    "rating": 83.7,
+    "bogey": 122.9,
+    "slope": 155
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Nicklaus (Blue)",
+    "gender": "male",
+    "rating": 73.3,
+    "bogey": 101.0,
+    "slope": 149
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Member (Silver)",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 94.7,
+    "slope": 139
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Forward (Red)",
+    "gender": "male",
+    "rating": 65.4,
+    "bogey": 87.5,
+    "slope": 119
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Signature (Black)",
+    "gender": "male",
+    "rating": 77.2,
+    "bogey": 106.3,
+    "slope": 155
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Golden Bear (Gold)",
+    "gender": "male",
+    "rating": 63.6,
+    "bogey": 85.1,
+    "slope": 116
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Black/Blue Combo",
+    "gender": "male",
+    "rating": 75.1,
+    "bogey": 103.3,
+    "slope": 152
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Blue/Silver Combo",
+    "gender": "male",
+    "rating": 71.4,
+    "bogey": 98.2,
+    "slope": 144
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Silver/Red Combo",
+    "gender": "male",
+    "rating": 67.5,
+    "bogey": 90.6,
+    "slope": 124
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Black/Blue Combo",
+    "gender": "female",
+    "rating": 81.1,
+    "bogey": 119.0,
+    "slope": 155
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Blue/Silver Combo",
+    "gender": "female",
+    "rating": 76.8,
+    "bogey": 112.7,
+    "slope": 152
+  },
+  {
+    "course": "Red Ledges GC",
+    "courseId": "25384",
+    "tee": "Silver/Red Combo",
+    "gender": "female",
+    "rating": 72.0,
+    "bogey": 105.1,
+    "slope": 140
+  },
+  {
+    "course": "Remuda Golf Course",
+    "courseId": "25385",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 88.7,
+    "slope": 110
+  },
+  {
+    "course": "Remuda Golf Course",
+    "courseId": "25385",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 66.5,
+    "bogey": 86.0,
+    "slope": 105
+  },
+  {
+    "course": "Remuda Golf Course",
+    "courseId": "25385",
+    "tee": "White",
+    "gender": "male",
+    "rating": 64.0,
+    "bogey": 82.3,
+    "slope": 99
+  },
+  {
+    "course": "Remuda Golf Course",
+    "courseId": "25385",
+    "tee": "White",
+    "gender": "female",
+    "rating": 69.1,
+    "bogey": 96.3,
+    "slope": 116
+  },
+  {
+    "course": "Remuda Golf Course",
+    "courseId": "25385",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 64.3,
+    "bogey": 89.1,
+    "slope": 105
+  },
+  {
+    "course": "Remuda Golf Course",
+    "courseId": "25385",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 60.6,
+    "bogey": 77.7,
+    "slope": 92
+  },
+  {
+    "course": "River Oaks GC",
+    "courseId": "25386",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.5,
+    "bogey": 94.7,
+    "slope": 130
+  },
+  {
+    "course": "River Oaks GC",
+    "courseId": "25386",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 67.5,
+    "bogey": 89.6,
+    "slope": 119
+  },
+  {
+    "course": "River Oaks GC",
+    "courseId": "25386",
+    "tee": "White",
+    "gender": "male",
+    "rating": 64.6,
+    "bogey": 85.1,
+    "slope": 111
+  },
+  {
+    "course": "River Oaks GC",
+    "courseId": "25386",
+    "tee": "White",
+    "gender": "female",
+    "rating": 69.8,
+    "bogey": 100.1,
+    "slope": 129
+  },
+  {
+    "course": "River Oaks GC",
+    "courseId": "25386",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 64.5,
+    "bogey": 90.4,
+    "slope": 110
+  },
+  {
+    "course": "River Oaks GC",
+    "courseId": "25386",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 61.5,
+    "bogey": 80.8,
+    "slope": 104
+  },
+  {
+    "course": "Riverbend GC",
+    "courseId": "25387",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 64.3,
+    "bogey": 84.4,
+    "slope": 108
+  },
+  {
+    "course": "Riverbend GC",
+    "courseId": "25387",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 70.4,
+    "bogey": 94.0,
+    "slope": 127
+  },
+  {
+    "course": "Riverbend GC",
+    "courseId": "25387",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.5,
+    "bogey": 97.5,
+    "slope": 135
+  },
+  {
+    "course": "Riverbend GC",
+    "courseId": "25387",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.8,
+    "bogey": 89.5,
+    "slope": 117
+  },
+  {
+    "course": "Riverbend GC",
+    "courseId": "25387",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.0,
+    "bogey": 104.6,
+    "slope": 134
+  },
+  {
+    "course": "Riverbend GC",
+    "courseId": "25387",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 69.1,
+    "bogey": 97.7,
+    "slope": 121
+  },
+  {
+    "course": "Riverbend GC",
+    "courseId": "25387",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 76.2,
+    "bogey": 109.5,
+    "slope": 141
+  },
+  {
+    "course": "Riverbend GC",
+    "courseId": "25387",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 78.8,
+    "bogey": 113.2,
+    "slope": 146
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 73.7,
+    "bogey": 106.4,
+    "slope": 139
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Bronze",
+    "gender": "female",
+    "rating": 69.7,
+    "bogey": 100.0,
+    "slope": 129
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 70.4,
+    "bogey": 94.4,
+    "slope": 129
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Gold/Silver Combo",
+    "gender": "male",
+    "rating": 69.3,
+    "bogey": 92.9,
+    "slope": 127
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Gold/Silver Combo",
+    "gender": "female",
+    "rating": 75.3,
+    "bogey": 108.5,
+    "slope": 141
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 68.0,
+    "bogey": 90.9,
+    "slope": 124
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Bronze",
+    "gender": "male",
+    "rating": 64.6,
+    "bogey": 85.9,
+    "slope": 115
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 76.6,
+    "bogey": 110.4,
+    "slope": 144
+  },
+  {
+    "course": "Riverside CC",
+    "courseId": "25388",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.4,
+    "bogey": 98.5,
+    "slope": 136
+  },
+  {
+    "course": "Roosevelt GC",
+    "courseId": "25389",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.3,
+    "bogey": 92.7,
+    "slope": 121
+  },
+  {
+    "course": "Roosevelt GC",
+    "courseId": "25389",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.1,
+    "bogey": 96.8,
+    "slope": 128
+  },
+  {
+    "course": "Roosevelt GC",
+    "courseId": "25389",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.2,
+    "bogey": 88.0,
+    "slope": 112
+  },
+  {
+    "course": "Roosevelt GC",
+    "courseId": "25389",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.0,
+    "bogey": 82.8,
+    "slope": 107
+  },
+  {
+    "course": "Roosevelt GC",
+    "courseId": "25389",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 69.4,
+    "bogey": 98.1,
+    "slope": 122
+  },
+  {
+    "course": "Roosevelt GC",
+    "courseId": "25389",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.0,
+    "bogey": 103.7,
+    "slope": 130
+  },
+  {
+    "course": "Roosevelt GC",
+    "courseId": "25389",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 76.9,
+    "bogey": 109.5,
+    "slope": 139
+  },
+  {
+    "course": "Roosevelt GC",
+    "courseId": "25389",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 80.5,
+    "bogey": 114.9,
+    "slope": 146
+  },
+  {
+    "course": "Rose Park GC",
+    "courseId": "25390",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 71.2,
+    "bogey": 93.5,
+    "slope": 120
+  },
+  {
+    "course": "Rose Park GC",
+    "courseId": "25390",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.6,
+    "bogey": 91.2,
+    "slope": 116
+  },
+  {
+    "course": "Rose Park GC",
+    "courseId": "25390",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.6,
+    "bogey": 88.2,
+    "slope": 111
+  },
+  {
+    "course": "Rose Park GC",
+    "courseId": "25390",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.8,
+    "bogey": 103.2,
+    "slope": 129
+  },
+  {
+    "course": "Rose Park GC",
+    "courseId": "25390",
+    "tee": "Purple",
+    "gender": "female",
+    "rating": 70.3,
+    "bogey": 99.6,
+    "slope": 125
+  },
+  {
+    "course": "Rose Park GC",
+    "courseId": "25390",
+    "tee": "Purple",
+    "gender": "male",
+    "rating": 65.8,
+    "bogey": 85.4,
+    "slope": 106
+  },
+  {
+    "course": "Round Valley GC",
+    "courseId": "25391",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.7,
+    "bogey": 94.1,
+    "slope": 126
+  },
+  {
+    "course": "Round Valley GC",
+    "courseId": "25391",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 73.7,
+    "bogey": 104.4,
+    "slope": 130
+  },
+  {
+    "course": "Round Valley GC",
+    "courseId": "25391",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.0,
+    "bogey": 90.0,
+    "slope": 119
+  },
+  {
+    "course": "Round Valley GC",
+    "courseId": "25391",
+    "tee": "White",
+    "gender": "male",
+    "rating": 63.9,
+    "bogey": 82.9,
+    "slope": 102
+  },
+  {
+    "course": "Round Valley GC",
+    "courseId": "25391",
+    "tee": "White",
+    "gender": "female",
+    "rating": 68.7,
+    "bogey": 96.8,
+    "slope": 120
+  },
+  {
+    "course": "Round Valley GC",
+    "courseId": "25391",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.4,
+    "bogey": 94.7,
+    "slope": 116
+  },
+  {
+    "course": "Schneiter's Bluff GC",
+    "courseId": "25392",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 70.1,
+    "bogey": 92.2,
+    "slope": 119
+  },
+  {
+    "course": "Schneiter's Bluff GC",
+    "courseId": "25392",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.0,
+    "bogey": 95.3,
+    "slope": 116
+  },
+  {
+    "course": "Schneiter's Bluff GC",
+    "courseId": "25392",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 70.9,
+    "bogey": 100.1,
+    "slope": 124
+  },
+  {
+    "course": "Schneiter's Bluff GC",
+    "courseId": "25392",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.6,
+    "bogey": 104.0,
+    "slope": 129
+  },
+  {
+    "course": "Schneiter's Bluff GC",
+    "courseId": "25392",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.9,
+    "bogey": 89.0,
+    "slope": 114
+  },
+  {
+    "course": "Schneiter's Bluff GC",
+    "courseId": "25392",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 66.0,
+    "bogey": 85.7,
+    "slope": 106
+  },
+  {
+    "course": "Schneiter's Bluff GC",
+    "courseId": "25392",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.1,
+    "bogey": 81.6,
+    "slope": 100
+  },
+  {
+    "course": "Schneiter's Pebblebrook GC",
+    "courseId": "25393",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 61.8,
+    "bogey": 84.8,
+    "slope": 98
+  },
+  {
+    "course": "Schneiter's Pebblebrook GC",
+    "courseId": "25393",
+    "tee": "White",
+    "gender": "female",
+    "rating": 63.2,
+    "bogey": 86.8,
+    "slope": 100
+  },
+  {
+    "course": "Schneiter's Pebblebrook GC",
+    "courseId": "25393",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 63.4,
+    "bogey": 81.4,
+    "slope": 97
+  },
+  {
+    "course": "Schneiter's Pebblebrook GC",
+    "courseId": "25393",
+    "tee": "White",
+    "gender": "male",
+    "rating": 62.6,
+    "bogey": 80.4,
+    "slope": 96
+  },
+  {
+    "course": "Schneiter's Riverside GC",
+    "courseId": "25394",
+    "tee": "White",
+    "gender": "female",
+    "rating": 69.8,
+    "bogey": 99.8,
+    "slope": 128
+  },
+  {
+    "course": "Schneiter's Riverside GC",
+    "courseId": "25394",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.1,
+    "bogey": 85.3,
+    "slope": 109
+  },
+  {
+    "course": "Schneiter's Riverside GC",
+    "courseId": "25394",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 66.9,
+    "bogey": 88.4,
+    "slope": 116
+  },
+  {
+    "course": "Schneiter's Riverside GC",
+    "courseId": "25394",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 66.4,
+    "bogey": 93.2,
+    "slope": 114
+  },
+  {
+    "course": "Schneiter's Riverside GC",
+    "courseId": "25394",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 61.7,
+    "bogey": 80.8,
+    "slope": 103
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 90.8,
+    "slope": 121
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "White/Blue Combo",
+    "gender": "male",
+    "rating": 67.6,
+    "bogey": 89.3,
+    "slope": 117
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "White",
+    "gender": "male",
+    "rating": 66.8,
+    "bogey": 87.8,
+    "slope": 113
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.4,
+    "bogey": 104.2,
+    "slope": 135
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 69.8,
+    "bogey": 100.4,
+    "slope": 130
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "Gold/White Combo",
+    "gender": "male",
+    "rating": 65.8,
+    "bogey": 86.4,
+    "slope": 111
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 64.8,
+    "bogey": 85.0,
+    "slope": 109
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "Red/Gold Combo",
+    "gender": "female",
+    "rating": 68.4,
+    "bogey": 98.0,
+    "slope": 126
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.0,
+    "bogey": 95.6,
+    "slope": 121
+  },
+  {
+    "course": "Skyline Mountain Resort",
+    "courseId": "25396",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.8,
+    "bogey": 82.2,
+    "slope": 104
+  },
+  {
+    "course": "Skyway GC",
+    "courseId": "25397",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.8,
+    "bogey": 90.6,
+    "slope": 123
+  },
+  {
+    "course": "Skyway GC",
+    "courseId": "25397",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.0,
+    "bogey": 92.8,
+    "slope": 128
+  },
+  {
+    "course": "Skyway GC",
+    "courseId": "25397",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.8,
+    "bogey": 106.8,
+    "slope": 144
+  },
+  {
+    "course": "Skyway GC",
+    "courseId": "25397",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.6,
+    "bogey": 96.8,
+    "slope": 124
+  },
+  {
+    "course": "Sleepy Ridge GC",
+    "courseId": "25398",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.2,
+    "bogey": 91.5,
+    "slope": 120
+  },
+  {
+    "course": "Sleepy Ridge GC",
+    "courseId": "25398",
+    "tee": "White",
+    "gender": "male",
+    "rating": 66.9,
+    "bogey": 88.1,
+    "slope": 114
+  },
+  {
+    "course": "Sleepy Ridge GC",
+    "courseId": "25398",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 63.3,
+    "bogey": 82.7,
+    "slope": 104
+  },
+  {
+    "course": "Sleepy Ridge GC",
+    "courseId": "25398",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.7,
+    "bogey": 104.6,
+    "slope": 135
+  },
+  {
+    "course": "Sleepy Ridge GC",
+    "courseId": "25398",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 68.3,
+    "bogey": 96.9,
+    "slope": 122
+  },
+  {
+    "course": "Sleepy Ridge GC",
+    "courseId": "25398",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 65.4,
+    "bogey": 92.7,
+    "slope": 116
+  },
+  {
+    "course": "Sleepy Ridge GC",
+    "courseId": "25398",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 61.1,
+    "bogey": 79.6,
+    "slope": 100
+  },
+  {
+    "course": "Sleepy Ridge GC",
+    "courseId": "25398",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.0,
+    "bogey": 95.5,
+    "slope": 127
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "Black (Silver Course)",
+    "gender": "male",
+    "rating": 72.3,
+    "bogey": 97.0,
+    "slope": 133
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "White (Silver Course)",
+    "gender": "female",
+    "rating": 73.5,
+    "bogey": 105.4,
+    "slope": 135
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "Gold (Silver Course)",
+    "gender": "male",
+    "rating": 74.0,
+    "bogey": 99.5,
+    "slope": 138
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "Blue (Silver Course)",
+    "gender": "male",
+    "rating": 70.2,
+    "bogey": 93.5,
+    "slope": 126
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "White (Silver Course)",
+    "gender": "male",
+    "rating": 67.7,
+    "bogey": 89.9,
+    "slope": 120
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "Red (Silver Course)",
+    "gender": "male",
+    "rating": 64.8,
+    "bogey": 84.7,
+    "slope": 107
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "Red (Silver Course)",
+    "gender": "female",
+    "rating": 69.9,
+    "bogey": 100.0,
+    "slope": 128
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "Blue/White Combo (Silver Course)",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 90.6,
+    "slope": 120
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "Red/White Combo (Silver Course)",
+    "gender": "male",
+    "rating": 65.6,
+    "bogey": 86.1,
+    "slope": 111
+  },
+  {
+    "course": "Soldier Hollow",
+    "courseId": "25399",
+    "tee": "Red/White Combo (Silver Course)",
+    "gender": "female",
+    "rating": 70.5,
+    "bogey": 101.4,
+    "slope": 131
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.4,
+    "bogey": 92.9,
+    "slope": 127
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 69.6,
+    "bogey": 99.5,
+    "slope": 127
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 73.3,
+    "bogey": 98.7,
+    "slope": 137
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 71.4,
+    "bogey": 96.1,
+    "slope": 133
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.0,
+    "bogey": 89.6,
+    "slope": 122
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 64.9,
+    "bogey": 85.8,
+    "slope": 113
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 79.7,
+    "bogey": 115.1,
+    "slope": 150
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 77.5,
+    "bogey": 111.6,
+    "slope": 145
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.0,
+    "bogey": 108.0,
+    "slope": 140
+  },
+  {
+    "course": "South Mountain GC",
+    "courseId": "25400",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.6,
+    "bogey": 104.3,
+    "slope": 135
+  },
+  {
+    "course": "Stansbury Park GC",
+    "courseId": "25401",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.4,
+    "bogey": 92.2,
+    "slope": 123
+  },
+  {
+    "course": "Stansbury Park GC",
+    "courseId": "25401",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.1,
+    "bogey": 94.3,
+    "slope": 125
+  },
+  {
+    "course": "Stansbury Park GC",
+    "courseId": "25401",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 71.2,
+    "bogey": 101.3,
+    "slope": 128
+  },
+  {
+    "course": "Stansbury Park GC",
+    "courseId": "25401",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 65.7,
+    "bogey": 87.0,
+    "slope": 115
+  },
+  {
+    "course": "Stansbury Park GC",
+    "courseId": "25401",
+    "tee": "White",
+    "gender": "female",
+    "rating": 75.1,
+    "bogey": 107.0,
+    "slope": 135
+  },
+  {
+    "course": "Stonebridge GC",
+    "courseId": "25402",
+    "tee": "White (SR/SB)",
+    "gender": "male",
+    "rating": 68.9,
+    "bogey": 91.4,
+    "slope": 121
+  },
+  {
+    "course": "Stonebridge GC",
+    "courseId": "25402",
+    "tee": "Blue (SR/SB)",
+    "gender": "male",
+    "rating": 71.1,
+    "bogey": 95.4,
+    "slope": 131
+  },
+  {
+    "course": "Stonebridge GC",
+    "courseId": "25402",
+    "tee": "Yellow (SR/SB)",
+    "gender": "male",
+    "rating": 65.3,
+    "bogey": 85.3,
+    "slope": 108
+  },
+  {
+    "course": "Stonebridge GC",
+    "courseId": "25402",
+    "tee": "Yellow (SR/SB)",
+    "gender": "female",
+    "rating": 70.1,
+    "bogey": 99.4,
+    "slope": 124
+  },
+  {
+    "course": "Stonebridge GC",
+    "courseId": "25402",
+    "tee": "Red (SR/SB)",
+    "gender": "female",
+    "rating": 68.0,
+    "bogey": 93.7,
+    "slope": 109
+  },
+  {
+    "course": "Stonebridge GC",
+    "courseId": "25402",
+    "tee": "Champ (SR/SB)",
+    "gender": "male",
+    "rating": 73.0,
+    "bogey": 98.1,
+    "slope": 135
+  },
+  {
+    "course": "Stonebridge GC",
+    "courseId": "25402",
+    "tee": "White (SR/SB)",
+    "gender": "female",
+    "rating": 74.8,
+    "bogey": 106.7,
+    "slope": 135
+  },
+  {
+    "course": "Sun Hills GC",
+    "courseId": "25403",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 69.0,
+    "bogey": 97.4,
+    "slope": 120
+  },
+  {
+    "course": "Sun Hills GC",
+    "courseId": "25403",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.3,
+    "bogey": 90.0,
+    "slope": 117
+  },
+  {
+    "course": "Sun Hills GC",
+    "courseId": "25403",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.4,
+    "bogey": 93.2,
+    "slope": 123
+  },
+  {
+    "course": "Sun Hills GC",
+    "courseId": "25403",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 70.9,
+    "bogey": 101.1,
+    "slope": 128
+  },
+  {
+    "course": "Sun Hills GC",
+    "courseId": "25403",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 65.9,
+    "bogey": 87.2,
+    "slope": 115
+  },
+  {
+    "course": "Sun Hills GC",
+    "courseId": "25403",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.4,
+    "bogey": 104.9,
+    "slope": 134
+  },
+  {
+    "course": "Sunset View GC",
+    "courseId": "25404",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 71.1,
+    "bogey": 100.1,
+    "slope": 123
+  },
+  {
+    "course": "Sunset View GC",
+    "courseId": "25404",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 74.2,
+    "bogey": 104.8,
+    "slope": 130
+  },
+  {
+    "course": "Sunset View GC",
+    "courseId": "25404",
+    "tee": "White",
+    "gender": "female",
+    "rating": 76.8,
+    "bogey": 108.7,
+    "slope": 136
+  },
+  {
+    "course": "Sunset View GC",
+    "courseId": "25404",
+    "tee": "White",
+    "gender": "male",
+    "rating": 70.7,
+    "bogey": 93.4,
+    "slope": 123
+  },
+  {
+    "course": "Sunset View GC",
+    "courseId": "25404",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 89.8,
+    "slope": 116
+  },
+  {
+    "course": "Sunset View GC",
+    "courseId": "25404",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 72.9,
+    "bogey": 96.3,
+    "slope": 126
+  },
+  {
+    "course": "Sunset View GC",
+    "courseId": "25404",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 65.2,
+    "bogey": 85.4,
+    "slope": 109
+  },
+  {
+    "course": "TalonsCove GC",
+    "courseId": "25406",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 72.6,
+    "bogey": 105.2,
+    "slope": 138
+  },
+  {
+    "course": "TalonsCove GC",
+    "courseId": "25406",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 69.4,
+    "bogey": 92.7,
+    "slope": 126
+  },
+  {
+    "course": "TalonsCove GC",
+    "courseId": "25406",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.7,
+    "bogey": 97.4,
+    "slope": 133
+  },
+  {
+    "course": "TalonsCove GC",
+    "courseId": "25406",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 67.5,
+    "bogey": 89.1,
+    "slope": 116
+  },
+  {
+    "course": "TalonsCove GC",
+    "courseId": "25406",
+    "tee": "White",
+    "gender": "male",
+    "rating": 63.9,
+    "bogey": 83.5,
+    "slope": 106
+  },
+  {
+    "course": "TalonsCove GC",
+    "courseId": "25406",
+    "tee": "White",
+    "gender": "female",
+    "rating": 68.4,
+    "bogey": 97.6,
+    "slope": 124
+  },
+  {
+    "course": "Thanksgiving Point GC",
+    "courseId": "25407",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.9,
+    "bogey": 93.1,
+    "slope": 125
+  },
+  {
+    "course": "Thanksgiving Point GC",
+    "courseId": "25407",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 72.0,
+    "bogey": 95.9,
+    "slope": 129
+  },
+  {
+    "course": "Thanksgiving Point GC",
+    "courseId": "25407",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 73.0,
+    "bogey": 105.5,
+    "slope": 138
+  },
+  {
+    "course": "Thanksgiving Point GC",
+    "courseId": "25407",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 67.0,
+    "bogey": 89.5,
+    "slope": 122
+  },
+  {
+    "course": "Thanksgiving Point GC",
+    "courseId": "25407",
+    "tee": "White",
+    "gender": "female",
+    "rating": 75.8,
+    "bogey": 109.7,
+    "slope": 144
+  },
+  {
+    "course": "Thanksgiving Point GC",
+    "courseId": "25407",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 74.3,
+    "bogey": 99.0,
+    "slope": 133
+  },
+  {
+    "course": "Thanksgiving Point GC",
+    "courseId": "25407",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 76.2,
+    "bogey": 101.7,
+    "slope": 138
+  },
+  {
+    "course": "The Barn GC",
+    "courseId": "25408",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.3,
+    "bogey": 102.5,
+    "slope": 128
+  },
+  {
+    "course": "The Barn GC",
+    "courseId": "25408",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 90.3,
+    "slope": 114
+  },
+  {
+    "course": "The Barn GC",
+    "courseId": "25408",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 74.1,
+    "bogey": 105.2,
+    "slope": 132
+  },
+  {
+    "course": "The Barn GC",
+    "courseId": "25408",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.7,
+    "bogey": 88.5,
+    "slope": 112
+  },
+  {
+    "course": "The Barn GC",
+    "courseId": "25408",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.4,
+    "bogey": 96.5,
+    "slope": 120
+  },
+  {
+    "course": "The Barn GC",
+    "courseId": "25408",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.6,
+    "bogey": 83.9,
+    "slope": 110
+  },
+  {
+    "course": "The Country Club",
+    "courseId": "25409",
+    "tee": "White",
+    "gender": "female",
+    "rating": 75.2,
+    "bogey": 108.7,
+    "slope": 142
+  },
+  {
+    "course": "The Country Club",
+    "courseId": "25409",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 72.9,
+    "bogey": 98.1,
+    "slope": 136
+  },
+  {
+    "course": "The Country Club",
+    "courseId": "25409",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.7,
+    "bogey": 93.9,
+    "slope": 130
+  },
+  {
+    "course": "The Country Club",
+    "courseId": "25409",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 67.1,
+    "bogey": 90.3,
+    "slope": 125
+  },
+  {
+    "course": "The Country Club",
+    "courseId": "25409",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 75.1,
+    "bogey": 101.1,
+    "slope": 140
+  },
+  {
+    "course": "The Country Club",
+    "courseId": "25409",
+    "tee": "Blue/Black Combo",
+    "gender": "male",
+    "rating": 74.2,
+    "bogey": 99.8,
+    "slope": 138
+  },
+  {
+    "course": "The Country Club",
+    "courseId": "25409",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 72.5,
+    "bogey": 104.2,
+    "slope": 135
+  },
+  {
+    "course": "The Country Club",
+    "courseId": "25409",
+    "tee": "White/Blue Combo",
+    "gender": "male",
+    "rating": 70.8,
+    "bogey": 95.4,
+    "slope": 132
+  },
+  {
+    "course": "The Hideout GC",
+    "courseId": "25410",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.7,
+    "bogey": 93.6,
+    "slope": 129
+  },
+  {
+    "course": "The Hideout GC",
+    "courseId": "25410",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 68.1,
+    "bogey": 98.4,
+    "slope": 129
+  },
+  {
+    "course": "The Hideout GC",
+    "courseId": "25410",
+    "tee": "White",
+    "gender": "female",
+    "rating": 72.3,
+    "bogey": 105.5,
+    "slope": 141
+  },
+  {
+    "course": "The Hideout GC",
+    "courseId": "25410",
+    "tee": "White",
+    "gender": "male",
+    "rating": 67.4,
+    "bogey": 89.0,
+    "slope": 116
+  },
+  {
+    "course": "The Hideout GC",
+    "courseId": "25410",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 75.4,
+    "bogey": 110.3,
+    "slope": 148
+  },
+  {
+    "course": "The Hideout GC",
+    "courseId": "25410",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 78.3,
+    "bogey": 114.4,
+    "slope": 153
+  },
+  {
+    "course": "The Hideout GC",
+    "courseId": "25410",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 63.4,
+    "bogey": 84.2,
+    "slope": 112
+  },
+  {
+    "course": "The Hideout GC",
+    "courseId": "25410",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 71.9,
+    "bogey": 97.1,
+    "slope": 136
+  },
+  {
+    "course": "The Oaks at Spanish Fork",
+    "courseId": "25411",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.2,
+    "bogey": 95.2,
+    "slope": 129
+  },
+  {
+    "course": "The Oaks at Spanish Fork",
+    "courseId": "25411",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.1,
+    "bogey": 89.9,
+    "slope": 117
+  },
+  {
+    "course": "The Oaks at Spanish Fork",
+    "courseId": "25411",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 65.4,
+    "bogey": 86.2,
+    "slope": 112
+  },
+  {
+    "course": "The Oaks at Spanish Fork",
+    "courseId": "25411",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.6,
+    "bogey": 105.9,
+    "slope": 137
+  },
+  {
+    "course": "The Oaks at Spanish Fork",
+    "courseId": "25411",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 70.5,
+    "bogey": 99.9,
+    "slope": 125
+  },
+  {
+    "course": "The Oaks at Spanish Fork",
+    "courseId": "25411",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 77.6,
+    "bogey": 111.8,
+    "slope": 145
+  },
+  {
+    "course": "The Ranches GC",
+    "courseId": "25412",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 73.6,
+    "bogey": 106.6,
+    "slope": 140
+  },
+  {
+    "course": "The Ranches GC",
+    "courseId": "25412",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 72.7,
+    "bogey": 97.2,
+    "slope": 132
+  },
+  {
+    "course": "The Ranches GC",
+    "courseId": "25412",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 70.8,
+    "bogey": 94.2,
+    "slope": 126
+  },
+  {
+    "course": "The Ranches GC",
+    "courseId": "25412",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 67.9,
+    "bogey": 90.2,
+    "slope": 120
+  },
+  {
+    "course": "The Ranches GC",
+    "courseId": "25412",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 64.6,
+    "bogey": 84.6,
+    "slope": 108
+  },
+  {
+    "course": "The Ranches GC",
+    "courseId": "25412",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 69.3,
+    "bogey": 99.4,
+    "slope": 128
+  },
+  {
+    "course": "The Ridge GC",
+    "courseId": "25413",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 71.3,
+    "bogey": 94.9,
+    "slope": 127
+  },
+  {
+    "course": "The Ridge GC",
+    "courseId": "25413",
+    "tee": "White",
+    "gender": "female",
+    "rating": 70.8,
+    "bogey": 100.0,
+    "slope": 124
+  },
+  {
+    "course": "The Ridge GC",
+    "courseId": "25413",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 68.4,
+    "bogey": 90.4,
+    "slope": 119
+  },
+  {
+    "course": "The Ridge GC",
+    "courseId": "25413",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.5,
+    "bogey": 86.1,
+    "slope": 111
+  },
+  {
+    "course": "The Ridge GC",
+    "courseId": "25413",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 62.7,
+    "bogey": 82.1,
+    "slope": 105
+  },
+  {
+    "course": "The Ridge GC",
+    "courseId": "25413",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 67.2,
+    "bogey": 94.7,
+    "slope": 117
+  },
+  {
+    "course": "Thunderbird GC",
+    "courseId": "25414",
+    "tee": "White",
+    "gender": "female",
+    "rating": 60.6,
+    "bogey": 82.0,
+    "slope": 91
+  },
+  {
+    "course": "Thunderbird GC",
+    "courseId": "25414",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 59.6,
+    "bogey": 77.0,
+    "slope": 94
+  },
+  {
+    "course": "Thunderbird GC",
+    "courseId": "25414",
+    "tee": "White",
+    "gender": "male",
+    "rating": 59.0,
+    "bogey": 75.6,
+    "slope": 89
+  },
+  {
+    "course": "Thunderbird GC",
+    "courseId": "25414",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 58.8,
+    "bogey": 79.4,
+    "slope": 87
+  },
+  {
+    "course": "Toads Golf Course",
+    "courseId": "25415",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 62.0,
+    "bogey": 82.0,
+    "slope": 108
+  },
+  {
+    "course": "Toads Golf Course",
+    "courseId": "25415",
+    "tee": "White",
+    "gender": "male",
+    "rating": 63.8,
+    "bogey": 85.2,
+    "slope": 115
+  },
+  {
+    "course": "Toads Golf Course",
+    "courseId": "25415",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 59.8,
+    "bogey": 78.6,
+    "slope": 101
+  },
+  {
+    "course": "Toads Golf Course",
+    "courseId": "25415",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 57.0,
+    "bogey": 75.2,
+    "slope": 98
+  },
+  {
+    "course": "Toads Golf Course",
+    "courseId": "25415",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 65.4,
+    "bogey": 95.0,
+    "slope": 126
+  },
+  {
+    "course": "Toads Golf Course",
+    "courseId": "25415",
+    "tee": "White",
+    "gender": "female",
+    "rating": 68.8,
+    "bogey": 99.6,
+    "slope": 131
+  },
+  {
+    "course": "Toads Golf Course",
+    "courseId": "25415",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 62.2,
+    "bogey": 89.4,
+    "slope": 115
+  },
+  {
+    "course": "Toads Golf Course",
+    "courseId": "25415",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 59.2,
+    "bogey": 81.2,
+    "slope": 93
+  },
+  {
+    "course": "Talisker Club",
+    "courseId": "25416",
+    "tee": "The Ridge",
+    "gender": "male",
+    "rating": 26.0,
+    "bogey": 33.0,
+    "slope": 75
+  },
+  {
+    "course": "Talisker Club",
+    "courseId": "25416",
+    "tee": "The Ridge",
+    "gender": "female",
+    "rating": 27.3,
+    "bogey": 36.8,
+    "slope": 81
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.5,
+    "bogey": 95.4,
+    "slope": 129
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.8,
+    "bogey": 92.4,
+    "slope": 122
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 66.9,
+    "bogey": 89.0,
+    "slope": 119
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 72.4,
+    "bogey": 102.9,
+    "slope": 130
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 67.8,
+    "bogey": 97.6,
+    "slope": 127
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "White",
+    "gender": "female",
+    "rating": 75.5,
+    "bogey": 107.4,
+    "slope": 136
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 77.8,
+    "bogey": 110.9,
+    "slope": 141
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 80.6,
+    "bogey": 115.1,
+    "slope": 147
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 63.4,
+    "bogey": 84.1,
+    "slope": 112
+  },
+  {
+    "course": "Valley View GC",
+    "courseId": "25417",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.7,
+    "bogey": 98.5,
+    "slope": 134
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 71.0,
+    "bogey": 102.3,
+    "slope": 133
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 74.0,
+    "bogey": 100.2,
+    "slope": 141
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 93.0,
+    "slope": 129
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "White",
+    "gender": "male",
+    "rating": 72.0,
+    "bogey": 96.7,
+    "slope": 133
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Green/White Combo",
+    "gender": "male",
+    "rating": 70.0,
+    "bogey": 94.3,
+    "slope": 131
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Green/White Combo",
+    "gender": "female",
+    "rating": 76.0,
+    "bogey": 109.9,
+    "slope": 144
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "White/Gold Combo",
+    "gender": "male",
+    "rating": 72.9,
+    "bogey": 97.9,
+    "slope": 135
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Gold/Black Combo",
+    "gender": "male",
+    "rating": 74.8,
+    "bogey": 101.4,
+    "slope": 143
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Silver/Green Combo",
+    "gender": "female",
+    "rating": 73.2,
+    "bogey": 105.6,
+    "slope": 138
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Silver/Green Combo",
+    "gender": "male",
+    "rating": 67.4,
+    "bogey": 90.5,
+    "slope": 124
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 65.7,
+    "bogey": 87.4,
+    "slope": 117
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 75.0,
+    "bogey": 108.4,
+    "slope": 142
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "White",
+    "gender": "female",
+    "rating": 78.1,
+    "bogey": 113.1,
+    "slope": 149
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 75.9,
+    "bogey": 102.9,
+    "slope": 146
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Bronze",
+    "gender": "male",
+    "rating": 61.2,
+    "bogey": 80.4,
+    "slope": 103
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Bronze/Silver Combo",
+    "gender": "male",
+    "rating": 62.8,
+    "bogey": 83.6,
+    "slope": 112
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Bronze/Silver Combo",
+    "gender": "female",
+    "rating": 67.5,
+    "bogey": 97.1,
+    "slope": 126
+  },
+  {
+    "course": "Victory Ranch GC",
+    "courseId": "25418",
+    "tee": "Bronze",
+    "gender": "female",
+    "rating": 64.6,
+    "bogey": 92.1,
+    "slope": 117
+  },
+  {
+    "course": "Wasatch Mountain GC",
+    "courseId": "25419",
+    "tee": "White (Mtn)",
+    "gender": "female",
+    "rating": 71.7,
+    "bogey": 102.6,
+    "slope": 131
+  },
+  {
+    "course": "Wasatch Mountain GC",
+    "courseId": "25419",
+    "tee": "White (Mtn)",
+    "gender": "male",
+    "rating": 66.7,
+    "bogey": 88.7,
+    "slope": 119
+  },
+  {
+    "course": "Wasatch Mountain GC",
+    "courseId": "25419",
+    "tee": "Blue (Mtn)",
+    "gender": "male",
+    "rating": 69.5,
+    "bogey": 93.1,
+    "slope": 127
+  },
+  {
+    "course": "Wasatch Mountain GC",
+    "courseId": "25419",
+    "tee": "Red (Mtn)",
+    "gender": "female",
+    "rating": 67.3,
+    "bogey": 95.3,
+    "slope": 119
+  },
+  {
+    "course": "Wasatch Mountain GC",
+    "courseId": "25419",
+    "tee": "Red (Mtn)",
+    "gender": "male",
+    "rating": 62.9,
+    "bogey": 83.2,
+    "slope": 110
+  },
+  {
+    "course": "Wasatch Mountain GC",
+    "courseId": "25419",
+    "tee": "Blue/White Combo (Mtn)",
+    "gender": "male",
+    "rating": 67.9,
+    "bogey": 90.6,
+    "slope": 122
+  },
+  {
+    "course": "Wasatch Mountain GC",
+    "courseId": "25419",
+    "tee": "White/Red Combo (Mtn)",
+    "gender": "male",
+    "rating": 65.1,
+    "bogey": 86.5,
+    "slope": 115
+  },
+  {
+    "course": "Wasatch Mountain GC",
+    "courseId": "25419",
+    "tee": "White/Red Combo (Mtn)",
+    "gender": "female",
+    "rating": 69.6,
+    "bogey": 99.7,
+    "slope": 128
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 71.1,
+    "bogey": 96.4,
+    "slope": 137
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 92.7,
+    "slope": 127
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 70.5,
+    "bogey": 95.0,
+    "slope": 132
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.3,
+    "bogey": 107.3,
+    "slope": 140
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 71.3,
+    "bogey": 102.5,
+    "slope": 133
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 66.6,
+    "bogey": 88.2,
+    "slope": 116
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.5,
+    "bogey": 99.8,
+    "slope": 142
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Green/White Combo",
+    "gender": "female",
+    "rating": 73.2,
+    "bogey": 105.5,
+    "slope": 137
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "White/Green Combo",
+    "gender": "male",
+    "rating": 68.1,
+    "bogey": 90.9,
+    "slope": 123
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Black/Blue Combo",
+    "gender": "male",
+    "rating": 72.4,
+    "bogey": 98.2,
+    "slope": 139
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 77.1,
+    "bogey": 111.6,
+    "slope": 147
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 80.2,
+    "bogey": 116.1,
+    "slope": 151
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Black/Blue Combo",
+    "gender": "female",
+    "rating": 78.8,
+    "bogey": 114.1,
+    "slope": 149
+  },
+  {
+    "course": "Willow Creek CC",
+    "courseId": "25420",
+    "tee": "Blue/White Combo",
+    "gender": "female",
+    "rating": 75.9,
+    "bogey": 109.7,
+    "slope": 143
+  },
+  {
+    "course": "Wolf Creek GC",
+    "courseId": "25421",
+    "tee": "White",
+    "gender": "male",
+    "rating": 69.6,
+    "bogey": 94.3,
+    "slope": 133
+  },
+  {
+    "course": "Wolf Creek GC",
+    "courseId": "25421",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 70.8,
+    "bogey": 96.1,
+    "slope": 136
+  },
+  {
+    "course": "Wolf Creek GC",
+    "courseId": "25421",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 72.9,
+    "bogey": 98.7,
+    "slope": 139
+  },
+  {
+    "course": "Wolf Creek GC",
+    "courseId": "25421",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 66.0,
+    "bogey": 88.8,
+    "slope": 123
+  },
+  {
+    "course": "Wolf Creek GC",
+    "courseId": "25421",
+    "tee": "White",
+    "gender": "female",
+    "rating": 75.5,
+    "bogey": 109.4,
+    "slope": 144
+  },
+  {
+    "course": "Wolf Creek GC",
+    "courseId": "25421",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 71.3,
+    "bogey": 103.2,
+    "slope": 136
+  },
+  {
+    "course": "Wolf Creek GC",
+    "courseId": "25421",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 71.1,
+    "bogey": 103.0,
+    "slope": 136
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 73.2,
+    "bogey": 98.2,
+    "slope": 135
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 71.7,
+    "bogey": 95.9,
+    "slope": 130
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.5,
+    "bogey": 90.6,
+    "slope": 119
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 64.3,
+    "bogey": 84.8,
+    "slope": 111
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 69.8,
+    "bogey": 97.9,
+    "slope": 120
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "Red",
+    "gender": "female",
+    "rating": 64.5,
+    "bogey": 90.2,
+    "slope": 109
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "White",
+    "gender": "female",
+    "rating": 74.0,
+    "bogey": 106.1,
+    "slope": 136
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "Red",
+    "gender": "male",
+    "rating": 61.0,
+    "bogey": 80.2,
+    "slope": 103
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 77.6,
+    "bogey": 111.6,
+    "slope": 144
+  },
+  {
+    "course": "Timpanogos GC",
+    "courseId": "26552",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 79.6,
+    "bogey": 114.3,
+    "slope": 147
+  },
+  {
+    "course": "Cottonwood Country Club",
+    "courseId": "26553",
+    "tee": "Green(Front)/White(Back)",
+    "gender": "male",
+    "rating": 52.3,
+    "bogey": 66.7,
+    "slope": 78
+  },
+  {
+    "course": "Cottonwood Country Club",
+    "courseId": "26553",
+    "tee": "Green(Front)/White(Back)",
+    "gender": "female",
+    "rating": 55.0,
+    "bogey": 73.2,
+    "slope": 77
+  },
+  {
+    "course": "Cottonwood Country Club",
+    "courseId": "26553",
+    "tee": "Green-White(Front)/White-Red(Back)",
+    "gender": "male",
+    "rating": 51.9,
+    "bogey": 65.8,
+    "slope": 75
+  },
+  {
+    "course": "Cottonwood Country Club",
+    "courseId": "26553",
+    "tee": "Green-White(Front)/White-Red(Back)",
+    "gender": "female",
+    "rating": 54.5,
+    "bogey": 72.8,
+    "slope": 78
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 73.1,
+    "bogey": 99.4,
+    "slope": 141
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "Gold",
+    "gender": "male",
+    "rating": 70.6,
+    "bogey": 95.8,
+    "slope": 138
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "Silver",
+    "gender": "male",
+    "rating": 68.7,
+    "bogey": 93.3,
+    "slope": 132
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "White",
+    "gender": "male",
+    "rating": 65.5,
+    "bogey": 86.8,
+    "slope": 115
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "Silver",
+    "gender": "female",
+    "rating": 74.1,
+    "bogey": 107.6,
+    "slope": 142
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "White",
+    "gender": "female",
+    "rating": 70.0,
+    "bogey": 100.4,
+    "slope": 129
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "Gold",
+    "gender": "female",
+    "rating": 76.5,
+    "bogey": 111.2,
+    "slope": 147
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "Black",
+    "gender": "female",
+    "rating": 79.3,
+    "bogey": 115.4,
+    "slope": 153
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "Copper",
+    "gender": "female",
+    "rating": 82.5,
+    "bogey": 120.3,
+    "slope": 155
+  },
+  {
+    "course": "Copper Rock",
+    "courseId": "26554",
+    "tee": "Copper",
+    "gender": "male",
+    "rating": 75.8,
+    "bogey": 102.9,
+    "slope": 146
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Red Cliffs",
+    "gender": "female",
+    "rating": 68.3,
+    "bogey": 95.9,
+    "slope": 117
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Snow Canyon",
+    "gender": "male",
+    "rating": 67.1,
+    "bogey": 89.4,
+    "slope": 120
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Red Cliffs",
+    "gender": "male",
+    "rating": 63.4,
+    "bogey": 84.1,
+    "slope": 112
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Black Desert",
+    "gender": "male",
+    "rating": 73.3,
+    "bogey": 98.2,
+    "slope": 134
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Weiskopf",
+    "gender": "male",
+    "rating": 71.2,
+    "bogey": 94.9,
+    "slope": 128
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Snow Canyon",
+    "gender": "female",
+    "rating": 72.6,
+    "bogey": 103.5,
+    "slope": 132
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Tournament",
+    "gender": "male",
+    "rating": 75.4,
+    "bogey": 101.1,
+    "slope": 139
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Tournament",
+    "gender": "female",
+    "rating": 82.3,
+    "bogey": 117.9,
+    "slope": 151
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Weiskopf",
+    "gender": "female",
+    "rating": 77.2,
+    "bogey": 110.2,
+    "slope": 140
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Black Desert",
+    "gender": "female",
+    "rating": 79.6,
+    "bogey": 113.9,
+    "slope": 146
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Combination (Weiskopf/Snow Canyon)",
+    "gender": "male",
+    "rating": 68.7,
+    "bogey": 92.0,
+    "slope": 126
+  },
+  {
+    "course": "Black Desert Resort",
+    "courseId": "28224",
+    "tee": "Combination (Weiskopf/Snow Canyon)",
+    "gender": "female",
+    "rating": 74.6,
+    "bogey": 106.2,
+    "slope": 134
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "Black/Blue Combo",
+    "gender": "male",
+    "rating": 74.1,
+    "bogey": 102.0,
+    "slope": 149
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "Blue/White Combo",
+    "gender": "male",
+    "rating": 70.3,
+    "bogey": 96.0,
+    "slope": 138
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "White/Yellow Combo",
+    "gender": "male",
+    "rating": 65.3,
+    "bogey": 88.2,
+    "slope": 124
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 72.6,
+    "bogey": 99.9,
+    "slope": 147
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "White",
+    "gender": "male",
+    "rating": 68.2,
+    "bogey": 92.7,
+    "slope": 132
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "Black",
+    "gender": "male",
+    "rating": 75.4,
+    "bogey": 103.8,
+    "slope": 150
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "Yellow",
+    "gender": "male",
+    "rating": 63.0,
+    "bogey": 84.3,
+    "slope": 115
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "Yellow",
+    "gender": "female",
+    "rating": 66.7,
+    "bogey": 95.6,
+    "slope": 123
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "White",
+    "gender": "female",
+    "rating": 73.6,
+    "bogey": 109.6,
+    "slope": 152
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 78.4,
+    "bogey": 116.8,
+    "slope": 155
+  },
+  {
+    "course": "Wohali",
+    "courseId": "28480",
+    "tee": "White/Yellow Combo",
+    "gender": "female",
+    "rating": 69.6,
+    "bogey": 102.1,
+    "slope": 138
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 64.9,
+    "bogey": 85.8,
+    "slope": 113
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Blue",
+    "gender": "male",
+    "rating": 69.1,
+    "bogey": 92.7,
+    "slope": 127
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Black Diamond",
+    "gender": "male",
+    "rating": 71.5,
+    "bogey": 98.3,
+    "slope": 145
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Black Double Diamond",
+    "gender": "male",
+    "rating": 74.7,
+    "bogey": 102.6,
+    "slope": 150
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 69.0,
+    "bogey": 98.9,
+    "slope": 127
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Blue",
+    "gender": "female",
+    "rating": 73.9,
+    "bogey": 108.8,
+    "slope": 148
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Black Diamond",
+    "gender": "female",
+    "rating": 77.6,
+    "bogey": 114.4,
+    "slope": 153
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Green/Blue Combo",
+    "gender": "male",
+    "rating": 67.3,
+    "bogey": 89.4,
+    "slope": 119
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Green/Blue Combo",
+    "gender": "female",
+    "rating": 71.7,
+    "bogey": 104.6,
+    "slope": 140
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Blue/Black Diamond Combo",
+    "gender": "male",
+    "rating": 70.3,
+    "bogey": 95.8,
+    "slope": 137
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Blue/Black Diamond Combo",
+    "gender": "female",
+    "rating": 76.1,
+    "bogey": 112.1,
+    "slope": 151
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Black Diamond/Black Double Diamond Combo",
+    "gender": "male",
+    "rating": 72.7,
+    "bogey": 100.0,
+    "slope": 147
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Green W Nine-Hole (1-3,13-18)",
+    "gender": "female",
+    "rating": 32.3,
+    "bogey": 46.8,
+    "slope": 123
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Blue W Nine-Hole (1-3,13-18)",
+    "gender": "female",
+    "rating": 35.2,
+    "bogey": 52.2,
+    "slope": 144
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Black Diamond W Nine-Hole (1-3,13-18)",
+    "gender": "female",
+    "rating": 36.7,
+    "bogey": 54.5,
+    "slope": 151
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Green M Nine-Hole (1-3,13-18)",
+    "gender": "male",
+    "rating": 31.0,
+    "bogey": 40.9,
+    "slope": 107
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Blue M Nine-Hole (1-3,13-18)",
+    "gender": "male",
+    "rating": 33.0,
+    "bogey": 44.6,
+    "slope": 125
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Black Diamond M Nine-Hole (1-3,13-18)",
+    "gender": "male",
+    "rating": 34.2,
+    "bogey": 47.3,
+    "slope": 141
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Double Black Diamond M Nine-Hole (1-3,13-18)",
+    "gender": "male",
+    "rating": 35.6,
+    "bogey": 49.3,
+    "slope": 147
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "The Peaks M Nine-Hole (1-3,13-18)",
+    "gender": "male",
+    "rating": 36.8,
+    "bogey": 50.9,
+    "slope": 152
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "Ranch",
+    "gender": "male",
+    "rating": 73.4,
+    "bogey": 101.0,
+    "slope": 149
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "The Ranch Tees",
+    "gender": "male",
+    "rating": 73.6,
+    "bogey": 101.3,
+    "slope": 149
+  },
+  {
+    "course": "Wasatch Peaks",
+    "courseId": "28527",
+    "tee": "The Peaks",
+    "gender": "male",
+    "rating": 77.0,
+    "bogey": 105.9,
+    "slope": 153
+  },
+  {
+    "course": "ParOne at Skyridge",
+    "courseId": "28562",
+    "tee": "Green",
+    "gender": "male",
+    "rating": 24.9,
+    "bogey": 30.9,
+    "slope": 65
+  },
+  {
+    "course": "ParOne at Skyridge",
+    "courseId": "28562",
+    "tee": "Green",
+    "gender": "female",
+    "rating": 26.2,
+    "bogey": 34.1,
+    "slope": 67
+  }
+]

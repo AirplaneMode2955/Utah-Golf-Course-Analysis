@@ -1,0 +1,5142 @@
+{
+    "Bloomington CC - 7176": [
+        {
+            "male - Red": {
+                "Rating": "72.70",
+                "Bogey": "96.90",
+                "Slope": 130
+            },
+            "male - Black": {
+                "Rating": "70.70",
+                "Bogey": "94.40",
+                "Slope": 128
+            },
+            "male - Blue": {
+                "Rating": "67.90",
+                "Bogey": "89.90",
+                "Slope": 118
+            },
+            "male - Blue/White Combo": {
+                "Rating": "66.30",
+                "Bogey": "87.40",
+                "Slope": 114
+            },
+            "male - White": {
+                "Rating": "64.30",
+                "Bogey": "84.10",
+                "Slope": 107
+            },
+            "male - White/Silver Combo": {
+                "Rating": "62.80",
+                "Bogey": "82.10",
+                "Slope": 104
+            },
+            "male - Silver": {
+                "Rating": "61.60",
+                "Bogey": "80.70",
+                "Slope": 103
+            },
+            "female - Red": {
+                "Rating": "79.20",
+                "Bogey": "112.60",
+                "Slope": 142
+            },
+            "female - Black": {
+                "Rating": "76.90",
+                "Bogey": "109.10",
+                "Slope": 137
+            },
+            "female - Blue": {
+                "Rating": "73.30",
+                "Bogey": "103.80",
+                "Slope": 130
+            },
+            "female - Blue/White Combo": {
+                "Rating": "71.50",
+                "Bogey": "100.80",
+                "Slope": 125
+            },
+            "female - White": {
+                "Rating": "69.00",
+                "Bogey": "97.30",
+                "Slope": 120
+            },
+            "female - White/Silver Combo": {
+                "Rating": "67.10",
+                "Bogey": "95.10",
+                "Slope": 119
+            },
+            "female - Silver": {
+                "Rating": "65.50",
+                "Bogey": "91.90",
+                "Slope": 112
+            }
+        }
+    ],
+    "Coral Canyon GC - 7178": [
+        {
+            "male - Blue": {
+                "Rating": "72.60",
+                "Bogey": "99.10",
+                "Slope": 143
+            },
+            "male - White": {
+                "Rating": "69.00",
+                "Bogey": "92.80",
+                "Slope": 128
+            },
+            "female - White": {
+                "Rating": "74.10",
+                "Bogey": "108.30",
+                "Slope": 145
+            },
+            "male - Black": {
+                "Rating": "75.20",
+                "Bogey": "102.60",
+                "Slope": 148
+            },
+            "male - Red": {
+                "Rating": "64.10",
+                "Bogey": "85.90",
+                "Slope": 118
+            },
+            "female - Blue": {
+                "Rating": "78.30",
+                "Bogey": "114.80",
+                "Slope": 152
+            },
+            "female - Black": {
+                "Rating": "81.50",
+                "Bogey": "119.50",
+                "Slope": 154
+            },
+            "female - Red": {
+                "Rating": "67.80",
+                "Bogey": "96.80",
+                "Slope": 123
+            },
+            "male - Blue/White Combo": {
+                "Rating": "70.60",
+                "Bogey": "95.70",
+                "Slope": 135
+            },
+            "male - White/Red Combo": {
+                "Rating": "66.70",
+                "Bogey": "89.60",
+                "Slope": 123
+            },
+            "female - Blue/White Combo": {
+                "Rating": "76.00",
+                "Bogey": "111.00",
+                "Slope": 148
+            },
+            "female - White/Red Combo": {
+                "Rating": "71.30",
+                "Bogey": "102.90",
+                "Slope": 134
+            }
+        }
+    ],
+    "Dixie Red Hills - 7180": [
+        {
+            "male - Blue": {
+                "Rating": "66.40",
+                "Bogey": "87.60",
+                "Slope": 114
+            },
+            "male - White": {
+                "Rating": "63.80",
+                "Bogey": "83.80",
+                "Slope": 108
+            },
+            "female - White": {
+                "Rating": "68.20",
+                "Bogey": "96.80",
+                "Slope": 121
+            },
+            "female - Red": {
+                "Rating": "64.80",
+                "Bogey": "89.60",
+                "Slope": 105
+            }
+        }
+    ],
+    "Entrada CC - 7182": [
+        {
+            "male - II": {
+                "Rating": "71.20",
+                "Bogey": "96.20",
+                "Slope": 135
+            },
+            "male - III": {
+                "Rating": "68.80",
+                "Bogey": "92.80",
+                "Slope": 129
+            },
+            "male - IV": {
+                "Rating": "66.60",
+                "Bogey": "88.40",
+                "Slope": 117
+            },
+            "male - V": {
+                "Rating": "63.70",
+                "Bogey": "83.50",
+                "Slope": 107
+            },
+            "female - IV": {
+                "Rating": "72.10",
+                "Bogey": "103.30",
+                "Slope": 132
+            },
+            "female - V": {
+                "Rating": "68.40",
+                "Bogey": "97.10",
+                "Slope": 122
+            },
+            "male - III/IV Combo": {
+                "Rating": "67.60",
+                "Bogey": "90.60",
+                "Slope": 124
+            },
+            "male - II/III Combo": {
+                "Rating": "69.60",
+                "Bogey": "93.90",
+                "Slope": 131
+            },
+            "female - IV/V Combo": {
+                "Rating": "69.60",
+                "Bogey": "99.50",
+                "Slope": 127
+            },
+            "male - IV/V Combo": {
+                "Rating": "65.00",
+                "Bogey": "85.70",
+                "Slope": 112
+            },
+            "female - II": {
+                "Rating": "77.60",
+                "Bogey": "111.50",
+                "Slope": 144
+            },
+            "female - III": {
+                "Rating": "74.80",
+                "Bogey": "107.50",
+                "Slope": 139
+            },
+            "female - I": {
+                "Rating": "80.30",
+                "Bogey": "115.70",
+                "Slope": 150
+            },
+            "male - I": {
+                "Rating": "73.50",
+                "Bogey": "99.30",
+                "Slope": 139
+            }
+        }
+    ],
+    "Green Spring GC - 7184": [
+        {
+            "male - Blue": {
+                "Rating": "72.70",
+                "Bogey": "97.20",
+                "Slope": 132
+            },
+            "male - White": {
+                "Rating": "69.80",
+                "Bogey": "93.70",
+                "Slope": 129
+            },
+            "male - Gold": {
+                "Rating": "66.30",
+                "Bogey": "87.70",
+                "Slope": 115
+            },
+            "female - Gold": {
+                "Rating": "71.40",
+                "Bogey": "101.90",
+                "Slope": 129
+            },
+            "female - Red": {
+                "Rating": "67.30",
+                "Bogey": "94.60",
+                "Slope": 116
+            },
+            "female - Blue": {
+                "Rating": "78.50",
+                "Bogey": "112.60",
+                "Slope": 145
+            },
+            "female - White": {
+                "Rating": "75.70",
+                "Bogey": "108.30",
+                "Slope": 139
+            },
+            "male - Red": {
+                "Rating": "62.90",
+                "Bogey": "83.00",
+                "Slope": 108
+            }
+        }
+    ],
+    "Sand Hollow Resort - 7186": [
+        {
+            "male - Green (Links)": {
+                "Rating": "69.00",
+                "Bogey": "91.60",
+                "Slope": 122
+            },
+            "male - Yellow (Links)": {
+                "Rating": "71.40",
+                "Bogey": "96.40",
+                "Slope": 135
+            },
+            "female - Blue (Links)": {
+                "Rating": "69.20",
+                "Bogey": "96.80",
+                "Slope": 117
+            },
+            "male - Blue (Links)": {
+                "Rating": "63.80",
+                "Bogey": "84.00",
+                "Slope": 109
+            },
+            "female - Green (Links)": {
+                "Rating": "74.00",
+                "Bogey": "107.00",
+                "Slope": 140
+            },
+            "female - Green/Blue Combo (Links)": {
+                "Rating": "72.00",
+                "Bogey": "103.60",
+                "Slope": 134
+            },
+            "male - Green/Blue Combo (Links)": {
+                "Rating": "67.20",
+                "Bogey": "88.60",
+                "Slope": 115
+            },
+            "male - Red (Links)": {
+                "Rating": "74.20",
+                "Bogey": "100.00",
+                "Slope": 139
+            }
+        }
+    ],
+    "Sky Mountain GC - 7188": [
+        {
+            "male - Blue": {
+                "Rating": "71.10",
+                "Bogey": "95.30",
+                "Slope": 130
+            },
+            "female - White": {
+                "Rating": "74.20",
+                "Bogey": "106.50",
+                "Slope": 137
+            },
+            "male - White": {
+                "Rating": "68.60",
+                "Bogey": "91.60",
+                "Slope": 124
+            },
+            "female - Gold": {
+                "Rating": "68.80",
+                "Bogey": "97.90",
+                "Slope": 124
+            },
+            "female - Blue": {
+                "Rating": "77.00",
+                "Bogey": "110.70",
+                "Slope": 143
+            },
+            "male - Gold": {
+                "Rating": "64.20",
+                "Bogey": "85.60",
+                "Slope": 115
+            }
+        }
+    ],
+    "Southgate GC - 7190": [
+        {
+            "male - Black": {
+                "Rating": "70.00",
+                "Bogey": "94.00",
+                "Slope": 129
+            },
+            "male - Blue": {
+                "Rating": "68.10",
+                "Bogey": "91.00",
+                "Slope": 124
+            },
+            "male - White": {
+                "Rating": "65.50",
+                "Bogey": "87.10",
+                "Slope": 116
+            },
+            "male - Red": {
+                "Rating": "62.20",
+                "Bogey": "82.70",
+                "Slope": 110
+            },
+            "female - White": {
+                "Rating": "70.10",
+                "Bogey": "100.20",
+                "Slope": 128
+            },
+            "female - Red": {
+                "Rating": "65.90",
+                "Bogey": "92.90",
+                "Slope": 115
+            }
+        }
+    ],
+    "St George GC - 7192": [
+        {
+            "male - Blue": {
+                "Rating": "71.10",
+                "Bogey": "94.10",
+                "Slope": 124
+            },
+            "female - White": {
+                "Rating": "73.30",
+                "Bogey": "103.50",
+                "Slope": 128
+            },
+            "male - Gold": {
+                "Rating": "73.90",
+                "Bogey": "97.80",
+                "Slope": 129
+            },
+            "male - White": {
+                "Rating": "67.50",
+                "Bogey": "88.80",
+                "Slope": 115
+            },
+            "male - Red": {
+                "Rating": "63.60",
+                "Bogey": "82.00",
+                "Slope": 99
+            },
+            "female - Red": {
+                "Rating": "68.10",
+                "Bogey": "95.50",
+                "Slope": 116
+            },
+            "female - Blue": {
+                "Rating": "77.20",
+                "Bogey": "109.30",
+                "Slope": 136
+            }
+        }
+    ],
+    "Sun River GC - 7194": [
+        {
+            "female - Orange": {
+                "Rating": "69.00",
+                "Bogey": "97.50",
+                "Slope": 121
+            },
+            "female - White": {
+                "Rating": "72.90",
+                "Bogey": "103.70",
+                "Slope": 131
+            },
+            "male - Black": {
+                "Rating": "71.30",
+                "Bogey": "95.20",
+                "Slope": 129
+            },
+            "male - Red": {
+                "Rating": "73.30",
+                "Bogey": "97.80",
+                "Slope": 132
+            },
+            "male - Blue": {
+                "Rating": "69.20",
+                "Bogey": "92.30",
+                "Slope": 124
+            },
+            "male - White": {
+                "Rating": "67.50",
+                "Bogey": "89.70",
+                "Slope": 120
+            },
+            "male - Orange": {
+                "Rating": "64.20",
+                "Bogey": "85.00",
+                "Slope": 112
+            },
+            "female - Silver": {
+                "Rating": "64.80",
+                "Bogey": "91.10",
+                "Slope": 112
+            },
+            "female - Blue": {
+                "Rating": "74.90",
+                "Bogey": "106.70",
+                "Slope": 135
+            },
+            "female - Black": {
+                "Rating": "77.20",
+                "Bogey": "110.10",
+                "Slope": 140
+            },
+            "female - Red": {
+                "Rating": "79.50",
+                "Bogey": "113.60",
+                "Slope": 145
+            },
+            "male - Silver": {
+                "Rating": "61.60",
+                "Bogey": "81.50",
+                "Slope": 107
+            }
+        }
+    ],
+    "Sunbrook GC - 7196": [
+        {
+            "male - Silver (PT/WB)": {
+                "Rating": "70.20",
+                "Bogey": "93.50",
+                "Slope": 126
+            },
+            "female - Bronze (PT/WB)": {
+                "Rating": "71.10",
+                "Bogey": "101.10",
+                "Slope": 128
+            },
+            "female - Silver (PT/WB)": {
+                "Rating": "74.90",
+                "Bogey": "108.00",
+                "Slope": 141
+            },
+            "male - Black (PT/WB)": {
+                "Rating": "73.90",
+                "Bogey": "98.60",
+                "Slope": 133
+            },
+            "male - Gold (PT/WB)": {
+                "Rating": "71.90",
+                "Bogey": "95.80",
+                "Slope": 129
+            },
+            "male - Bronze (PT/WB)": {
+                "Rating": "66.10",
+                "Bogey": "87.70",
+                "Slope": 116
+            },
+            "male - Silver/Bronze Combo (PT/WB)": {
+                "Rating": "67.90",
+                "Bogey": "89.80",
+                "Slope": 118
+            },
+            "female - Silver/Bronze Combo (PT/WB)": {
+                "Rating": "72.50",
+                "Bogey": "104.10",
+                "Slope": 134
+            }
+        }
+    ],
+    "The Ledges - 7198": [
+        {
+            "male - Blue": {
+                "Rating": "71.10",
+                "Bogey": "94.70",
+                "Slope": 127
+            },
+            "male - White": {
+                "Rating": "69.00",
+                "Bogey": "91.20",
+                "Slope": 120
+            },
+            "male - White/Silver Combo": {
+                "Rating": "67.90",
+                "Bogey": "89.50",
+                "Slope": 117
+            },
+            "female - White/Silver Combo": {
+                "Rating": "73.30",
+                "Bogey": "102.90",
+                "Slope": 126
+            },
+            "female - Silver": {
+                "Rating": "71.80",
+                "Bogey": "100.50",
+                "Slope": 122
+            },
+            "female - Red": {
+                "Rating": "68.10",
+                "Bogey": "95.90",
+                "Slope": 118
+            },
+            "male - Silver": {
+                "Rating": "66.30",
+                "Bogey": "87.90",
+                "Slope": 116
+            },
+            "male - Red": {
+                "Rating": "63.50",
+                "Bogey": "83.10",
+                "Slope": 106
+            },
+            "female - Blue": {
+                "Rating": "77.20",
+                "Bogey": "108.70",
+                "Slope": 134
+            },
+            "female - White": {
+                "Rating": "74.60",
+                "Bogey": "104.80",
+                "Slope": 128
+            },
+            "female - Black": {
+                "Rating": "80.00",
+                "Bogey": "112.90",
+                "Slope": 140
+            },
+            "male - Black": {
+                "Rating": "73.40",
+                "Bogey": "97.80",
+                "Slope": 131
+            }
+        }
+    ],
+    "Bear Lake West - 25321": [
+        {
+            "male - White": {
+                "Rating": "62.20",
+                "Bogey": "82.40",
+                "Slope": 109
+            },
+            "male - Blue": {
+                "Rating": "63.80",
+                "Bogey": "85.00",
+                "Slope": 114
+            },
+            "female - Red": {
+                "Rating": "64.80",
+                "Bogey": "92.60",
+                "Slope": 118
+            },
+            "female - White": {
+                "Rating": "67.20",
+                "Bogey": "96.60",
+                "Slope": 125
+            },
+            "female - Blue": {
+                "Rating": "68.80",
+                "Bogey": "98.40",
+                "Slope": 126
+            },
+            "male - Red": {
+                "Rating": "61.40",
+                "Bogey": "79.40",
+                "Slope": 97
+            }
+        }
+    ],
+    "Toana Vista GC - 25322": [
+        {
+            "female - Red": {
+                "Rating": "70.20",
+                "Bogey": "99.00",
+                "Slope": 123
+            },
+            "female - Gold": {
+                "Rating": "72.10",
+                "Bogey": "103.00",
+                "Slope": 131
+            },
+            "male - Blue": {
+                "Rating": "71.10",
+                "Bogey": "94.50",
+                "Slope": 126
+            },
+            "male - White": {
+                "Rating": "68.60",
+                "Bogey": "90.60",
+                "Slope": 119
+            },
+            "male - Gold": {
+                "Rating": "66.50",
+                "Bogey": "86.90",
+                "Slope": 110
+            },
+            "male - Blue/White Combo": {
+                "Rating": "69.70",
+                "Bogey": "92.00",
+                "Slope": 120
+            },
+            "male - White/Gold Combo": {
+                "Rating": "67.60",
+                "Bogey": "88.80",
+                "Slope": 114
+            },
+            "female - White/Gold Combo": {
+                "Rating": "73.30",
+                "Bogey": "104.90",
+                "Slope": 134
+            },
+            "male - Black": {
+                "Rating": "73.50",
+                "Bogey": "97.80",
+                "Slope": 131
+            },
+            "male - Red": {
+                "Rating": "65.00",
+                "Bogey": "84.30",
+                "Slope": 104
+            },
+            "male - Green": {
+                "Rating": "54.10",
+                "Bogey": "69.40",
+                "Slope": 83
+            },
+            "female - Green": {
+                "Rating": "56.90",
+                "Bogey": "78.20",
+                "Slope": 91
+            },
+            "female - White": {
+                "Rating": "74.70",
+                "Bogey": "107.00",
+                "Slope": 137
+            }
+        }
+    ],
+    "Alpine CC - 25323": [
+        {
+            "male - Green": {
+                "Rating": "57.70",
+                "Bogey": "75.90",
+                "Slope": 98
+            },
+            "female - Blue": {
+                "Rating": "75.40",
+                "Bogey": "108.30",
+                "Slope": 140
+            },
+            "female - Green": {
+                "Rating": "59.90",
+                "Bogey": "83.10",
+                "Slope": 98
+            },
+            "male - Black": {
+                "Rating": "73.50",
+                "Bogey": "97.80",
+                "Slope": 131
+            },
+            "male - Black/Blue Combo": {
+                "Rating": "71.90",
+                "Bogey": "95.90",
+                "Slope": 129
+            },
+            "male - Blue": {
+                "Rating": "70.80",
+                "Bogey": "94.20",
+                "Slope": 126
+            },
+            "male - Blue/White Combo": {
+                "Rating": "69.50",
+                "Bogey": "92.20",
+                "Slope": 123
+            },
+            "male - White": {
+                "Rating": "68.80",
+                "Bogey": "91.20",
+                "Slope": 121
+            },
+            "male - White/Silver Combo": {
+                "Rating": "65.20",
+                "Bogey": "86.10",
+                "Slope": 113
+            },
+            "male - Silver": {
+                "Rating": "64.00",
+                "Bogey": "84.40",
+                "Slope": 110
+            },
+            "female - Blue/White Combo": {
+                "Rating": "75.10",
+                "Bogey": "108.10",
+                "Slope": 140
+            },
+            "female - White": {
+                "Rating": "74.80",
+                "Bogey": "108.10",
+                "Slope": 142
+            },
+            "female - White/Silver Combo": {
+                "Rating": "71.20",
+                "Bogey": "101.30",
+                "Slope": 128
+            },
+            "female - Silver": {
+                "Rating": "69.40",
+                "Bogey": "98.40",
+                "Slope": 123
+            }
+        }
+    ],
+    "Bear Lake GC - 25324": [
+        {
+            "male - Blue": {
+                "Rating": "71.00",
+                "Bogey": "94.80",
+                "Slope": 128
+            },
+            "male - White": {
+                "Rating": "69.00",
+                "Bogey": "91.40",
+                "Slope": 121
+            },
+            "male - Red": {
+                "Rating": "66.00",
+                "Bogey": "86.80",
+                "Slope": 112
+            },
+            "female - Red": {
+                "Rating": "71.00",
+                "Bogey": "100.40",
+                "Slope": 125
+            },
+            "female - White": {
+                "Rating": "75.80",
+                "Bogey": "108.00",
+                "Slope": 137
+            },
+            "female - Junior": {
+                "Rating": "61.60",
+                "Bogey": "87.40",
+                "Slope": 109
+            },
+            "female - Family": {
+                "Rating": "58.40",
+                "Bogey": "81.60",
+                "Slope": 98
+            },
+            "male - Family": {
+                "Rating": "57.80",
+                "Bogey": "76.00",
+                "Slope": 98
+            },
+            "male - Junior": {
+                "Rating": "60.00",
+                "Bogey": "79.20",
+                "Slope": 103
+            }
+        }
+    ],
+    "Birch Creek GC - 25326": [
+        {
+            "male - Blue": {
+                "Rating": "73.00",
+                "Bogey": "96.00",
+                "Slope": 124
+            },
+            "male - White": {
+                "Rating": "71.50",
+                "Bogey": "93.80",
+                "Slope": 120
+            },
+            "male - Black": {
+                "Rating": "67.20",
+                "Bogey": "88.40",
+                "Slope": 114
+            },
+            "female - Black": {
+                "Rating": "71.30",
+                "Bogey": "102.40",
+                "Slope": 132
+            },
+            "female - Red": {
+                "Rating": "66.20",
+                "Bogey": "94.30",
+                "Slope": 119
+            },
+            "female - White": {
+                "Rating": "76.30",
+                "Bogey": "109.80",
+                "Slope": 142
+            },
+            "female - Blue": {
+                "Rating": "78.20",
+                "Bogey": "112.90",
+                "Slope": 147
+            },
+            "male - Red": {
+                "Rating": "63.10",
+                "Bogey": "82.80",
+                "Slope": 106
+            }
+        }
+    ],
+    "Bonneville GC - 25327": [
+        {
+            "male - Black": {
+                "Rating": "71.00",
+                "Bogey": "94.20",
+                "Slope": 125
+            },
+            "male - Blue": {
+                "Rating": "69.70",
+                "Bogey": "92.70",
+                "Slope": 124
+            },
+            "male - White": {
+                "Rating": "67.80",
+                "Bogey": "89.40",
+                "Slope": 117
+            },
+            "male - Yellow": {
+                "Rating": "61.70",
+                "Bogey": "81.30",
+                "Slope": 106
+            },
+            "female - Blue": {
+                "Rating": "75.50",
+                "Bogey": "108.30",
+                "Slope": 139
+            },
+            "female - White": {
+                "Rating": "73.00",
+                "Bogey": "104.60",
+                "Slope": 134
+            },
+            "female - Yellow": {
+                "Rating": "66.10",
+                "Bogey": "93.10",
+                "Slope": 115
+            },
+            "female - Black": {
+                "Rating": "77.10",
+                "Bogey": "110.70",
+                "Slope": 143
+            },
+            "female - White/Yellow Combo": {
+                "Rating": "68.60",
+                "Bogey": "97.80",
+                "Slope": 124
+            },
+            "male - White/Yellow Combo": {
+                "Rating": "63.80",
+                "Bogey": "84.10",
+                "Slope": 110
+            }
+        }
+    ],
+    "Bountiful Ridge GC - 25328": [
+        {
+            "male - Blue": {
+                "Rating": "71.30",
+                "Bogey": "96.40",
+                "Slope": 135
+            },
+            "male - White": {
+                "Rating": "68.90",
+                "Bogey": "93.10",
+                "Slope": 131
+            },
+            "male - Gold": {
+                "Rating": "66.50",
+                "Bogey": "89.50",
+                "Slope": 124
+            },
+            "female - Gold": {
+                "Rating": "71.80",
+                "Bogey": "103.40",
+                "Slope": 134
+            },
+            "female - Red": {
+                "Rating": "69.20",
+                "Bogey": "99.60",
+                "Slope": 129
+            },
+            "male - Red": {
+                "Rating": "64.30",
+                "Bogey": "85.60",
+                "Slope": 115
+            },
+            "female - White": {
+                "Rating": "73.80",
+                "Bogey": "105.80",
+                "Slope": 136
+            },
+            "female - Blue": {
+                "Rating": "76.50",
+                "Bogey": "109.70",
+                "Slope": 141
+            }
+        }
+    ],
+    "Canyon Breeze GC - 25330": [
+        {
+            "male - Blue": {
+                "Rating": "65.80",
+                "Bogey": "86.60",
+                "Slope": 112
+            },
+            "male - White/Blue Combo": {
+                "Rating": "65.40",
+                "Bogey": "86.10",
+                "Slope": 112
+            },
+            "male - White": {
+                "Rating": "65.00",
+                "Bogey": "85.60",
+                "Slope": 111
+            },
+            "female - White": {
+                "Rating": "69.40",
+                "Bogey": "99.60",
+                "Slope": 128
+            },
+            "female - Red/White Combo": {
+                "Rating": "67.10",
+                "Bogey": "96.00",
+                "Slope": 123
+            },
+            "female - Red": {
+                "Rating": "64.80",
+                "Bogey": "92.40",
+                "Slope": 117
+            }
+        }
+    ],
+    "Canyon Hills GC - 25331": [
+        {
+            "male - Blue": {
+                "Rating": "70.20",
+                "Bogey": "94.20",
+                "Slope": 129
+            },
+            "male - White/Blue": {
+                "Rating": "69.20",
+                "Bogey": "92.70",
+                "Slope": 127
+            },
+            "male - White": {
+                "Rating": "68.20",
+                "Bogey": "91.20",
+                "Slope": 124
+            },
+            "female - White": {
+                "Rating": "73.40",
+                "Bogey": "105.60",
+                "Slope": 137
+            },
+            "female - Red": {
+                "Rating": "69.00",
+                "Bogey": "98.60",
+                "Slope": 126
+            },
+            "female - Blue": {
+                "Rating": "76.20",
+                "Bogey": "109.80",
+                "Slope": 142
+            },
+            "female - Black": {
+                "Rating": "78.80",
+                "Bogey": "113.60",
+                "Slope": 148
+            },
+            "male - Black": {
+                "Rating": "72.40",
+                "Bogey": "97.40",
+                "Slope": 135
+            },
+            "male - Red": {
+                "Rating": "64.20",
+                "Bogey": "84.40",
+                "Slope": 109
+            },
+            "male - Red/White": {
+                "Rating": "66.20",
+                "Bogey": "87.80",
+                "Slope": 117
+            },
+            "male - Blue/Black": {
+                "Rating": "71.30",
+                "Bogey": "95.80",
+                "Slope": 132
+            },
+            "female - Red/White": {
+                "Rating": "71.20",
+                "Bogey": "102.10",
+                "Slope": 132
+            }
+        }
+    ],
+    "Canyons Golf - 25332": [
+        {
+            "female - Red/Green Combo": {
+                "Rating": "65.40",
+                "Bogey": "95.60",
+                "Slope": 128
+            },
+            "male - Black": {
+                "Rating": "68.40",
+                "Bogey": "93.20",
+                "Slope": 134
+            },
+            "male - Blue/Black Combo": {
+                "Rating": "66.70",
+                "Bogey": "91.20",
+                "Slope": 132
+            },
+            "male - Blue": {
+                "Rating": "65.80",
+                "Bogey": "89.90",
+                "Slope": 130
+            },
+            "male - Green": {
+                "Rating": "62.90",
+                "Bogey": "85.70",
+                "Slope": 123
+            },
+            "male - Red/Green Combo": {
+                "Rating": "61.60",
+                "Bogey": "83.70",
+                "Slope": 119
+            },
+            "male - Red": {
+                "Rating": "60.20",
+                "Bogey": "81.90",
+                "Slope": 117
+            },
+            "female - Blue": {
+                "Rating": "71.50",
+                "Bogey": "106.50",
+                "Slope": 149
+            },
+            "female - Green": {
+                "Rating": "67.50",
+                "Bogey": "98.70",
+                "Slope": 132
+            },
+            "female - Red": {
+                "Rating": "63.40",
+                "Bogey": "92.20",
+                "Slope": 122
+            }
+        }
+    ],
+    "Carbon CC - 25333": [
+        {
+            "male - Blue": {
+                "Rating": "69.30",
+                "Bogey": "90.50",
+                "Slope": 114
+            },
+            "male - White": {
+                "Rating": "67.10",
+                "Bogey": "87.90",
+                "Slope": 112
+            },
+            "male - Gold": {
+                "Rating": "64.30",
+                "Bogey": "84.60",
+                "Slope": 109
+            },
+            "female - White": {
+                "Rating": "72.80",
+                "Bogey": "105.10",
+                "Slope": 137
+            },
+            "female - Gold": {
+                "Rating": "69.10",
+                "Bogey": "98.70",
+                "Slope": 126
+            },
+            "female - Red": {
+                "Rating": "67.50",
+                "Bogey": "96.10",
+                "Slope": 122
+            },
+            "female - Blue": {
+                "Rating": "75.30",
+                "Bogey": "108.80",
+                "Slope": 142
+            },
+            "male - Red": {
+                "Rating": "63.10",
+                "Bogey": "82.90",
+                "Slope": 107
+            }
+        }
+    ],
+    "Cedar Hills GC - 25334": [
+        {
+            "female - White": {
+                "Rating": "72.20",
+                "Bogey": "103.10",
+                "Slope": 131
+            },
+            "male - Black": {
+                "Rating": "71.20",
+                "Bogey": "96.10",
+                "Slope": 134
+            },
+            "male - Blue": {
+                "Rating": "69.30",
+                "Bogey": "93.60",
+                "Slope": 131
+            },
+            "male - White": {
+                "Rating": "67.10",
+                "Bogey": "89.90",
+                "Slope": 123
+            },
+            "male - Red": {
+                "Rating": "63.20",
+                "Bogey": "84.40",
+                "Slope": 114
+            },
+            "female - Red": {
+                "Rating": "67.80",
+                "Bogey": "96.50",
+                "Slope": 122
+            }
+        }
+    ],
+    "Cedar Ridge GC - 25335": [
+        {
+            "male - Blue": {
+                "Rating": "71.30",
+                "Bogey": "94.00",
+                "Slope": 122
+            },
+            "male - White": {
+                "Rating": "69.60",
+                "Bogey": "91.30",
+                "Slope": 117
+            },
+            "male - Red": {
+                "Rating": "64.40",
+                "Bogey": "83.70",
+                "Slope": 104
+            },
+            "female - Red": {
+                "Rating": "68.30",
+                "Bogey": "97.40",
+                "Slope": 124
+            },
+            "female - White": {
+                "Rating": "74.80",
+                "Bogey": "107.00",
+                "Slope": 137
+            }
+        }
+    ],
+    "Golf The Round - 25336": [
+        {
+            "female - Black": {
+                "Rating": "64.40",
+                "Bogey": "90.00",
+                "Slope": 109
+            },
+            "female - White": {
+                "Rating": "62.20",
+                "Bogey": "86.20",
+                "Slope": 102
+            },
+            "female - Red": {
+                "Rating": "60.00",
+                "Bogey": "83.20",
+                "Slope": 98
+            },
+            "male - Black": {
+                "Rating": "61.40",
+                "Bogey": "78.60",
+                "Slope": 93
+            },
+            "male - White": {
+                "Rating": "60.20",
+                "Bogey": "77.00",
+                "Slope": 90
+            },
+            "male - Red": {
+                "Rating": "58.80",
+                "Bogey": "75.60",
+                "Slope": 90
+            },
+            "male - Gold": {
+                "Rating": "57.00",
+                "Bogey": "73.00",
+                "Slope": 86
+            },
+            "female - Gold": {
+                "Rating": "57.00",
+                "Bogey": "78.60",
+                "Slope": 92
+            }
+        }
+    ],
+    "Copper Club - 25337": [
+        {
+            "female - Red Front/Yellow Back - Women": {
+                "Rating": "65.90",
+                "Bogey": "92.60",
+                "Slope": 113
+            },
+            "male - White Front/Blue Back - Men": {
+                "Rating": "69.10",
+                "Bogey": "90.00",
+                "Slope": 113
+            }
+        }
+    ],
+    "Cove View GC - 25338": [
+        {
+            "female - Yellow": {
+                "Rating": "71.20",
+                "Bogey": "102.10",
+                "Slope": 131
+            },
+            "male - Blue": {
+                "Rating": "70.50",
+                "Bogey": "93.60",
+                "Slope": 125
+            },
+            "male - White": {
+                "Rating": "68.70",
+                "Bogey": "90.90",
+                "Slope": 120
+            },
+            "male - Yellow": {
+                "Rating": "66.50",
+                "Bogey": "86.80",
+                "Slope": 110
+            },
+            "female - Red": {
+                "Rating": "68.50",
+                "Bogey": "97.10",
+                "Slope": 122
+            },
+            "female - White": {
+                "Rating": "74.30",
+                "Bogey": "106.70",
+                "Slope": 138
+            },
+            "female - Blue": {
+                "Rating": "76.60",
+                "Bogey": "110.40",
+                "Slope": 144
+            },
+            "male - Red": {
+                "Rating": "64.30",
+                "Bogey": "83.80",
+                "Slope": 105
+            }
+        }
+    ],
+    "Crane Field - 25339": [
+        {
+            "male - Black": {
+                "Rating": "68.70",
+                "Bogey": "90.30",
+                "Slope": 117
+            },
+            "male - Blue": {
+                "Rating": "65.60",
+                "Bogey": "85.50",
+                "Slope": 107
+            },
+            "male - White": {
+                "Rating": "63.60",
+                "Bogey": "82.90",
+                "Slope": 104
+            },
+            "female - White": {
+                "Rating": "68.70",
+                "Bogey": "95.80",
+                "Slope": 115
+            },
+            "female - Red": {
+                "Rating": "63.80",
+                "Bogey": "88.50",
+                "Slope": 105
+            },
+            "male - Red": {
+                "Rating": "60.70",
+                "Bogey": "78.30",
+                "Slope": 95
+            }
+        }
+    ],
+    "Homestead Resort & Golf Club - 25340": [
+        {
+            "female - White": {
+                "Rating": "73.20",
+                "Bogey": "105.50",
+                "Slope": 137
+            },
+            "female - Yellow": {
+                "Rating": "69.70",
+                "Bogey": "99.00",
+                "Slope": 125
+            },
+            "male - White": {
+                "Rating": "68.10",
+                "Bogey": "92.10",
+                "Slope": 130
+            },
+            "male - Yellow": {
+                "Rating": "65.60",
+                "Bogey": "87.00",
+                "Slope": 115
+            },
+            "female - Red": {
+                "Rating": "67.50",
+                "Bogey": "96.10",
+                "Slope": 122
+            },
+            "male - Blue": {
+                "Rating": "71.80",
+                "Bogey": "98.20",
+                "Slope": 142
+            },
+            "male - Red": {
+                "Rating": "63.90",
+                "Bogey": "84.90",
+                "Slope": 113
+            }
+        }
+    ],
+    "Davis Park GC - 25341": [
+        {
+            "male - Blue": {
+                "Rating": "68.90",
+                "Bogey": "91.50",
+                "Slope": 122
+            },
+            "male - Black": {
+                "Rating": "70.50",
+                "Bogey": "93.70",
+                "Slope": 125
+            },
+            "male - White": {
+                "Rating": "67.20",
+                "Bogey": "88.80",
+                "Slope": 117
+            },
+            "male - Red": {
+                "Rating": "63.80",
+                "Bogey": "84.40",
+                "Slope": 111
+            },
+            "female - Red": {
+                "Rating": "68.60",
+                "Bogey": "97.20",
+                "Slope": 122
+            },
+            "female - White": {
+                "Rating": "72.50",
+                "Bogey": "103.00",
+                "Slope": 129
+            },
+            "female - Orange": {
+                "Rating": "61.40",
+                "Bogey": "86.30",
+                "Slope": 106
+            },
+            "female - Blue": {
+                "Rating": "74.60",
+                "Bogey": "106.30",
+                "Slope": 135
+            },
+            "female - Black": {
+                "Rating": "76.30",
+                "Bogey": "108.70",
+                "Slope": 138
+            },
+            "male - Orange": {
+                "Rating": "59.50",
+                "Bogey": "78.50",
+                "Slope": 102
+            }
+        }
+    ],
+    "Dinaland GC - 25342": [
+        {
+            "male - Blue": {
+                "Rating": "69.70",
+                "Bogey": "93.00",
+                "Slope": 126
+            },
+            "male - Black": {
+                "Rating": "71.70",
+                "Bogey": "96.60",
+                "Slope": 134
+            },
+            "male - White": {
+                "Rating": "67.40",
+                "Bogey": "89.30",
+                "Slope": 118
+            },
+            "male - Red": {
+                "Rating": "63.50",
+                "Bogey": "83.10",
+                "Slope": 106
+            },
+            "female - Red": {
+                "Rating": "68.50",
+                "Bogey": "97.40",
+                "Slope": 123
+            },
+            "female - White": {
+                "Rating": "72.70",
+                "Bogey": "104.80",
+                "Slope": 137
+            },
+            "female - Blue": {
+                "Rating": "75.50",
+                "Bogey": "109.10",
+                "Slope": 143
+            },
+            "female - Black": {
+                "Rating": "78.10",
+                "Bogey": "112.90",
+                "Slope": 148
+            }
+        }
+    ],
+    "Eagle Mountain GC - 25343": [
+        {
+            "male - Black": {
+                "Rating": "72.30",
+                "Bogey": "98.70",
+                "Slope": 142
+            },
+            "female - White": {
+                "Rating": "72.40",
+                "Bogey": "105.30",
+                "Slope": 140
+            },
+            "male - Blue": {
+                "Rating": "69.50",
+                "Bogey": "94.00",
+                "Slope": 132
+            },
+            "male - White": {
+                "Rating": "67.30",
+                "Bogey": "90.60",
+                "Slope": 125
+            },
+            "male - Yellow": {
+                "Rating": "64.80",
+                "Bogey": "87.40",
+                "Slope": 122
+            },
+            "female - Yellow": {
+                "Rating": "70.30",
+                "Bogey": "101.00",
+                "Slope": 131
+            },
+            "female - Red": {
+                "Rating": "66.80",
+                "Bogey": "96.00",
+                "Slope": 124
+            },
+            "male - Red": {
+                "Rating": "62.30",
+                "Bogey": "84.00",
+                "Slope": 117
+            },
+            "female - Blue": {
+                "Rating": "75.10",
+                "Bogey": "109.30",
+                "Slope": 145
+            },
+            "female - Black": {
+                "Rating": "78.30",
+                "Bogey": "114.10",
+                "Slope": 152
+            }
+        }
+    ],
+    "Eagle Lake GC - 25344": [
+        {
+            "male - Black": {
+                "Rating": "62.00",
+                "Bogey": "80.00",
+                "Slope": 97
+            },
+            "female - White": {
+                "Rating": "62.00",
+                "Bogey": "85.20",
+                "Slope": 98
+            },
+            "male - Blue": {
+                "Rating": "61.00",
+                "Bogey": "78.60",
+                "Slope": 95
+            },
+            "male - White": {
+                "Rating": "59.80",
+                "Bogey": "77.00",
+                "Slope": 93
+            },
+            "female - Red": {
+                "Rating": "58.20",
+                "Bogey": "79.60",
+                "Slope": 91
+            }
+        }
+    ],
+    "Eaglewood GC - 25345": [
+        {
+            "male - Black": {
+                "Rating": "71.30",
+                "Bogey": "94.40",
+                "Slope": 125
+            },
+            "male - Blue": {
+                "Rating": "69.60",
+                "Bogey": "92.40",
+                "Slope": 123
+            },
+            "male - White": {
+                "Rating": "67.10",
+                "Bogey": "88.00",
+                "Slope": 113
+            },
+            "female - White": {
+                "Rating": "72.60",
+                "Bogey": "103.50",
+                "Slope": 131
+            },
+            "female - Red": {
+                "Rating": "67.50",
+                "Bogey": "94.90",
+                "Slope": 116
+            },
+            "female - Blue": {
+                "Rating": "75.80",
+                "Bogey": "108.40",
+                "Slope": 138
+            },
+            "female - Black": {
+                "Rating": "77.60",
+                "Bogey": "111.00",
+                "Slope": 142
+            },
+            "male - Red": {
+                "Rating": "63.10",
+                "Bogey": "82.60",
+                "Slope": 105
+            }
+        }
+    ],
+    "El Monte GC - 25347": [
+        {
+            "male - White": {
+                "Rating": "65.20",
+                "Bogey": "85.80",
+                "Slope": 111
+            },
+            "male - Black": {
+                "Rating": "67.00",
+                "Bogey": "88.60",
+                "Slope": 116
+            },
+            "female - Red": {
+                "Rating": "66.80",
+                "Bogey": "93.80",
+                "Slope": 114
+            },
+            "female - White": {
+                "Rating": "70.60",
+                "Bogey": "100.20",
+                "Slope": 126
+            },
+            "female - Yellow": {
+                "Rating": "59.40",
+                "Bogey": "80.40",
+                "Slope": 89
+            },
+            "male - Red": {
+                "Rating": "62.00",
+                "Bogey": "81.00",
+                "Slope": 102
+            },
+            "male - Yellow": {
+                "Rating": "58.00",
+                "Bogey": "75.80",
+                "Slope": 96
+            }
+        }
+    ],
+    "Fore Lakes GC - 25348": [
+        {
+            "female - Red": {
+                "Rating": "61.00",
+                "Bogey": "82.40",
+                "Slope": 91
+            },
+            "female - White": {
+                "Rating": "62.60",
+                "Bogey": "85.00",
+                "Slope": 95
+            },
+            "male - Blue": {
+                "Rating": "61.20",
+                "Bogey": "79.00",
+                "Slope": 96
+            },
+            "male - White": {
+                "Rating": "60.20",
+                "Bogey": "77.80",
+                "Slope": 95
+            }
+        }
+    ],
+    "Forest Dale GC - 25349": [
+        {
+            "male - Blue": {
+                "Rating": "68.80",
+                "Bogey": "91.20",
+                "Slope": 121
+            },
+            "male - White": {
+                "Rating": "65.00",
+                "Bogey": "85.00",
+                "Slope": 108
+            },
+            "female - White": {
+                "Rating": "70.20",
+                "Bogey": "98.00",
+                "Slope": 118
+            },
+            "female - Gold": {
+                "Rating": "64.80",
+                "Bogey": "91.40",
+                "Slope": 113
+            },
+            "female - Blue": {
+                "Rating": "74.20",
+                "Bogey": "103.80",
+                "Slope": 126
+            },
+            "male - Gold": {
+                "Rating": "61.40",
+                "Bogey": "80.20",
+                "Slope": 101
+            }
+        }
+    ],
+    "Fox Hollow GC - 25350": [
+        {
+            "male - Blue": {
+                "Rating": "71.20",
+                "Bogey": "92.90",
+                "Slope": 117
+            },
+            "male - White": {
+                "Rating": "67.80",
+                "Bogey": "88.80",
+                "Slope": 113
+            },
+            "male - Gold": {
+                "Rating": "64.90",
+                "Bogey": "84.70",
+                "Slope": 107
+            },
+            "female - Gold": {
+                "Rating": "69.80",
+                "Bogey": "99.10",
+                "Slope": 124
+            },
+            "female - Red": {
+                "Rating": "68.70",
+                "Bogey": "97.10",
+                "Slope": 121
+            },
+            "female - White": {
+                "Rating": "72.90",
+                "Bogey": "103.80",
+                "Slope": 131
+            },
+            "female - Blue": {
+                "Rating": "76.40",
+                "Bogey": "108.90",
+                "Slope": 138
+            },
+            "female - Black": {
+                "Rating": "78.90",
+                "Bogey": "112.80",
+                "Slope": 144
+            },
+            "male - Red": {
+                "Rating": "63.90",
+                "Bogey": "83.20",
+                "Slope": 104
+            },
+            "male - Black": {
+                "Rating": "73.20",
+                "Bogey": "95.80",
+                "Slope": 122
+            }
+        }
+    ],
+    "Gladstan GC - 25351": [
+        {
+            "male - Black": {
+                "Rating": "72.30",
+                "Bogey": "96.80",
+                "Slope": 132
+            },
+            "male - Gold": {
+                "Rating": "65.10",
+                "Bogey": "86.70",
+                "Slope": 117
+            },
+            "male - White": {
+                "Rating": "67.40",
+                "Bogey": "89.90",
+                "Slope": 122
+            },
+            "male - Blue": {
+                "Rating": "70.50",
+                "Bogey": "94.40",
+                "Slope": 129
+            },
+            "female - Red": {
+                "Rating": "67.80",
+                "Bogey": "97.00",
+                "Slope": 124
+            },
+            "female - Gold": {
+                "Rating": "70.20",
+                "Bogey": "101.10",
+                "Slope": 131
+            },
+            "male - Red": {
+                "Rating": "63.00",
+                "Bogey": "83.40",
+                "Slope": 110
+            }
+        }
+    ],
+    "Glen Eagle GC - 25352": [
+        {
+            "male - Blue": {
+                "Rating": "71.30",
+                "Bogey": "93.80",
+                "Slope": 121
+            },
+            "male - Black": {
+                "Rating": "73.20",
+                "Bogey": "96.20",
+                "Slope": 124
+            },
+            "female - Gold": {
+                "Rating": "70.40",
+                "Bogey": "100.60",
+                "Slope": 128
+            },
+            "male - White": {
+                "Rating": "67.80",
+                "Bogey": "89.50",
+                "Slope": 117
+            },
+            "male - Gold": {
+                "Rating": "65.10",
+                "Bogey": "85.20",
+                "Slope": 109
+            },
+            "female - White": {
+                "Rating": "73.70",
+                "Bogey": "105.50",
+                "Slope": 135
+            },
+            "female - Red": {
+                "Rating": "67.00",
+                "Bogey": "94.20",
+                "Slope": 115
+            },
+            "male - White/Gold Combo": {
+                "Rating": "66.50",
+                "Bogey": "87.40",
+                "Slope": 113
+            },
+            "female - White/Gold Combo": {
+                "Rating": "72.20",
+                "Bogey": "103.20",
+                "Slope": 132
+            },
+            "male - Red": {
+                "Rating": "62.30",
+                "Bogey": "81.00",
+                "Slope": 101
+            }
+        }
+    ],
+    "Glendale GC - 25353": [
+        {
+            "male - Black": {
+                "Rating": "70.60",
+                "Bogey": "92.80",
+                "Slope": 120
+            },
+            "male - Blue": {
+                "Rating": "68.90",
+                "Bogey": "90.10",
+                "Slope": 114
+            },
+            "male - Silver": {
+                "Rating": "66.90",
+                "Bogey": "87.10",
+                "Slope": 109
+            },
+            "female - Silver": {
+                "Rating": "72.20",
+                "Bogey": "102.60",
+                "Slope": 129
+            },
+            "female - Gold": {
+                "Rating": "66.80",
+                "Bogey": "94.10",
+                "Slope": 116
+            },
+            "female - Blue": {
+                "Rating": "74.60",
+                "Bogey": "106.30",
+                "Slope": 135
+            },
+            "female - Black": {
+                "Rating": "76.70",
+                "Bogey": "109.40",
+                "Slope": 139
+            },
+            "male - Gold": {
+                "Rating": "62.70",
+                "Bogey": "81.40",
+                "Slope": 101
+            }
+        }
+    ],
+    "Glenmoor GC - 25354": [
+        {
+            "male - Green": {
+                "Rating": "60.40",
+                "Bogey": "79.10",
+                "Slope": 101
+            },
+            "female - Green": {
+                "Rating": "62.50",
+                "Bogey": "88.90",
+                "Slope": 112
+            },
+            "male - Black": {
+                "Rating": "72.40",
+                "Bogey": "96.40",
+                "Slope": 129
+            },
+            "male - White": {
+                "Rating": "69.40",
+                "Bogey": "91.10",
+                "Slope": 117
+            },
+            "male - Red": {
+                "Rating": "66.00",
+                "Bogey": "85.90",
+                "Slope": 107
+            },
+            "female - Black": {
+                "Rating": "78.80",
+                "Bogey": "112.20",
+                "Slope": 142
+            },
+            "female - Blue": {
+                "Rating": "76.60",
+                "Bogey": "109.50",
+                "Slope": 140
+            },
+            "female - White": {
+                "Rating": "74.70",
+                "Bogey": "106.80",
+                "Slope": 137
+            },
+            "female - Red": {
+                "Rating": "70.40",
+                "Bogey": "100.50",
+                "Slope": 128
+            },
+            "female - Red/Green Combo": {
+                "Rating": "67.70",
+                "Bogey": "96.40",
+                "Slope": 122
+            },
+            "male - Blue": {
+                "Rating": "71.00",
+                "Bogey": "94.30",
+                "Slope": 126
+            }
+        }
+    ],
+    "Glenwild CC - 25355": [
+        {
+            "male - Blue": {
+                "Rating": "74.90",
+                "Bogey": "102.10",
+                "Slope": 146
+            },
+            "male - Ivory": {
+                "Rating": "73.10",
+                "Bogey": "99.70",
+                "Slope": 143
+            },
+            "male - Green": {
+                "Rating": "70.70",
+                "Bogey": "96.40",
+                "Slope": 139
+            },
+            "male - Yellow": {
+                "Rating": "68.50",
+                "Bogey": "92.40",
+                "Slope": 129
+            },
+            "male - Purple": {
+                "Rating": "64.90",
+                "Bogey": "85.90",
+                "Slope": 113
+            },
+            "female - Green": {
+                "Rating": "77.20",
+                "Bogey": "112.80",
+                "Slope": 151
+            },
+            "female - Yellow": {
+                "Rating": "74.80",
+                "Bogey": "109.30",
+                "Slope": 146
+            },
+            "female - Purple": {
+                "Rating": "69.40",
+                "Bogey": "100.90",
+                "Slope": 134
+            },
+            "male - Blue/Ivory Combo": {
+                "Rating": "73.90",
+                "Bogey": "100.90",
+                "Slope": 145
+            },
+            "male - Ivory/Green Combo": {
+                "Rating": "71.50",
+                "Bogey": "97.80",
+                "Slope": 142
+            },
+            "male - Green/Yellow Combo": {
+                "Rating": "69.00",
+                "Bogey": "93.40",
+                "Slope": 131
+            },
+            "male - Yellow/Purple Combo": {
+                "Rating": "66.50",
+                "Bogey": "89.00",
+                "Slope": 121
+            },
+            "female - Green/Yellow Combo": {
+                "Rating": "75.50",
+                "Bogey": "110.40",
+                "Slope": 148
+            },
+            "female - Yellow/Purple Combo": {
+                "Rating": "71.60",
+                "Bogey": "104.50",
+                "Slope": 140
+            }
+        }
+    ],
+    "Green River GC - 25356": [
+        {
+            "male - Blue": {
+                "Rating": "69.00",
+                "Bogey": "91.40",
+                "Slope": 121
+            },
+            "male - White": {
+                "Rating": "67.40",
+                "Bogey": "88.80",
+                "Slope": 115
+            },
+            "male - Gold": {
+                "Rating": "65.20",
+                "Bogey": "85.20",
+                "Slope": 108
+            },
+            "female - Gold": {
+                "Rating": "70.60",
+                "Bogey": "99.40",
+                "Slope": 122
+            },
+            "female - Red": {
+                "Rating": "65.40",
+                "Bogey": "91.20",
+                "Slope": 109
+            },
+            "female - White": {
+                "Rating": "72.60",
+                "Bogey": "104.00",
+                "Slope": 133
+            },
+            "female - Blue": {
+                "Rating": "74.60",
+                "Bogey": "107.00",
+                "Slope": 137
+            },
+            "male - Red": {
+                "Rating": "61.40",
+                "Bogey": "80.20",
+                "Slope": 101
+            }
+        }
+    ],
+    "Hidden Valley CC - 25357": [
+        {
+            "male - Black (V/M)": {
+                "Rating": "73.00",
+                "Bogey": "96.90",
+                "Slope": 129
+            },
+            "male - Blue (V/M)": {
+                "Rating": "70.50",
+                "Bogey": "93.80",
+                "Slope": 126
+            },
+            "male - White (V/M)": {
+                "Rating": "69.10",
+                "Bogey": "92.10",
+                "Slope": 124
+            },
+            "male - Gold (V/M)": {
+                "Rating": "67.30",
+                "Bogey": "89.70",
+                "Slope": 121
+            },
+            "male - Silver (V/M)": {
+                "Rating": "65.30",
+                "Bogey": "87.00",
+                "Slope": 117
+            },
+            "female - Blue (V/M)": {
+                "Rating": "76.60",
+                "Bogey": "110.30",
+                "Slope": 143
+            },
+            "female - White (V/M)": {
+                "Rating": "75.20",
+                "Bogey": "108.20",
+                "Slope": 140
+            },
+            "female - Silver (V/M)": {
+                "Rating": "70.90",
+                "Bogey": "101.30",
+                "Slope": 129
+            },
+            "female - Gold (V/M)": {
+                "Rating": "73.20",
+                "Bogey": "104.90",
+                "Slope": 135
+            }
+        }
+    ],
+    "Hubbard GC at Hill AFB - 25358": [
+        {
+            "male - Yellow": {
+                "Rating": "65.10",
+                "Bogey": "85.50",
+                "Slope": 110
+            },
+            "female - Yellow": {
+                "Rating": "70.20",
+                "Bogey": "98.90",
+                "Slope": 122
+            },
+            "female - Red": {
+                "Rating": "67.50",
+                "Bogey": "95.20",
+                "Slope": 118
+            },
+            "male - Blue": {
+                "Rating": "72.10",
+                "Bogey": "94.50",
+                "Slope": 121
+            },
+            "male - White": {
+                "Rating": "70.20",
+                "Bogey": "92.10",
+                "Slope": 118
+            },
+            "male - White/Yellow Combo": {
+                "Rating": "67.10",
+                "Bogey": "88.50",
+                "Slope": 115
+            },
+            "female - White": {
+                "Rating": "75.50",
+                "Bogey": "107.00",
+                "Slope": 134
+            },
+            "female - White/Yellow Combo": {
+                "Rating": "72.50",
+                "Bogey": "102.40",
+                "Slope": 127
+            },
+            "male - White/Blue Combo": {
+                "Rating": "71.50",
+                "Bogey": "93.70",
+                "Slope": 120
+            },
+            "male - Red": {
+                "Rating": "62.60",
+                "Bogey": "81.60",
+                "Slope": 102
+            }
+        }
+    ],
+    "Hobble Creek GC - 25359": [
+        {
+            "male - Black": {
+                "Rating": "69.90",
+                "Bogey": "93.90",
+                "Slope": 129
+            },
+            "male - Blue": {
+                "Rating": "68.80",
+                "Bogey": "92.40",
+                "Slope": 127
+            },
+            "male - White": {
+                "Rating": "67.40",
+                "Bogey": "90.40",
+                "Slope": 124
+            },
+            "male - Red": {
+                "Rating": "65.40",
+                "Bogey": "86.60",
+                "Slope": 114
+            },
+            "female - Blue": {
+                "Rating": "74.10",
+                "Bogey": "107.70",
+                "Slope": 143
+            },
+            "female - White": {
+                "Rating": "72.60",
+                "Bogey": "105.40",
+                "Slope": 139
+            },
+            "female - Red": {
+                "Rating": "70.50",
+                "Bogey": "101.10",
+                "Slope": 130
+            },
+            "female - Red/White Combo": {
+                "Rating": "70.70",
+                "Bogey": "101.70",
+                "Slope": 132
+            }
+        }
+    ],
+    "Jeremy Ranch CC - 25360": [
+        {
+            "male - Blue": {
+                "Rating": "74.00",
+                "Bogey": "99.40",
+                "Slope": 137
+            },
+            "male - Green": {
+                "Rating": "71.60",
+                "Bogey": "96.60",
+                "Slope": 135
+            },
+            "male - Green/Silver Combo": {
+                "Rating": "70.30",
+                "Bogey": "95.10",
+                "Slope": 133
+            },
+            "male - Silver": {
+                "Rating": "69.10",
+                "Bogey": "93.70",
+                "Slope": 132
+            },
+            "male - Yellow": {
+                "Rating": "65.90",
+                "Bogey": "88.70",
+                "Slope": 123
+            },
+            "female - Yellow": {
+                "Rating": "70.90",
+                "Bogey": "103.90",
+                "Slope": 140
+            },
+            "female - Red": {
+                "Rating": "69.90",
+                "Bogey": "100.00",
+                "Slope": 128
+            },
+            "female - Silver": {
+                "Rating": "74.30",
+                "Bogey": "108.90",
+                "Slope": 147
+            },
+            "male - Blue/Green Combo": {
+                "Rating": "72.30",
+                "Bogey": "97.50",
+                "Slope": 136
+            }
+        }
+    ],
+    "Lakeside GC - 25361": [
+        {
+            "male - Blue": {
+                "Rating": "68.40",
+                "Bogey": "90.10",
+                "Slope": 117
+            },
+            "male - White": {
+                "Rating": "66.50",
+                "Bogey": "87.40",
+                "Slope": 113
+            },
+            "male - Silver": {
+                "Rating": "64.80",
+                "Bogey": "85.40",
+                "Slope": 111
+            },
+            "female - Silver": {
+                "Rating": "70.00",
+                "Bogey": "98.20",
+                "Slope": 120
+            },
+            "female - Red": {
+                "Rating": "66.80",
+                "Bogey": "93.70",
+                "Slope": 115
+            },
+            "male - Red": {
+                "Rating": "62.70",
+                "Bogey": "82.60",
+                "Slope": 108
+            }
+        }
+    ],
+    "Logan Golf & Country Club - 25362": [
+        {
+            "male - Iron": {
+                "Rating": "70.70",
+                "Bogey": "95.70",
+                "Slope": 135
+            },
+            "male - Gold": {
+                "Rating": "67.70",
+                "Bogey": "91.20",
+                "Slope": 127
+            },
+            "male - Silver": {
+                "Rating": "63.40",
+                "Bogey": "84.50",
+                "Slope": 114
+            },
+            "male - Copper": {
+                "Rating": "61.60",
+                "Bogey": "82.20",
+                "Slope": 111
+            },
+            "female - Copper": {
+                "Rating": "64.80",
+                "Bogey": "93.00",
+                "Slope": 120
+            },
+            "female - Silver": {
+                "Rating": "67.90",
+                "Bogey": "98.00",
+                "Slope": 128
+            },
+            "female - Gold": {
+                "Rating": "72.60",
+                "Bogey": "105.50",
+                "Slope": 140
+            }
+        }
+    ],
+    "Logan River GC - 25363": [
+        {
+            "male - Black": {
+                "Rating": "70.20",
+                "Bogey": "92.40",
+                "Slope": 120
+            },
+            "male - Blue": {
+                "Rating": "68.40",
+                "Bogey": "90.10",
+                "Slope": 117
+            },
+            "male - White": {
+                "Rating": "65.60",
+                "Bogey": "86.60",
+                "Slope": 113
+            },
+            "female - White": {
+                "Rating": "71.10",
+                "Bogey": "102.30",
+                "Slope": 133
+            },
+            "female - Red": {
+                "Rating": "67.20",
+                "Bogey": "95.30",
+                "Slope": 119
+            },
+            "female - White/Red Combo": {
+                "Rating": "69.50",
+                "Bogey": "99.70",
+                "Slope": 128
+            },
+            "male - White/Silver Combo": {
+                "Rating": "64.30",
+                "Bogey": "84.90",
+                "Slope": 111
+            },
+            "male - Blue/White Combo": {
+                "Rating": "67.00",
+                "Bogey": "88.40",
+                "Slope": 115
+            },
+            "male - Black/Blue Combo": {
+                "Rating": "69.00",
+                "Bogey": "91.00",
+                "Slope": 118
+            },
+            "male - Silver": {
+                "Rating": "62.90",
+                "Bogey": "82.90",
+                "Slope": 108
+            },
+            "female - Blue": {
+                "Rating": "74.10",
+                "Bogey": "107.30",
+                "Slope": 141
+            },
+            "female - Black": {
+                "Rating": "76.00",
+                "Bogey": "110.30",
+                "Slope": 146
+            }
+        }
+    ],
+    "Meadowbrook GC - 25364": [
+        {
+            "male - Blue": {
+                "Rating": "68.70",
+                "Bogey": "89.10",
+                "Slope": 110
+            },
+            "female - White": {
+                "Rating": "71.70",
+                "Bogey": "101.00",
+                "Slope": 124
+            },
+            "male - Black": {
+                "Rating": "70.70",
+                "Bogey": "92.40",
+                "Slope": 117
+            },
+            "male - White": {
+                "Rating": "66.20",
+                "Bogey": "85.60",
+                "Slope": 105
+            },
+            "male - Red": {
+                "Rating": "62.70",
+                "Bogey": "81.30",
+                "Slope": 100
+            },
+            "female - Red": {
+                "Rating": "67.50",
+                "Bogey": "94.30",
+                "Slope": 114
+            }
+        }
+    ],
+    "Mick Riley GC - 25365": [
+        {
+            "male - Blue": {
+                "Rating": "69.80",
+                "Bogey": "92.20",
+                "Slope": 121
+            },
+            "male - White": {
+                "Rating": "67.80",
+                "Bogey": "88.60",
+                "Slope": 112
+            },
+            "male - Red": {
+                "Rating": "65.60",
+                "Bogey": "84.00",
+                "Slope": 99
+            },
+            "female - White": {
+                "Rating": "73.40",
+                "Bogey": "104.40",
+                "Slope": 131
+            },
+            "female - Red": {
+                "Rating": "70.00",
+                "Bogey": "99.00",
+                "Slope": 123
+            }
+        }
+    ],
+    "Millsite GC - 25366": [
+        {
+            "male - Blue": {
+                "Rating": "69.70",
+                "Bogey": "94.10",
+                "Slope": 132
+            },
+            "male - White": {
+                "Rating": "66.80",
+                "Bogey": "88.50",
+                "Slope": 117
+            },
+            "male - Yellow": {
+                "Rating": "62.10",
+                "Bogey": "80.50",
+                "Slope": 99
+            },
+            "female - White": {
+                "Rating": "72.20",
+                "Bogey": "105.30",
+                "Slope": 141
+            },
+            "female - Yellow": {
+                "Rating": "66.10",
+                "Bogey": "93.20",
+                "Slope": 115
+            },
+            "female - Red": {
+                "Rating": "63.60",
+                "Bogey": "88.90",
+                "Slope": 108
+            }
+        }
+    ],
+    "Moab GC - 25367": [
+        {
+            "female - White": {
+                "Rating": "70.50",
+                "Bogey": "99.30",
+                "Slope": 122
+            },
+            "male - Gold": {
+                "Rating": "72.90",
+                "Bogey": "97.60",
+                "Slope": 133
+            },
+            "male - Blue": {
+                "Rating": "69.50",
+                "Bogey": "93.10",
+                "Slope": 128
+            },
+            "male - White": {
+                "Rating": "65.90",
+                "Bogey": "86.50",
+                "Slope": 111
+            },
+            "female - Red": {
+                "Rating": "67.40",
+                "Bogey": "94.60",
+                "Slope": 116
+            },
+            "female - Blue": {
+                "Rating": "75.00",
+                "Bogey": "106.10",
+                "Slope": 132
+            },
+            "female - Gold": {
+                "Rating": "78.60",
+                "Bogey": "111.50",
+                "Slope": 140
+            },
+            "male - Red": {
+                "Rating": "63.30",
+                "Bogey": "82.40",
+                "Slope": 103
+            }
+        }
+    ],
+    "Mountain Dell GC - 25368": [
+        {
+            "male - Blue (Lake)": {
+                "Rating": "69.00",
+                "Bogey": "92.80",
+                "Slope": 128
+            },
+            "male - Black (Lake)": {
+                "Rating": "71.80",
+                "Bogey": "96.40",
+                "Slope": 133
+            },
+            "female - Gold (Lake)": {
+                "Rating": "67.40",
+                "Bogey": "95.50",
+                "Slope": 120
+            },
+            "female - White (Lake)": {
+                "Rating": "70.80",
+                "Bogey": "100.90",
+                "Slope": 128
+            },
+            "male - Gold (Lake)": {
+                "Rating": "63.10",
+                "Bogey": "83.10",
+                "Slope": 108
+            },
+            "male - White (Lake)": {
+                "Rating": "65.90",
+                "Bogey": "86.80",
+                "Slope": 113
+            },
+            "female - Blue (Lake)": {
+                "Rating": "74.30",
+                "Bogey": "106.40",
+                "Slope": 137
+            }
+        }
+    ],
+    "Mountain View GC - 25369": [
+        {
+            "female - Red": {
+                "Rating": "70.40",
+                "Bogey": "99.30",
+                "Slope": 123
+            },
+            "female - White": {
+                "Rating": "74.30",
+                "Bogey": "105.10",
+                "Slope": 131
+            },
+            "male - Blue": {
+                "Rating": "70.70",
+                "Bogey": "92.90",
+                "Slope": 120
+            },
+            "male - White": {
+                "Rating": "68.40",
+                "Bogey": "90.00",
+                "Slope": 116
+            },
+            "male - Red": {
+                "Rating": "65.10",
+                "Bogey": "84.80",
+                "Slope": 106
+            }
+        }
+    ],
+    "Mt Ogden GC - 25370": [
+        {
+            "male - Blue": {
+                "Rating": "70.20",
+                "Bogey": "94.50",
+                "Slope": 131
+            },
+            "male - White": {
+                "Rating": "68.00",
+                "Bogey": "91.20",
+                "Slope": 125
+            },
+            "male - Yellow": {
+                "Rating": "64.40",
+                "Bogey": "86.40",
+                "Slope": 119
+            },
+            "male - Red": {
+                "Rating": "63.40",
+                "Bogey": "84.40",
+                "Slope": 113
+            },
+            "female - White": {
+                "Rating": "72.40",
+                "Bogey": "104.70",
+                "Slope": 137
+            },
+            "female - Yellow": {
+                "Rating": "68.40",
+                "Bogey": "97.20",
+                "Slope": 122
+            },
+            "female - Red": {
+                "Rating": "67.50",
+                "Bogey": "95.50",
+                "Slope": 119
+            }
+        }
+    ],
+    "Mulligans - 25371": [
+        {
+            "male - Blue": {
+                "Rating": "60.40",
+                "Bogey": "77.80",
+                "Slope": 94
+            },
+            "female - Blue": {
+                "Rating": "63.40",
+                "Bogey": "88.20",
+                "Slope": 105
+            },
+            "female - White": {
+                "Rating": "61.20",
+                "Bogey": "84.60",
+                "Slope": 99
+            },
+            "female - Yellow": {
+                "Rating": "58.80",
+                "Bogey": "81.20",
+                "Slope": 95
+            },
+            "male - Yellow": {
+                "Rating": "57.80",
+                "Bogey": "74.20",
+                "Slope": 88
+            },
+            "male - White": {
+                "Rating": "59.20",
+                "Bogey": "76.20",
+                "Slope": 91
+            }
+        }
+    ],
+    "Murray Parkway GC - 25372": [
+        {
+            "male - Blue": {
+                "Rating": "71.00",
+                "Bogey": "92.90",
+                "Slope": 118
+            },
+            "female - Silver": {
+                "Rating": "70.90",
+                "Bogey": "99.90",
+                "Slope": 123
+            },
+            "male - White": {
+                "Rating": "68.90",
+                "Bogey": "89.80",
+                "Slope": 112
+            },
+            "male - Silver": {
+                "Rating": "65.60",
+                "Bogey": "85.30",
+                "Slope": 106
+            },
+            "female - Yellow": {
+                "Rating": "64.80",
+                "Bogey": "90.70",
+                "Slope": 110
+            },
+            "female - White": {
+                "Rating": "74.30",
+                "Bogey": "105.00",
+                "Slope": 130
+            }
+        }
+    ],
+    "Nibley Park GC - 25373": [
+        {
+            "male - Blue": {
+                "Rating": "66.00",
+                "Bogey": "87.20",
+                "Slope": 114
+            },
+            "male - White": {
+                "Rating": "63.80",
+                "Bogey": "84.00",
+                "Slope": 109
+            },
+            "female - White": {
+                "Rating": "68.60",
+                "Bogey": "97.60",
+                "Slope": 123
+            },
+            "female - Gold": {
+                "Rating": "65.60",
+                "Bogey": "93.00",
+                "Slope": 116
+            },
+            "female - Blue": {
+                "Rating": "71.60",
+                "Bogey": "102.40",
+                "Slope": 131
+            },
+            "male - Gold": {
+                "Rating": "61.80",
+                "Bogey": "81.20",
+                "Slope": 104
+            },
+            "male - Red": {
+                "Rating": "57.00",
+                "Bogey": "74.60",
+                "Slope": 95
+            },
+            "female - Red": {
+                "Rating": "59.20",
+                "Bogey": "82.80",
+                "Slope": 100
+            }
+        }
+    ],
+    "Oakridge CC - 25374": [
+        {
+            "male - Blue/White Combo": {
+                "Rating": "72.40",
+                "Bogey": "97.90",
+                "Slope": 138
+            },
+            "male - Blue": {
+                "Rating": "73.30",
+                "Bogey": "99.20",
+                "Slope": 140
+            },
+            "male - White": {
+                "Rating": "71.70",
+                "Bogey": "96.70",
+                "Slope": 135
+            },
+            "male - Gold": {
+                "Rating": "69.10",
+                "Bogey": "93.50",
+                "Slope": 131
+            },
+            "male - Silver": {
+                "Rating": "68.40",
+                "Bogey": "91.90",
+                "Slope": 127
+            },
+            "male - Red": {
+                "Rating": "65.30",
+                "Bogey": "86.20",
+                "Slope": 113
+            },
+            "female - White": {
+                "Rating": "77.30",
+                "Bogey": "111.70",
+                "Slope": 146
+            },
+            "female - Silver": {
+                "Rating": "73.70",
+                "Bogey": "106.20",
+                "Slope": 138
+            },
+            "female - Red": {
+                "Rating": "69.70",
+                "Bogey": "100.00",
+                "Slope": 129
+            }
+        }
+    ],
+    "Ogden G&CC - 25375": [
+        {
+            "male - Black": {
+                "Rating": "72.70",
+                "Bogey": "96.40",
+                "Slope": 128
+            },
+            "male - Blue": {
+                "Rating": "70.70",
+                "Bogey": "93.70",
+                "Slope": 124
+            },
+            "male - White": {
+                "Rating": "68.30",
+                "Bogey": "90.80",
+                "Slope": 121
+            },
+            "male - Red": {
+                "Rating": "64.70",
+                "Bogey": "85.90",
+                "Slope": 114
+            },
+            "female - Red": {
+                "Rating": "70.40",
+                "Bogey": "99.90",
+                "Slope": 125
+            },
+            "female - Purple": {
+                "Rating": "63.10",
+                "Bogey": "88.40",
+                "Slope": 107
+            },
+            "female - White": {
+                "Rating": "74.10",
+                "Bogey": "105.40",
+                "Slope": 133
+            },
+            "male - Black/Blue Combo": {
+                "Rating": "72.20",
+                "Bogey": "95.60",
+                "Slope": 126
+            },
+            "male - Blue/White Combo": {
+                "Rating": "70.00",
+                "Bogey": "92.70",
+                "Slope": 122
+            },
+            "male - White/Red Combo": {
+                "Rating": "66.80",
+                "Bogey": "88.60",
+                "Slope": 117
+            },
+            "female - White/Red Combo": {
+                "Rating": "72.50",
+                "Bogey": "103.10",
+                "Slope": 130
+            }
+        }
+    ],
+    "Old Mill GC - 25376": [
+        {
+            "female - Red": {
+                "Rating": "65.90",
+                "Bogey": "94.60",
+                "Slope": 122
+            },
+            "female - White": {
+                "Rating": "70.50",
+                "Bogey": "101.40",
+                "Slope": 131
+            },
+            "male - Blue": {
+                "Rating": "68.40",
+                "Bogey": "91.10",
+                "Slope": 122
+            },
+            "male - Black": {
+                "Rating": "70.60",
+                "Bogey": "95.40",
+                "Slope": 134
+            },
+            "male - White": {
+                "Rating": "66.00",
+                "Bogey": "87.80",
+                "Slope": 118
+            },
+            "male - Red": {
+                "Rating": "62.30",
+                "Bogey": "82.80",
+                "Slope": 111
+            },
+            "female - Blue": {
+                "Rating": "73.50",
+                "Bogey": "105.70",
+                "Slope": 137
+            },
+            "female - Black": {
+                "Rating": "76.40",
+                "Bogey": "110.20",
+                "Slope": 143
+            }
+        }
+    ],
+    "Oquirrh Hills GC - 25377": [
+        {
+            "male - White": {
+                "Rating": "65.80",
+                "Bogey": "86.60",
+                "Slope": 112
+            },
+            "male - Black": {
+                "Rating": "70.20",
+                "Bogey": "93.30",
+                "Slope": 125
+            },
+            "male - Blue": {
+                "Rating": "68.10",
+                "Bogey": "90.50",
+                "Slope": 121
+            },
+            "male - Red": {
+                "Rating": "62.80",
+                "Bogey": "82.70",
+                "Slope": 107
+            },
+            "female - White": {
+                "Rating": "71.10",
+                "Bogey": "101.70",
+                "Slope": 130
+            },
+            "female - Red": {
+                "Rating": "67.20",
+                "Bogey": "95.60",
+                "Slope": 121
+            }
+        }
+    ],
+    "Overlake GC - 25378": [
+        {
+            "male - Blue": {
+                "Rating": "69.70",
+                "Bogey": "91.40",
+                "Slope": 117
+            },
+            "male - Black": {
+                "Rating": "72.60",
+                "Bogey": "95.60",
+                "Slope": 124
+            },
+            "male - White": {
+                "Rating": "67.10",
+                "Bogey": "87.30",
+                "Slope": 109
+            },
+            "male - Red": {
+                "Rating": "63.30",
+                "Bogey": "81.80",
+                "Slope": 100
+            },
+            "female - White": {
+                "Rating": "72.70",
+                "Bogey": "102.70",
+                "Slope": 127
+            },
+            "female - Red": {
+                "Rating": "68.20",
+                "Bogey": "95.60",
+                "Slope": 116
+            }
+        }
+    ],
+    "Palisade State Park GC - 25379": [
+        {
+            "male - Blue": {
+                "Rating": "69.80",
+                "Bogey": "93.60",
+                "Slope": 128
+            },
+            "male - White": {
+                "Rating": "67.40",
+                "Bogey": "90.30",
+                "Slope": 124
+            },
+            "male - Red": {
+                "Rating": "64.90",
+                "Bogey": "86.60",
+                "Slope": 117
+            },
+            "female - White": {
+                "Rating": "72.80",
+                "Bogey": "105.90",
+                "Slope": 140
+            },
+            "female - Red": {
+                "Rating": "69.90",
+                "Bogey": "101.10",
+                "Slope": 133
+            }
+        }
+    ],
+    "Pistol Rock Golf Course - 25380": [
+        {
+            "male - Black": {
+                "Rating": "69.40",
+                "Bogey": "91.20",
+                "Slope": 117
+            },
+            "male - Blue/Black": {
+                "Rating": "68.10",
+                "Bogey": "89.40",
+                "Slope": 115
+            },
+            "male - Blue": {
+                "Rating": "66.80",
+                "Bogey": "87.60",
+                "Slope": 112
+            },
+            "male - White/Blue": {
+                "Rating": "65.30",
+                "Bogey": "85.60",
+                "Slope": 110
+            },
+            "male - White": {
+                "Rating": "63.80",
+                "Bogey": "83.60",
+                "Slope": 107
+            },
+            "female - White": {
+                "Rating": "69.00",
+                "Bogey": "97.00",
+                "Slope": 119
+            },
+            "female - Red/White": {
+                "Rating": "66.70",
+                "Bogey": "94.10",
+                "Slope": 117
+            },
+            "female - Red": {
+                "Rating": "64.40",
+                "Bogey": "91.20",
+                "Slope": 114
+            }
+        }
+    ],
+    "Park City GC - 25381": [
+        {
+            "male - Black": {
+                "Rating": "72.20",
+                "Bogey": "97.40",
+                "Slope": 136
+            },
+            "male - Blue": {
+                "Rating": "70.00",
+                "Bogey": "94.60",
+                "Slope": 133
+            },
+            "male - Yellow": {
+                "Rating": "67.00",
+                "Bogey": "89.20",
+                "Slope": 120
+            },
+            "male - Red": {
+                "Rating": "66.10",
+                "Bogey": "87.50",
+                "Slope": 115
+            },
+            "female - Blue": {
+                "Rating": "75.20",
+                "Bogey": "109.60",
+                "Slope": 146
+            },
+            "female - Yellow": {
+                "Rating": "71.80",
+                "Bogey": "103.50",
+                "Slope": 135
+            },
+            "female - Red": {
+                "Rating": "70.20",
+                "Bogey": "100.50",
+                "Slope": 129
+            }
+        }
+    ],
+    "Park Meadows CC - 25382": [
+        {
+            "male - Gold": {
+                "Rating": "74.80",
+                "Bogey": "100.40",
+                "Slope": 138
+            },
+            "male - Gold/Blue Combo": {
+                "Rating": "73.60",
+                "Bogey": "98.80",
+                "Slope": 136
+            },
+            "male - Blue": {
+                "Rating": "72.30",
+                "Bogey": "97.10",
+                "Slope": 134
+            },
+            "male - Blue/White Combo": {
+                "Rating": "71.10",
+                "Bogey": "95.50",
+                "Slope": 131
+            },
+            "male - White": {
+                "Rating": "70.20",
+                "Bogey": "93.80",
+                "Slope": 127
+            },
+            "male - White/Silver Combo": {
+                "Rating": "69.10",
+                "Bogey": "92.40",
+                "Slope": 126
+            },
+            "male - Silver": {
+                "Rating": "67.80",
+                "Bogey": "90.70",
+                "Slope": 124
+            },
+            "male - Silver/Red Combo": {
+                "Rating": "66.90",
+                "Bogey": "89.70",
+                "Slope": 123
+            },
+            "male - Red": {
+                "Rating": "65.70",
+                "Bogey": "88.10",
+                "Slope": 121
+            },
+            "female - White": {
+                "Rating": "76.10",
+                "Bogey": "110.40",
+                "Slope": 146
+            },
+            "female - White/Silver Combo": {
+                "Rating": "74.90",
+                "Bogey": "108.70",
+                "Slope": 143
+            },
+            "female - Silver": {
+                "Rating": "73.50",
+                "Bogey": "106.70",
+                "Slope": 141
+            },
+            "female - Silver/Red Combo": {
+                "Rating": "72.60",
+                "Bogey": "105.30",
+                "Slope": 139
+            },
+            "female - Red": {
+                "Rating": "71.50",
+                "Bogey": "103.50",
+                "Slope": 136
+            },
+            "male - Red/Green Combo": {
+                "Rating": "63.70",
+                "Bogey": "85.10",
+                "Slope": 115
+            },
+            "male - Green": {
+                "Rating": "62.20",
+                "Bogey": "83.10",
+                "Slope": 113
+            },
+            "female - Red/Green Combo": {
+                "Rating": "68.60",
+                "Bogey": "99.40",
+                "Slope": 131
+            },
+            "female - Green": {
+                "Rating": "66.60",
+                "Bogey": "96.30",
+                "Slope": 126
+            }
+        }
+    ],
+    "Promontory Club - 25383": [
+        {
+            "male - Gold": {
+                "Rating": "56.50",
+                "Bogey": "74.80",
+                "Slope": 99
+            },
+            "male - Silver": {
+                "Rating": "55.50",
+                "Bogey": "73.30",
+                "Slope": 96
+            },
+            "male - Rust": {
+                "Rating": "53.00",
+                "Bogey": "69.10",
+                "Slope": 87
+            },
+            "female - Gold": {
+                "Rating": "59.00",
+                "Bogey": "82.40",
+                "Slope": 100
+            },
+            "female - Silver": {
+                "Rating": "58.00",
+                "Bogey": "80.90",
+                "Slope": 97
+            },
+            "female - Rust": {
+                "Rating": "55.60",
+                "Bogey": "76.40",
+                "Slope": 88
+            }
+        }
+    ],
+    "Red Ledges GC - 25384": [
+        {
+            "female - Forward (Red)": {
+                "Rating": "70.00",
+                "Bogey": "101.80",
+                "Slope": 135
+            },
+            "female - Golden Bear (Gold)": {
+                "Rating": "67.50",
+                "Bogey": "97.90",
+                "Slope": 129
+            },
+            "female - Member (Silver)": {
+                "Rating": "74.40",
+                "Bogey": "109.20",
+                "Slope": 148
+            },
+            "female - Nicklaus (Blue)": {
+                "Rating": "78.90",
+                "Bogey": "115.90",
+                "Slope": 155
+            },
+            "female - Signature (Black)": {
+                "Rating": "83.70",
+                "Bogey": "122.90",
+                "Slope": 155
+            },
+            "male - Nicklaus (Blue)": {
+                "Rating": "73.30",
+                "Bogey": "101.00",
+                "Slope": 149
+            },
+            "male - Member (Silver)": {
+                "Rating": "69.00",
+                "Bogey": "94.70",
+                "Slope": 139
+            },
+            "male - Forward (Red)": {
+                "Rating": "65.40",
+                "Bogey": "87.50",
+                "Slope": 119
+            },
+            "male - Signature (Black)": {
+                "Rating": "77.20",
+                "Bogey": "106.30",
+                "Slope": 155
+            },
+            "male - Golden Bear (Gold)": {
+                "Rating": "63.60",
+                "Bogey": "85.10",
+                "Slope": 116
+            },
+            "male - Black/Blue Combo": {
+                "Rating": "75.10",
+                "Bogey": "103.30",
+                "Slope": 152
+            },
+            "male - Blue/Silver Combo": {
+                "Rating": "71.40",
+                "Bogey": "98.20",
+                "Slope": 144
+            },
+            "male - Silver/Red Combo": {
+                "Rating": "67.50",
+                "Bogey": "90.60",
+                "Slope": 124
+            },
+            "female - Black/Blue Combo": {
+                "Rating": "81.10",
+                "Bogey": "119.00",
+                "Slope": 155
+            },
+            "female - Blue/Silver Combo": {
+                "Rating": "76.80",
+                "Bogey": "112.70",
+                "Slope": 152
+            },
+            "female - Silver/Red Combo": {
+                "Rating": "72.00",
+                "Bogey": "105.10",
+                "Slope": 140
+            }
+        }
+    ],
+    "Remuda Golf Course - 25385": [
+        {
+            "male - Black": {
+                "Rating": "68.40",
+                "Bogey": "88.70",
+                "Slope": 110
+            },
+            "male - Blue": {
+                "Rating": "66.50",
+                "Bogey": "86.00",
+                "Slope": 105
+            },
+            "male - White": {
+                "Rating": "64.00",
+                "Bogey": "82.30",
+                "Slope": 99
+            },
+            "female - White": {
+                "Rating": "69.10",
+                "Bogey": "96.30",
+                "Slope": 116
+            },
+            "female - Gold": {
+                "Rating": "64.30",
+                "Bogey": "89.10",
+                "Slope": 105
+            },
+            "male - Gold": {
+                "Rating": "60.60",
+                "Bogey": "77.70",
+                "Slope": 92
+            }
+        }
+    ],
+    "River Oaks GC - 25386": [
+        {
+            "male - Black": {
+                "Rating": "70.50",
+                "Bogey": "94.70",
+                "Slope": 130
+            },
+            "male - Blue": {
+                "Rating": "67.50",
+                "Bogey": "89.60",
+                "Slope": 119
+            },
+            "male - White": {
+                "Rating": "64.60",
+                "Bogey": "85.10",
+                "Slope": 111
+            },
+            "female - White": {
+                "Rating": "69.80",
+                "Bogey": "100.10",
+                "Slope": 129
+            },
+            "female - Red": {
+                "Rating": "64.50",
+                "Bogey": "90.40",
+                "Slope": 110
+            },
+            "male - Red": {
+                "Rating": "61.50",
+                "Bogey": "80.80",
+                "Slope": 104
+            }
+        }
+    ],
+    "Riverbend GC - 25387": [
+        {
+            "male - Yellow": {
+                "Rating": "64.30",
+                "Bogey": "84.40",
+                "Slope": 108
+            },
+            "male - Green": {
+                "Rating": "70.40",
+                "Bogey": "94.00",
+                "Slope": 127
+            },
+            "male - Black": {
+                "Rating": "72.50",
+                "Bogey": "97.50",
+                "Slope": 135
+            },
+            "male - White": {
+                "Rating": "67.80",
+                "Bogey": "89.50",
+                "Slope": 117
+            },
+            "female - White": {
+                "Rating": "73.00",
+                "Bogey": "104.60",
+                "Slope": 134
+            },
+            "female - Yellow": {
+                "Rating": "69.10",
+                "Bogey": "97.70",
+                "Slope": 121
+            },
+            "female - Green": {
+                "Rating": "76.20",
+                "Bogey": "109.50",
+                "Slope": 141
+            },
+            "female - Black": {
+                "Rating": "78.80",
+                "Bogey": "113.20",
+                "Slope": 146
+            }
+        }
+    ],
+    "Riverside CC - 25388": [
+        {
+            "female - Silver": {
+                "Rating": "73.70",
+                "Bogey": "106.40",
+                "Slope": 139
+            },
+            "female - Bronze": {
+                "Rating": "69.70",
+                "Bogey": "100.00",
+                "Slope": 129
+            },
+            "male - Gold": {
+                "Rating": "70.40",
+                "Bogey": "94.40",
+                "Slope": 129
+            },
+            "male - Gold/Silver Combo": {
+                "Rating": "69.30",
+                "Bogey": "92.90",
+                "Slope": 127
+            },
+            "female - Gold/Silver Combo": {
+                "Rating": "75.30",
+                "Bogey": "108.50",
+                "Slope": 141
+            },
+            "male - Silver": {
+                "Rating": "68.00",
+                "Bogey": "90.90",
+                "Slope": 124
+            },
+            "male - Bronze": {
+                "Rating": "64.60",
+                "Bogey": "85.90",
+                "Slope": 115
+            },
+            "female - Gold": {
+                "Rating": "76.60",
+                "Bogey": "110.40",
+                "Slope": 144
+            },
+            "male - Black": {
+                "Rating": "73.40",
+                "Bogey": "98.50",
+                "Slope": 136
+            }
+        }
+    ],
+    "Roosevelt GC - 25389": [
+        {
+            "male - Blue": {
+                "Rating": "70.30",
+                "Bogey": "92.70",
+                "Slope": 121
+            },
+            "male - Black": {
+                "Rating": "73.10",
+                "Bogey": "96.80",
+                "Slope": 128
+            },
+            "male - White": {
+                "Rating": "67.20",
+                "Bogey": "88.00",
+                "Slope": 112
+            },
+            "male - Red": {
+                "Rating": "63.00",
+                "Bogey": "82.80",
+                "Slope": 107
+            },
+            "female - Red": {
+                "Rating": "69.40",
+                "Bogey": "98.10",
+                "Slope": 122
+            },
+            "female - White": {
+                "Rating": "73.00",
+                "Bogey": "103.70",
+                "Slope": 130
+            },
+            "female - Blue": {
+                "Rating": "76.90",
+                "Bogey": "109.50",
+                "Slope": 139
+            },
+            "female - Black": {
+                "Rating": "80.50",
+                "Bogey": "114.90",
+                "Slope": 146
+            }
+        }
+    ],
+    "Rose Park GC - 25390": [
+        {
+            "male - Red": {
+                "Rating": "71.20",
+                "Bogey": "93.50",
+                "Slope": 120
+            },
+            "male - Blue": {
+                "Rating": "69.60",
+                "Bogey": "91.20",
+                "Slope": 116
+            },
+            "male - White": {
+                "Rating": "67.60",
+                "Bogey": "88.20",
+                "Slope": 111
+            },
+            "female - White": {
+                "Rating": "72.80",
+                "Bogey": "103.20",
+                "Slope": 129
+            },
+            "female - Purple": {
+                "Rating": "70.30",
+                "Bogey": "99.60",
+                "Slope": 125
+            },
+            "male - Purple": {
+                "Rating": "65.80",
+                "Bogey": "85.40",
+                "Slope": 106
+            }
+        }
+    ],
+    "Round Valley GC - 25391": [
+        {
+            "male - Black": {
+                "Rating": "70.70",
+                "Bogey": "94.10",
+                "Slope": 126
+            },
+            "female - Blue": {
+                "Rating": "73.70",
+                "Bogey": "104.40",
+                "Slope": 130
+            },
+            "male - Blue": {
+                "Rating": "68.00",
+                "Bogey": "90.00",
+                "Slope": 119
+            },
+            "male - White": {
+                "Rating": "63.90",
+                "Bogey": "82.90",
+                "Slope": 102
+            },
+            "female - White": {
+                "Rating": "68.70",
+                "Bogey": "96.80",
+                "Slope": 120
+            },
+            "female - Red": {
+                "Rating": "67.40",
+                "Bogey": "94.70",
+                "Slope": 116
+            }
+        }
+    ],
+    "Schneiter's Bluff GC - 25392": [
+        {
+            "male - Black": {
+                "Rating": "70.10",
+                "Bogey": "92.20",
+                "Slope": 119
+            },
+            "female - Red": {
+                "Rating": "68.00",
+                "Bogey": "95.30",
+                "Slope": 116
+            },
+            "female - Gold": {
+                "Rating": "70.90",
+                "Bogey": "100.10",
+                "Slope": 124
+            },
+            "female - White": {
+                "Rating": "73.60",
+                "Bogey": "104.00",
+                "Slope": 129
+            },
+            "male - White": {
+                "Rating": "67.90",
+                "Bogey": "89.00",
+                "Slope": 114
+            },
+            "male - Gold": {
+                "Rating": "66.00",
+                "Bogey": "85.70",
+                "Slope": 106
+            },
+            "male - Red": {
+                "Rating": "63.10",
+                "Bogey": "81.60",
+                "Slope": 100
+            }
+        }
+    ],
+    "Schneiter's Pebblebrook GC - 25393": [
+        {
+            "female - Red": {
+                "Rating": "61.80",
+                "Bogey": "84.80",
+                "Slope": 98
+            },
+            "female - White": {
+                "Rating": "63.20",
+                "Bogey": "86.80",
+                "Slope": 100
+            },
+            "male - Blue": {
+                "Rating": "63.40",
+                "Bogey": "81.40",
+                "Slope": 97
+            },
+            "male - White": {
+                "Rating": "62.60",
+                "Bogey": "80.40",
+                "Slope": 96
+            }
+        }
+    ],
+    "Schneiter's Riverside GC - 25394": [
+        {
+            "female - White": {
+                "Rating": "69.80",
+                "Bogey": "99.80",
+                "Slope": 128
+            },
+            "male - White": {
+                "Rating": "65.10",
+                "Bogey": "85.30",
+                "Slope": 109
+            },
+            "male - Blue": {
+                "Rating": "66.90",
+                "Bogey": "88.40",
+                "Slope": 116
+            },
+            "female - Gold": {
+                "Rating": "66.40",
+                "Bogey": "93.20",
+                "Slope": 114
+            },
+            "male - Gold": {
+                "Rating": "61.70",
+                "Bogey": "80.80",
+                "Slope": 103
+            }
+        }
+    ],
+    "Skyline Mountain Resort - 25396": [
+        {
+            "male - Blue": {
+                "Rating": "68.40",
+                "Bogey": "90.80",
+                "Slope": 121
+            },
+            "male - White/Blue Combo": {
+                "Rating": "67.60",
+                "Bogey": "89.30",
+                "Slope": 117
+            },
+            "male - White": {
+                "Rating": "66.80",
+                "Bogey": "87.80",
+                "Slope": 113
+            },
+            "female - White": {
+                "Rating": "72.40",
+                "Bogey": "104.20",
+                "Slope": 135
+            },
+            "female - Gold": {
+                "Rating": "69.80",
+                "Bogey": "100.40",
+                "Slope": 130
+            },
+            "male - Gold/White Combo": {
+                "Rating": "65.80",
+                "Bogey": "86.40",
+                "Slope": 111
+            },
+            "male - Gold": {
+                "Rating": "64.80",
+                "Bogey": "85.00",
+                "Slope": 109
+            },
+            "female - Red/Gold Combo": {
+                "Rating": "68.40",
+                "Bogey": "98.00",
+                "Slope": 126
+            },
+            "female - Red": {
+                "Rating": "67.00",
+                "Bogey": "95.60",
+                "Slope": 121
+            },
+            "male - Red": {
+                "Rating": "62.80",
+                "Bogey": "82.20",
+                "Slope": 104
+            }
+        }
+    ],
+    "Skyway GC - 25397": [
+        {
+            "male - White": {
+                "Rating": "67.80",
+                "Bogey": "90.60",
+                "Slope": 123
+            },
+            "male - Blue": {
+                "Rating": "69.00",
+                "Bogey": "92.80",
+                "Slope": 128
+            },
+            "female - White": {
+                "Rating": "72.80",
+                "Bogey": "106.80",
+                "Slope": 144
+            },
+            "female - Red": {
+                "Rating": "67.60",
+                "Bogey": "96.80",
+                "Slope": 124
+            }
+        }
+    ],
+    "Sleepy Ridge GC - 25398": [
+        {
+            "male - Blue": {
+                "Rating": "69.20",
+                "Bogey": "91.50",
+                "Slope": 120
+            },
+            "male - White": {
+                "Rating": "66.90",
+                "Bogey": "88.10",
+                "Slope": 114
+            },
+            "male - Gold": {
+                "Rating": "63.30",
+                "Bogey": "82.70",
+                "Slope": 104
+            },
+            "female - White": {
+                "Rating": "72.70",
+                "Bogey": "104.60",
+                "Slope": 135
+            },
+            "female - Gold": {
+                "Rating": "68.30",
+                "Bogey": "96.90",
+                "Slope": 122
+            },
+            "female - Red": {
+                "Rating": "65.40",
+                "Bogey": "92.70",
+                "Slope": 116
+            },
+            "male - Red": {
+                "Rating": "61.10",
+                "Bogey": "79.60",
+                "Slope": 100
+            },
+            "male - Black": {
+                "Rating": "72.00",
+                "Bogey": "95.50",
+                "Slope": 127
+            }
+        }
+    ],
+    "Soldier Hollow - 25399": [
+        {
+            "male - Black (Silver Course)": {
+                "Rating": "72.30",
+                "Bogey": "97.00",
+                "Slope": 133
+            },
+            "female - White (Silver Course)": {
+                "Rating": "73.50",
+                "Bogey": "105.40",
+                "Slope": 135
+            },
+            "male - Gold (Silver Course)": {
+                "Rating": "74.00",
+                "Bogey": "99.50",
+                "Slope": 138
+            },
+            "male - Blue (Silver Course)": {
+                "Rating": "70.20",
+                "Bogey": "93.50",
+                "Slope": 126
+            },
+            "male - White (Silver Course)": {
+                "Rating": "67.70",
+                "Bogey": "89.90",
+                "Slope": 120
+            },
+            "male - Red (Silver Course)": {
+                "Rating": "64.80",
+                "Bogey": "84.70",
+                "Slope": 107
+            },
+            "female - Red (Silver Course)": {
+                "Rating": "69.90",
+                "Bogey": "100.00",
+                "Slope": 128
+            },
+            "male - Blue/White Combo (Silver Course)": {
+                "Rating": "68.40",
+                "Bogey": "90.60",
+                "Slope": 120
+            },
+            "male - Red/White Combo (Silver Course)": {
+                "Rating": "65.60",
+                "Bogey": "86.10",
+                "Slope": 111
+            },
+            "female - Red/White Combo (Silver Course)": {
+                "Rating": "70.50",
+                "Bogey": "101.40",
+                "Slope": 131
+            }
+        }
+    ],
+    "South Mountain GC - 25400": [
+        {
+            "male - Blue": {
+                "Rating": "69.40",
+                "Bogey": "92.90",
+                "Slope": 127
+            },
+            "female - Red": {
+                "Rating": "69.60",
+                "Bogey": "99.50",
+                "Slope": 127
+            },
+            "male - Gold": {
+                "Rating": "73.30",
+                "Bogey": "98.70",
+                "Slope": 137
+            },
+            "male - Black": {
+                "Rating": "71.40",
+                "Bogey": "96.10",
+                "Slope": 133
+            },
+            "male - White": {
+                "Rating": "67.00",
+                "Bogey": "89.60",
+                "Slope": 122
+            },
+            "male - Red": {
+                "Rating": "64.90",
+                "Bogey": "85.80",
+                "Slope": 113
+            },
+            "female - Gold": {
+                "Rating": "79.70",
+                "Bogey": "115.10",
+                "Slope": 150
+            },
+            "female - Black": {
+                "Rating": "77.50",
+                "Bogey": "111.60",
+                "Slope": 145
+            },
+            "female - Blue": {
+                "Rating": "75.00",
+                "Bogey": "108.00",
+                "Slope": 140
+            },
+            "female - White": {
+                "Rating": "72.60",
+                "Bogey": "104.30",
+                "Slope": 135
+            }
+        }
+    ],
+    "Stansbury Park GC - 25401": [
+        {
+            "male - White": {
+                "Rating": "69.40",
+                "Bogey": "92.20",
+                "Slope": 123
+            },
+            "male - Blue": {
+                "Rating": "71.10",
+                "Bogey": "94.30",
+                "Slope": 125
+            },
+            "female - Red": {
+                "Rating": "71.20",
+                "Bogey": "101.30",
+                "Slope": 128
+            },
+            "male - Red": {
+                "Rating": "65.70",
+                "Bogey": "87.00",
+                "Slope": 115
+            },
+            "female - White": {
+                "Rating": "75.10",
+                "Bogey": "107.00",
+                "Slope": 135
+            }
+        }
+    ],
+    "Stonebridge GC - 25402": [
+        {
+            "male - White (SR/SB)": {
+                "Rating": "68.90",
+                "Bogey": "91.40",
+                "Slope": 121
+            },
+            "male - Blue (SR/SB)": {
+                "Rating": "71.10",
+                "Bogey": "95.40",
+                "Slope": 131
+            },
+            "male - Yellow (SR/SB)": {
+                "Rating": "65.30",
+                "Bogey": "85.30",
+                "Slope": 108
+            },
+            "female - Yellow (SR/SB)": {
+                "Rating": "70.10",
+                "Bogey": "99.40",
+                "Slope": 124
+            },
+            "female - Red (SR/SB)": {
+                "Rating": "68.00",
+                "Bogey": "93.70",
+                "Slope": 109
+            },
+            "male - Champ (SR/SB)": {
+                "Rating": "73.00",
+                "Bogey": "98.10",
+                "Slope": 135
+            },
+            "female - White (SR/SB)": {
+                "Rating": "74.80",
+                "Bogey": "106.70",
+                "Slope": 135
+            }
+        }
+    ],
+    "Sun Hills GC - 25403": [
+        {
+            "female - Red": {
+                "Rating": "69.00",
+                "Bogey": "97.40",
+                "Slope": 120
+            },
+            "male - White": {
+                "Rating": "68.30",
+                "Bogey": "90.00",
+                "Slope": 117
+            },
+            "male - Blue": {
+                "Rating": "70.40",
+                "Bogey": "93.20",
+                "Slope": 123
+            },
+            "female - Gold": {
+                "Rating": "70.90",
+                "Bogey": "101.10",
+                "Slope": 128
+            },
+            "male - Gold": {
+                "Rating": "65.90",
+                "Bogey": "87.20",
+                "Slope": 115
+            },
+            "female - White": {
+                "Rating": "73.40",
+                "Bogey": "104.90",
+                "Slope": 134
+            }
+        }
+    ],
+    "Sunset View GC - 25404": [
+        {
+            "female - Red": {
+                "Rating": "71.10",
+                "Bogey": "100.10",
+                "Slope": 123
+            },
+            "female - Yellow": {
+                "Rating": "74.20",
+                "Bogey": "104.80",
+                "Slope": 130
+            },
+            "female - White": {
+                "Rating": "76.80",
+                "Bogey": "108.70",
+                "Slope": 136
+            },
+            "male - White": {
+                "Rating": "70.70",
+                "Bogey": "93.40",
+                "Slope": 123
+            },
+            "male - Yellow": {
+                "Rating": "68.40",
+                "Bogey": "89.80",
+                "Slope": 116
+            },
+            "male - Blue": {
+                "Rating": "72.90",
+                "Bogey": "96.30",
+                "Slope": 126
+            },
+            "male - Red": {
+                "Rating": "65.20",
+                "Bogey": "85.40",
+                "Slope": 109
+            }
+        }
+    ],
+    "TalonsCove GC - 25406": [
+        {
+            "female - Silver": {
+                "Rating": "72.60",
+                "Bogey": "105.20",
+                "Slope": 138
+            },
+            "male - Gold": {
+                "Rating": "69.40",
+                "Bogey": "92.70",
+                "Slope": 126
+            },
+            "male - Black": {
+                "Rating": "72.70",
+                "Bogey": "97.40",
+                "Slope": 133
+            },
+            "male - Silver": {
+                "Rating": "67.50",
+                "Bogey": "89.10",
+                "Slope": 116
+            },
+            "male - White": {
+                "Rating": "63.90",
+                "Bogey": "83.50",
+                "Slope": 106
+            },
+            "female - White": {
+                "Rating": "68.40",
+                "Bogey": "97.60",
+                "Slope": 124
+            }
+        }
+    ],
+    "Thanksgiving Point GC - 25407": [
+        {
+            "male - White": {
+                "Rating": "69.90",
+                "Bogey": "93.10",
+                "Slope": 125
+            },
+            "male - Blue": {
+                "Rating": "72.00",
+                "Bogey": "95.90",
+                "Slope": 129
+            },
+            "female - Green": {
+                "Rating": "73.00",
+                "Bogey": "105.50",
+                "Slope": 138
+            },
+            "male - Green": {
+                "Rating": "67.00",
+                "Bogey": "89.50",
+                "Slope": 122
+            },
+            "female - White": {
+                "Rating": "75.80",
+                "Bogey": "109.70",
+                "Slope": 144
+            },
+            "male - Gold": {
+                "Rating": "74.30",
+                "Bogey": "99.00",
+                "Slope": 133
+            },
+            "male - Black": {
+                "Rating": "76.20",
+                "Bogey": "101.70",
+                "Slope": 138
+            }
+        }
+    ],
+    "The Barn GC - 25408": [
+        {
+            "female - White": {
+                "Rating": "72.30",
+                "Bogey": "102.50",
+                "Slope": 128
+            },
+            "male - Blue": {
+                "Rating": "69.10",
+                "Bogey": "90.30",
+                "Slope": 114
+            },
+            "female - Blue": {
+                "Rating": "74.10",
+                "Bogey": "105.20",
+                "Slope": 132
+            },
+            "male - White": {
+                "Rating": "67.70",
+                "Bogey": "88.50",
+                "Slope": 112
+            },
+            "female - Red": {
+                "Rating": "68.40",
+                "Bogey": "96.50",
+                "Slope": 120
+            },
+            "male - Red": {
+                "Rating": "63.60",
+                "Bogey": "83.90",
+                "Slope": 110
+            }
+        }
+    ],
+    "The Country Club - 25409": [
+        {
+            "female - White": {
+                "Rating": "75.20",
+                "Bogey": "108.70",
+                "Slope": 142
+            },
+            "male - Blue": {
+                "Rating": "72.90",
+                "Bogey": "98.10",
+                "Slope": 136
+            },
+            "male - White": {
+                "Rating": "69.70",
+                "Bogey": "93.90",
+                "Slope": 130
+            },
+            "male - Green": {
+                "Rating": "67.10",
+                "Bogey": "90.30",
+                "Slope": 125
+            },
+            "male - Black": {
+                "Rating": "75.10",
+                "Bogey": "101.10",
+                "Slope": 140
+            },
+            "male - Blue/Black Combo": {
+                "Rating": "74.20",
+                "Bogey": "99.80",
+                "Slope": 138
+            },
+            "female - Green": {
+                "Rating": "72.50",
+                "Bogey": "104.20",
+                "Slope": 135
+            },
+            "male - White/Blue Combo": {
+                "Rating": "70.80",
+                "Bogey": "95.40",
+                "Slope": 132
+            }
+        }
+    ],
+    "The Hideout GC - 25410": [
+        {
+            "male - Blue": {
+                "Rating": "69.70",
+                "Bogey": "93.60",
+                "Slope": 129
+            },
+            "female - Red": {
+                "Rating": "68.10",
+                "Bogey": "98.40",
+                "Slope": 129
+            },
+            "female - White": {
+                "Rating": "72.30",
+                "Bogey": "105.50",
+                "Slope": 141
+            },
+            "male - White": {
+                "Rating": "67.40",
+                "Bogey": "89.00",
+                "Slope": 116
+            },
+            "female - Blue": {
+                "Rating": "75.40",
+                "Bogey": "110.30",
+                "Slope": 148
+            },
+            "female - Gold": {
+                "Rating": "78.30",
+                "Bogey": "114.40",
+                "Slope": 153
+            },
+            "male - Red": {
+                "Rating": "63.40",
+                "Bogey": "84.20",
+                "Slope": 112
+            },
+            "male - Gold": {
+                "Rating": "71.90",
+                "Bogey": "97.10",
+                "Slope": 136
+            }
+        }
+    ],
+    "The Oaks at Spanish Fork - 25411": [
+        {
+            "male - Blue": {
+                "Rating": "71.20",
+                "Bogey": "95.20",
+                "Slope": 129
+            },
+            "male - White": {
+                "Rating": "68.10",
+                "Bogey": "89.90",
+                "Slope": 117
+            },
+            "male - Yellow": {
+                "Rating": "65.40",
+                "Bogey": "86.20",
+                "Slope": 112
+            },
+            "female - White": {
+                "Rating": "73.60",
+                "Bogey": "105.90",
+                "Slope": 137
+            },
+            "female - Yellow": {
+                "Rating": "70.50",
+                "Bogey": "99.90",
+                "Slope": 125
+            },
+            "female - Blue": {
+                "Rating": "77.60",
+                "Bogey": "111.80",
+                "Slope": 145
+            }
+        }
+    ],
+    "The Ranches GC - 25412": [
+        {
+            "female - Silver": {
+                "Rating": "73.60",
+                "Bogey": "106.60",
+                "Slope": 140
+            },
+            "male - Black": {
+                "Rating": "72.70",
+                "Bogey": "97.20",
+                "Slope": 132
+            },
+            "male - Green": {
+                "Rating": "70.80",
+                "Bogey": "94.20",
+                "Slope": 126
+            },
+            "male - Silver": {
+                "Rating": "67.90",
+                "Bogey": "90.20",
+                "Slope": 120
+            },
+            "male - Blue": {
+                "Rating": "64.60",
+                "Bogey": "84.60",
+                "Slope": 108
+            },
+            "female - Blue": {
+                "Rating": "69.30",
+                "Bogey": "99.40",
+                "Slope": 128
+            }
+        }
+    ],
+    "The Ridge GC - 25413": [
+        {
+            "male - Black": {
+                "Rating": "71.30",
+                "Bogey": "94.90",
+                "Slope": 127
+            },
+            "female - White": {
+                "Rating": "70.80",
+                "Bogey": "100.00",
+                "Slope": 124
+            },
+            "male - Blue": {
+                "Rating": "68.40",
+                "Bogey": "90.40",
+                "Slope": 119
+            },
+            "male - White": {
+                "Rating": "65.50",
+                "Bogey": "86.10",
+                "Slope": 111
+            },
+            "male - Red": {
+                "Rating": "62.70",
+                "Bogey": "82.10",
+                "Slope": 105
+            },
+            "female - Red": {
+                "Rating": "67.20",
+                "Bogey": "94.70",
+                "Slope": 117
+            }
+        }
+    ],
+    "Thunderbird GC - 25414": [
+        {
+            "female - White": {
+                "Rating": "60.60",
+                "Bogey": "82.00",
+                "Slope": 91
+            },
+            "male - Blue": {
+                "Rating": "59.60",
+                "Bogey": "77.00",
+                "Slope": 94
+            },
+            "male - White": {
+                "Rating": "59.00",
+                "Bogey": "75.60",
+                "Slope": 89
+            },
+            "female - Red": {
+                "Rating": "58.80",
+                "Bogey": "79.40",
+                "Slope": 87
+            }
+        }
+    ],
+    "Toads Golf Course - 25415": [
+        {
+            "male - Green": {
+                "Rating": "62.00",
+                "Bogey": "82.00",
+                "Slope": 108
+            },
+            "male - White": {
+                "Rating": "63.80",
+                "Bogey": "85.20",
+                "Slope": 115
+            },
+            "male - Blue": {
+                "Rating": "59.80",
+                "Bogey": "78.60",
+                "Slope": 101
+            },
+            "male - Yellow": {
+                "Rating": "57.00",
+                "Bogey": "75.20",
+                "Slope": 98
+            },
+            "female - Green": {
+                "Rating": "65.40",
+                "Bogey": "95.00",
+                "Slope": 126
+            },
+            "female - White": {
+                "Rating": "68.80",
+                "Bogey": "99.60",
+                "Slope": 131
+            },
+            "female - Blue": {
+                "Rating": "62.20",
+                "Bogey": "89.40",
+                "Slope": 115
+            },
+            "female - Yellow": {
+                "Rating": "59.20",
+                "Bogey": "81.20",
+                "Slope": 93
+            }
+        }
+    ],
+    "Talisker Club - 25416": [
+        {
+            "male - The Ridge": {
+                "Rating": "26.00",
+                "Bogey": "33.00",
+                "Slope": 75
+            },
+            "female - The Ridge": {
+                "Rating": "27.30",
+                "Bogey": "36.80",
+                "Slope": 81
+            }
+        }
+    ],
+    "Valley View GC - 25417": [
+        {
+            "male - Blue": {
+                "Rating": "71.50",
+                "Bogey": "95.40",
+                "Slope": 129
+            },
+            "male - White": {
+                "Rating": "69.80",
+                "Bogey": "92.40",
+                "Slope": 122
+            },
+            "male - Silver": {
+                "Rating": "66.90",
+                "Bogey": "89.00",
+                "Slope": 119
+            },
+            "female - Silver": {
+                "Rating": "72.40",
+                "Bogey": "102.90",
+                "Slope": 130
+            },
+            "female - Yellow": {
+                "Rating": "67.80",
+                "Bogey": "97.60",
+                "Slope": 127
+            },
+            "female - White": {
+                "Rating": "75.50",
+                "Bogey": "107.40",
+                "Slope": 136
+            },
+            "female - Blue": {
+                "Rating": "77.80",
+                "Bogey": "110.90",
+                "Slope": 141
+            },
+            "female - Black": {
+                "Rating": "80.60",
+                "Bogey": "115.10",
+                "Slope": 147
+            },
+            "male - Yellow": {
+                "Rating": "63.40",
+                "Bogey": "84.10",
+                "Slope": 112
+            },
+            "male - Black": {
+                "Rating": "73.70",
+                "Bogey": "98.50",
+                "Slope": 134
+            }
+        }
+    ],
+    "Victory Ranch GC - 25418": [
+        {
+            "female - Silver": {
+                "Rating": "71.00",
+                "Bogey": "102.30",
+                "Slope": 133
+            },
+            "male - Gold": {
+                "Rating": "74.00",
+                "Bogey": "100.20",
+                "Slope": 141
+            },
+            "male - Green": {
+                "Rating": "69.10",
+                "Bogey": "93.00",
+                "Slope": 129
+            },
+            "male - White": {
+                "Rating": "72.00",
+                "Bogey": "96.70",
+                "Slope": 133
+            },
+            "male - Green/White Combo": {
+                "Rating": "70.00",
+                "Bogey": "94.30",
+                "Slope": 131
+            },
+            "female - Green/White Combo": {
+                "Rating": "76.00",
+                "Bogey": "109.90",
+                "Slope": 144
+            },
+            "male - White/Gold Combo": {
+                "Rating": "72.90",
+                "Bogey": "97.90",
+                "Slope": 135
+            },
+            "male - Gold/Black Combo": {
+                "Rating": "74.80",
+                "Bogey": "101.40",
+                "Slope": 143
+            },
+            "female - Silver/Green Combo": {
+                "Rating": "73.20",
+                "Bogey": "105.60",
+                "Slope": 138
+            },
+            "male - Silver/Green Combo": {
+                "Rating": "67.40",
+                "Bogey": "90.50",
+                "Slope": 124
+            },
+            "male - Silver": {
+                "Rating": "65.70",
+                "Bogey": "87.40",
+                "Slope": 117
+            },
+            "female - Green": {
+                "Rating": "75.00",
+                "Bogey": "108.40",
+                "Slope": 142
+            },
+            "female - White": {
+                "Rating": "78.10",
+                "Bogey": "113.10",
+                "Slope": 149
+            },
+            "male - Black": {
+                "Rating": "75.90",
+                "Bogey": "102.90",
+                "Slope": 146
+            },
+            "male - Bronze": {
+                "Rating": "61.20",
+                "Bogey": "80.40",
+                "Slope": 103
+            },
+            "male - Bronze/Silver Combo": {
+                "Rating": "62.80",
+                "Bogey": "83.60",
+                "Slope": 112
+            },
+            "female - Bronze/Silver Combo": {
+                "Rating": "67.50",
+                "Bogey": "97.10",
+                "Slope": 126
+            },
+            "female - Bronze": {
+                "Rating": "64.60",
+                "Bogey": "92.10",
+                "Slope": 117
+            }
+        }
+    ],
+    "Wasatch Mountain GC - 25419": [
+        {
+            "female - White (Mtn)": {
+                "Rating": "71.70",
+                "Bogey": "102.60",
+                "Slope": 131
+            },
+            "male - White (Mtn)": {
+                "Rating": "66.70",
+                "Bogey": "88.70",
+                "Slope": 119
+            },
+            "male - Blue (Mtn)": {
+                "Rating": "69.50",
+                "Bogey": "93.10",
+                "Slope": 127
+            },
+            "female - Red (Mtn)": {
+                "Rating": "67.30",
+                "Bogey": "95.30",
+                "Slope": 119
+            },
+            "male - Red (Mtn)": {
+                "Rating": "62.90",
+                "Bogey": "83.20",
+                "Slope": 110
+            },
+            "male - Blue/White Combo (Mtn)": {
+                "Rating": "67.90",
+                "Bogey": "90.60",
+                "Slope": 122
+            },
+            "male - White/Red Combo (Mtn)": {
+                "Rating": "65.10",
+                "Bogey": "86.50",
+                "Slope": 115
+            },
+            "female - White/Red Combo (Mtn)": {
+                "Rating": "69.60",
+                "Bogey": "99.70",
+                "Slope": 128
+            }
+        }
+    ],
+    "Willow Creek CC - 25420": [
+        {
+            "male - Blue": {
+                "Rating": "71.10",
+                "Bogey": "96.40",
+                "Slope": 137
+            },
+            "male - White": {
+                "Rating": "69.10",
+                "Bogey": "92.70",
+                "Slope": 127
+            },
+            "male - Blue/White Combo": {
+                "Rating": "70.50",
+                "Bogey": "95.00",
+                "Slope": 132
+            },
+            "female - White": {
+                "Rating": "74.30",
+                "Bogey": "107.30",
+                "Slope": 140
+            },
+            "female - Green": {
+                "Rating": "71.30",
+                "Bogey": "102.50",
+                "Slope": 133
+            },
+            "male - Green": {
+                "Rating": "66.60",
+                "Bogey": "88.20",
+                "Slope": 116
+            },
+            "male - Black": {
+                "Rating": "73.50",
+                "Bogey": "99.80",
+                "Slope": 142
+            },
+            "female - Green/White Combo": {
+                "Rating": "73.20",
+                "Bogey": "105.50",
+                "Slope": 137
+            },
+            "male - White/Green Combo": {
+                "Rating": "68.10",
+                "Bogey": "90.90",
+                "Slope": 123
+            },
+            "male - Black/Blue Combo": {
+                "Rating": "72.40",
+                "Bogey": "98.20",
+                "Slope": 139
+            },
+            "female - Blue": {
+                "Rating": "77.10",
+                "Bogey": "111.60",
+                "Slope": 147
+            },
+            "female - Black": {
+                "Rating": "80.20",
+                "Bogey": "116.10",
+                "Slope": 151
+            },
+            "female - Black/Blue Combo": {
+                "Rating": "78.80",
+                "Bogey": "114.10",
+                "Slope": 149
+            },
+            "female - Blue/White Combo": {
+                "Rating": "75.90",
+                "Bogey": "109.70",
+                "Slope": 143
+            }
+        }
+    ],
+    "Wolf Creek GC - 25421": [
+        {
+            "male - White": {
+                "Rating": "69.60",
+                "Bogey": "94.30",
+                "Slope": 133
+            },
+            "male - Blue": {
+                "Rating": "70.80",
+                "Bogey": "96.10",
+                "Slope": 136
+            },
+            "male - Gold": {
+                "Rating": "72.90",
+                "Bogey": "98.70",
+                "Slope": 139
+            },
+            "male - Black": {
+                "Rating": "66.00",
+                "Bogey": "88.80",
+                "Slope": 123
+            },
+            "female - White": {
+                "Rating": "75.50",
+                "Bogey": "109.40",
+                "Slope": 144
+            },
+            "female - Black": {
+                "Rating": "71.30",
+                "Bogey": "103.20",
+                "Slope": 136
+            },
+            "female - Red": {
+                "Rating": "71.10",
+                "Bogey": "103.00",
+                "Slope": 136
+            }
+        }
+    ],
+    "Timpanogos GC - 26552": [
+        {
+            "male - Gold": {
+                "Rating": "73.20",
+                "Bogey": "98.20",
+                "Slope": 135
+            },
+            "male - Black": {
+                "Rating": "71.70",
+                "Bogey": "95.90",
+                "Slope": 130
+            },
+            "male - White": {
+                "Rating": "68.50",
+                "Bogey": "90.60",
+                "Slope": 119
+            },
+            "male - Green": {
+                "Rating": "64.30",
+                "Bogey": "84.80",
+                "Slope": 111
+            },
+            "female - Green": {
+                "Rating": "69.80",
+                "Bogey": "97.90",
+                "Slope": 120
+            },
+            "female - Red": {
+                "Rating": "64.50",
+                "Bogey": "90.20",
+                "Slope": 109
+            },
+            "female - White": {
+                "Rating": "74.00",
+                "Bogey": "106.10",
+                "Slope": 136
+            },
+            "male - Red": {
+                "Rating": "61.00",
+                "Bogey": "80.20",
+                "Slope": 103
+            },
+            "female - Black": {
+                "Rating": "77.60",
+                "Bogey": "111.60",
+                "Slope": 144
+            },
+            "female - Gold": {
+                "Rating": "79.60",
+                "Bogey": "114.30",
+                "Slope": 147
+            }
+        }
+    ],
+    "Cottonwood Country Club - 26553": [
+        {
+            "male - Green(Front)/White(Back)": {
+                "Rating": "52.30",
+                "Bogey": "66.70",
+                "Slope": 78
+            },
+            "female - Green(Front)/White(Back)": {
+                "Rating": "55.00",
+                "Bogey": "73.20",
+                "Slope": 77
+            },
+            "male - Green-White(Front)/White-Red(Back)": {
+                "Rating": "51.90",
+                "Bogey": "65.80",
+                "Slope": 75
+            },
+            "female - Green-White(Front)/White-Red(Back)": {
+                "Rating": "54.50",
+                "Bogey": "72.80",
+                "Slope": 78
+            }
+        }
+    ],
+    "Copper Rock - 26554": [
+        {
+            "male - Black": {
+                "Rating": "73.10",
+                "Bogey": "99.40",
+                "Slope": 141
+            },
+            "male - Gold": {
+                "Rating": "70.60",
+                "Bogey": "95.80",
+                "Slope": 138
+            },
+            "male - Silver": {
+                "Rating": "68.70",
+                "Bogey": "93.30",
+                "Slope": 132
+            },
+            "male - White": {
+                "Rating": "65.50",
+                "Bogey": "86.80",
+                "Slope": 115
+            },
+            "female - Silver": {
+                "Rating": "74.10",
+                "Bogey": "107.60",
+                "Slope": 142
+            },
+            "female - White": {
+                "Rating": "70.00",
+                "Bogey": "100.40",
+                "Slope": 129
+            },
+            "female - Gold": {
+                "Rating": "76.50",
+                "Bogey": "111.20",
+                "Slope": 147
+            },
+            "female - Black": {
+                "Rating": "79.30",
+                "Bogey": "115.40",
+                "Slope": 153
+            },
+            "female - Copper": {
+                "Rating": "82.50",
+                "Bogey": "120.30",
+                "Slope": 155
+            },
+            "male - Copper": {
+                "Rating": "75.80",
+                "Bogey": "102.90",
+                "Slope": 146
+            }
+        }
+    ],
+    "Black Desert Resort - 28224": [
+        {
+            "female - Red Cliffs": {
+                "Rating": "68.30",
+                "Bogey": "95.90",
+                "Slope": 117
+            },
+            "male - Snow Canyon": {
+                "Rating": "67.10",
+                "Bogey": "89.40",
+                "Slope": 120
+            },
+            "male - Red Cliffs": {
+                "Rating": "63.40",
+                "Bogey": "84.10",
+                "Slope": 112
+            },
+            "male - Black Desert": {
+                "Rating": "73.30",
+                "Bogey": "98.20",
+                "Slope": 134
+            },
+            "male - Weiskopf": {
+                "Rating": "71.20",
+                "Bogey": "94.90",
+                "Slope": 128
+            },
+            "female - Snow Canyon": {
+                "Rating": "72.60",
+                "Bogey": "103.50",
+                "Slope": 132
+            },
+            "male - Tournament": {
+                "Rating": "75.40",
+                "Bogey": "101.10",
+                "Slope": 139
+            },
+            "female - Tournament": {
+                "Rating": "82.30",
+                "Bogey": "117.90",
+                "Slope": 151
+            },
+            "female - Weiskopf": {
+                "Rating": "77.20",
+                "Bogey": "110.20",
+                "Slope": 140
+            },
+            "female - Black Desert": {
+                "Rating": "79.60",
+                "Bogey": "113.90",
+                "Slope": 146
+            },
+            "male - Combination (Weiskopf/Snow Canyon)": {
+                "Rating": "68.70",
+                "Bogey": "92.00",
+                "Slope": 126
+            },
+            "female - Combination (Weiskopf/Snow Canyon)": {
+                "Rating": "74.60",
+                "Bogey": "106.20",
+                "Slope": 134
+            }
+        }
+    ],
+    "Wohali - 28480": [
+        {
+            "male - Black/Blue Combo": {
+                "Rating": "74.10",
+                "Bogey": "102.00",
+                "Slope": 149
+            },
+            "male - Blue/White Combo": {
+                "Rating": "70.30",
+                "Bogey": "96.00",
+                "Slope": 138
+            },
+            "male - White/Yellow Combo": {
+                "Rating": "65.30",
+                "Bogey": "88.20",
+                "Slope": 124
+            },
+            "male - Blue": {
+                "Rating": "72.60",
+                "Bogey": "99.90",
+                "Slope": 147
+            },
+            "male - White": {
+                "Rating": "68.20",
+                "Bogey": "92.70",
+                "Slope": 132
+            },
+            "male - Black": {
+                "Rating": "75.40",
+                "Bogey": "103.80",
+                "Slope": 150
+            },
+            "male - Yellow": {
+                "Rating": "63.00",
+                "Bogey": "84.30",
+                "Slope": 115
+            },
+            "female - Yellow": {
+                "Rating": "66.70",
+                "Bogey": "95.60",
+                "Slope": 123
+            },
+            "female - White": {
+                "Rating": "73.60",
+                "Bogey": "109.60",
+                "Slope": 152
+            },
+            "female - Blue": {
+                "Rating": "78.40",
+                "Bogey": "116.80",
+                "Slope": 155
+            },
+            "female - White/Yellow Combo": {
+                "Rating": "69.60",
+                "Bogey": "102.10",
+                "Slope": 138
+            }
+        }
+    ],
+    "Wasatch Peaks - 28527": [
+        {
+            "male - Green": {
+                "Rating": "64.90",
+                "Bogey": "85.80",
+                "Slope": 113
+            },
+            "male - Blue": {
+                "Rating": "69.10",
+                "Bogey": "92.70",
+                "Slope": 127
+            },
+            "male - Black Diamond": {
+                "Rating": "71.50",
+                "Bogey": "98.30",
+                "Slope": 145
+            },
+            "male - Black Double Diamond": {
+                "Rating": "74.70",
+                "Bogey": "102.60",
+                "Slope": 150
+            },
+            "female - Green": {
+                "Rating": "69.00",
+                "Bogey": "98.90",
+                "Slope": 127
+            },
+            "female - Blue": {
+                "Rating": "73.90",
+                "Bogey": "108.80",
+                "Slope": 148
+            },
+            "female - Black Diamond": {
+                "Rating": "77.60",
+                "Bogey": "114.40",
+                "Slope": 153
+            },
+            "male - Green/Blue Combo": {
+                "Rating": "67.30",
+                "Bogey": "89.40",
+                "Slope": 119
+            },
+            "female - Green/Blue Combo": {
+                "Rating": "71.70",
+                "Bogey": "104.60",
+                "Slope": 140
+            },
+            "male - Blue/Black Diamond Combo": {
+                "Rating": "70.30",
+                "Bogey": "95.80",
+                "Slope": 137
+            },
+            "female - Blue/Black Diamond Combo": {
+                "Rating": "76.10",
+                "Bogey": "112.10",
+                "Slope": 151
+            },
+            "male - Black Diamond/Black Double Diamond Combo": {
+                "Rating": "72.70",
+                "Bogey": "100.00",
+                "Slope": 147
+            },
+            "female - Green W Nine-Hole (1-3,13-18)": {
+                "Rating": "32.30",
+                "Bogey": "46.80",
+                "Slope": 123
+            },
+            "female - Blue W Nine-Hole (1-3,13-18)": {
+                "Rating": "35.20",
+                "Bogey": "52.20",
+                "Slope": 144
+            },
+            "female - Black Diamond W Nine-Hole (1-3,13-18)": {
+                "Rating": "36.70",
+                "Bogey": "54.50",
+                "Slope": 151
+            },
+            "male - Green M Nine-Hole (1-3,13-18)": {
+                "Rating": "31.00",
+                "Bogey": "40.90",
+                "Slope": 107
+            },
+            "male - Blue M Nine-Hole (1-3,13-18)": {
+                "Rating": "33.00",
+                "Bogey": "44.60",
+                "Slope": 125
+            },
+            "male - Black Diamond M Nine-Hole (1-3,13-18)": {
+                "Rating": "34.20",
+                "Bogey": "47.30",
+                "Slope": 141
+            },
+            "male - Double Black Diamond M Nine-Hole (1-3,13-18)": {
+                "Rating": "35.60",
+                "Bogey": "49.30",
+                "Slope": 147
+            },
+            "male - The Peaks M Nine-Hole (1-3,13-18)": {
+                "Rating": "36.80",
+                "Bogey": "50.90",
+                "Slope": 152
+            },
+            "male - Ranch": {
+                "Rating": "73.40",
+                "Bogey": "101.00",
+                "Slope": 149
+            },
+            "male - The Ranch Tees": {
+                "Rating": "73.60",
+                "Bogey": "101.30",
+                "Slope": 149
+            },
+            "male - The Peaks": {
+                "Rating": "77.00",
+                "Bogey": "105.90",
+                "Slope": 153
+            }
+        }
+    ],
+    "ParOne at Skyridge - 28562": [
+        {
+            "male - Green": {
+                "Rating": "24.90",
+                "Bogey": "30.90",
+                "Slope": 65
+            },
+            "female - Green": {
+                "Rating": "26.20",
+                "Bogey": "34.10",
+                "Slope": 67
+            }
+        }
+    ]
+}
