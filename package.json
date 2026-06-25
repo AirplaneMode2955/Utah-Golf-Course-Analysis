@@ -1,0 +1,13 @@
+{
+  "name": "utah-golf-course-analysis",
+  "version": "1.0.0",
+  "description": "Utah Golf Course Analysis Dashboard",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static HTML project - no build needed'",
+    "dev": "python -m http.server 8000"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
